@@ -1,0 +1,4573 @@
+fileFormatVersion: 2
+guid: 6bc322d5e55fa45afa2eeee924d238dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7731696898097477645
+    second: Retro Impact Effect Pack 4 E_0
+  - first:
+      213: -7678985517451285383
+    second: Retro Impact Effect Pack 4 E_1
+  - first:
+      213: 2920518548885589125
+    second: Retro Impact Effect Pack 4 E_2
+  - first:
+      213: 1659243527492367079
+    second: Retro Impact Effect Pack 4 E_3
+  - first:
+      213: -6705674363726899914
+    second: Retro Impact Effect Pack 4 E_4
+  - first:
+      213: 5701173186593486959
+    second: Retro Impact Effect Pack 4 E_5
+  - first:
+      213: -4302205879243831894
+    second: Retro Impact Effect Pack 4 E_6
+  - first:
+      213: 1012088321003727091
+    second: Retro Impact Effect Pack 4 E_7
+  - first:
+      213: 2154081447076371625
+    second: Retro Impact Effect Pack 4 E_8
+  - first:
+      213: 4217287602604956948
+    second: Retro Impact Effect Pack 4 E_9
+  - first:
+      213: 5518943422214689843
+    second: Retro Impact Effect Pack 4 E_10
+  - first:
+      213: -2971045543845568645
+    second: Retro Impact Effect Pack 4 E_11
+  - first:
+      213: -5901696174953883725
+    second: Retro Impact Effect Pack 4 E_12
+  - first:
+      213: -1914640780985728848
+    second: Retro Impact Effect Pack 4 E_13
+  - first:
+      213: 1148573551991299448
+    second: Retro Impact Effect Pack 4 E_14
+  - first:
+      213: -6455688472813848301
+    second: Retro Impact Effect Pack 4 E_15
+  - first:
+      213: 3072466487647285032
+    second: Retro Impact Effect Pack 4 E_16
+  - first:
+      213: 8039748225824351349
+    second: Retro Impact Effect Pack 4 E_17
+  - first:
+      213: -1270575793175048364
+    second: Retro Impact Effect Pack 4 E_18
+  - first:
+      213: 1076168638386891005
+    second: Retro Impact Effect Pack 4 E_19
+  - first:
+      213: -6422208492698414711
+    second: Retro Impact Effect Pack 4 E_20
+  - first:
+      213: 5725682198234779607
+    second: Retro Impact Effect Pack 4 E_21
+  - first:
+      213: -3497713832018051526
+    second: Retro Impact Effect Pack 4 E_22
+  - first:
+      213: -5074479026365081196
+    second: Retro Impact Effect Pack 4 E_23
+  - first:
+      213: 1456426543170776273
+    second: Retro Impact Effect Pack 4 E_24
+  - first:
+      213: -776890263662008930
+    second: Retro Impact Effect Pack 4 E_25
+  - first:
+      213: -1726892668555649481
+    second: Retro Impact Effect Pack 4 E_26
+  - first:
+      213: 4786066916047345169
+    second: Retro Impact Effect Pack 4 E_27
+  - first:
+      213: -9038774624274372524
+    second: Retro Impact Effect Pack 4 E_28
+  - first:
+      213: -8083756687003018364
+    second: Retro Impact Effect Pack 4 E_29
+  - first:
+      213: -4650249836913687766
+    second: Retro Impact Effect Pack 4 E_30
+  - first:
+      213: 6898454097070824310
+    second: Retro Impact Effect Pack 4 E_31
+  - first:
+      213: -6278388189380099453
+    second: Retro Impact Effect Pack 4 E_32
+  - first:
+      213: 3284347370712884143
+    second: Retro Impact Effect Pack 4 E_33
+  - first:
+      213: 7678882155531866005
+    second: Retro Impact Effect Pack 4 E_34
+  - first:
+      213: -5460973610663811522
+    second: Retro Impact Effect Pack 4 E_35
+  - first:
+      213: -4211818677522223853
+    second: Retro Impact Effect Pack 4 E_36
+  - first:
+      213: -1063045623697221994
+    second: Retro Impact Effect Pack 4 E_37
+  - first:
+      213: 538109639849757005
+    second: Retro Impact Effect Pack 4 E_38
+  - first:
+      213: -5162563332621421844
+    second: Retro Impact Effect Pack 4 E_39
+  - first:
+      213: 2916021878577556470
+    second: Retro Impact Effect Pack 4 E_40
+  - first:
+      213: -9022834484815514574
+    second: Retro Impact Effect Pack 4 E_41
+  - first:
+      213: 5112610272513034091
+    second: Retro Impact Effect Pack 4 E_42
+  - first:
+      213: -3934937869732898846
+    second: Retro Impact Effect Pack 4 E_43
+  - first:
+      213: -2298807175088013194
+    second: Retro Impact Effect Pack 4 E_44
+  - first:
+      213: -652993466815347352
+    second: Retro Impact Effect Pack 4 E_45
+  - first:
+      213: -221864213365021653
+    second: Retro Impact Effect Pack 4 E_46
+  - first:
+      213: 3516745650518029256
+    second: Retro Impact Effect Pack 4 E_47
+  - first:
+      213: 6812912484440731086
+    second: Retro Impact Effect Pack 4 E_48
+  - first:
+      213: -2725748655459585431
+    second: Retro Impact Effect Pack 4 E_49
+  - first:
+      213: 106266706409618027
+    second: Retro Impact Effect Pack 4 E_50
+  - first:
+      213: -9062336655536629004
+    second: Retro Impact Effect Pack 4 E_51
+  - first:
+      213: 452379937705409416
+    second: Retro Impact Effect Pack 4 E_52
+  - first:
+      213: -1089492212232833891
+    second: Retro Impact Effect Pack 4 E_53
+  - first:
+      213: 2791720883162949703
+    second: Retro Impact Effect Pack 4 E_54
+  - first:
+      213: -8364236019272212420
+    second: Retro Impact Effect Pack 4 E_55
+  - first:
+      213: 1346068086410015468
+    second: Retro Impact Effect Pack 4 E_56
+  - first:
+      213: 1749183492091542541
+    second: Retro Impact Effect Pack 4 E_57
+  - first:
+      213: -8446637737368738603
+    second: Retro Impact Effect Pack 4 E_58
+  - first:
+      213: -1994804109109770057
+    second: Retro Impact Effect Pack 4 E_59
+  - first:
+      213: 698008963469472578
+    second: Retro Impact Effect Pack 4 E_60
+  - first:
+      213: -6550747155800292752
+    second: Retro Impact Effect Pack 4 E_61
+  - first:
+      213: -2996074167963871719
+    second: Retro Impact Effect Pack 4 E_62
+  - first:
+      213: 445005653851883022
+    second: Retro Impact Effect Pack 4 E_63
+  - first:
+      213: -5083562830971216481
+    second: Retro Impact Effect Pack 4 E_64
+  - first:
+      213: 7836614406663626737
+    second: Retro Impact Effect Pack 4 E_65
+  - first:
+      213: -3590115569753281958
+    second: Retro Impact Effect Pack 4 E_66
+  - first:
+      213: -7643145684212000526
+    second: Retro Impact Effect Pack 4 E_67
+  - first:
+      213: -613382361136870794
+    second: Retro Impact Effect Pack 4 E_68
+  - first:
+      213: 7718852728110685819
+    second: Retro Impact Effect Pack 4 E_69
+  - first:
+      213: 8162062921441285673
+    second: Retro Impact Effect Pack 4 E_70
+  - first:
+      213: -4380087670675197595
+    second: Retro Impact Effect Pack 4 E_71
+  - first:
+      213: 4346706807408274716
+    second: Retro Impact Effect Pack 4 E_72
+  - first:
+      213: 1118539727735244748
+    second: Retro Impact Effect Pack 4 E_73
+  - first:
+      213: -1819766706764388388
+    second: Retro Impact Effect Pack 4 E_74
+  - first:
+      213: -1170463048879634231
+    second: Retro Impact Effect Pack 4 E_75
+  - first:
+      213: 8034290964451790913
+    second: Retro Impact Effect Pack 4 E_76
+  - first:
+      213: -70862834702396871
+    second: Retro Impact Effect Pack 4 E_77
+  - first:
+      213: 6130079712445873419
+    second: Retro Impact Effect Pack 4 E_78
+  - first:
+      213: -4222632630970452526
+    second: Retro Impact Effect Pack 4 E_79
+  - first:
+      213: 7838218983057180094
+    second: Retro Impact Effect Pack 4 E_80
+  - first:
+      213: 1377143436988239978
+    second: Retro Impact Effect Pack 4 E_81
+  - first:
+      213: 5741388384354724820
+    second: Retro Impact Effect Pack 4 E_82
+  - first:
+      213: -4344741498927441128
+    second: Retro Impact Effect Pack 4 E_83
+  - first:
+      213: 8857387253245099482
+    second: Retro Impact Effect Pack 4 E_84
+  - first:
+      213: -1971923226984998673
+    second: Retro Impact Effect Pack 4 E_85
+  - first:
+      213: -6785755070586818700
+    second: Retro Impact Effect Pack 4 E_86
+  - first:
+      213: 7050015951548606075
+    second: Retro Impact Effect Pack 4 E_87
+  - first:
+      213: 228347469343385023
+    second: Retro Impact Effect Pack 4 E_88
+  - first:
+      213: 7546736451272210304
+    second: Retro Impact Effect Pack 4 E_89
+  - first:
+      213: -6469142329225108667
+    second: Retro Impact Effect Pack 4 E_90
+  - first:
+      213: 7972150427455292032
+    second: Retro Impact Effect Pack 4 E_91
+  - first:
+      213: 6925924260892299890
+    second: Retro Impact Effect Pack 4 E_92
+  - first:
+      213: 3750496288385229172
+    second: Retro Impact Effect Pack 4 E_93
+  - first:
+      213: -8221849336542142678
+    second: Retro Impact Effect Pack 4 E_94
+  - first:
+      213: 6832613534729250745
+    second: Retro Impact Effect Pack 4 E_95
+  - first:
+      213: 1393424787985318875
+    second: Retro Impact Effect Pack 4 E_96
+  - first:
+      213: 516785841837316491
+    second: Retro Impact Effect Pack 4 E_97
+  - first:
+      213: -1248361278980127849
+    second: Retro Impact Effect Pack 4 E_98
+  - first:
+      213: 8319674887457659720
+    second: Retro Impact Effect Pack 4 E_99
+  - first:
+      213: 7327975152313038344
+    second: Retro Impact Effect Pack 4 E_100
+  - first:
+      213: 6739372544893968433
+    second: Retro Impact Effect Pack 4 E_101
+  - first:
+      213: -4533531401812793988
+    second: Retro Impact Effect Pack 4 E_102
+  - first:
+      213: -8690668165008923394
+    second: Retro Impact Effect Pack 4 E_103
+  - first:
+      213: 5999380940463659931
+    second: Retro Impact Effect Pack 4 E_104
+  - first:
+      213: 6550140032704513806
+    second: Retro Impact Effect Pack 4 E_105
+  - first:
+      213: -8256374899971282853
+    second: Retro Impact Effect Pack 4 E_106
+  - first:
+      213: 3543251205239076182
+    second: Retro Impact Effect Pack 4 E_107
+  - first:
+      213: -2482774853015989046
+    second: Retro Impact Effect Pack 4 E_108
+  - first:
+      213: 1406707981560899877
+    second: Retro Impact Effect Pack 4 E_109
+  - first:
+      213: -1195832800381675939
+    second: Retro Impact Effect Pack 4 E_110
+  - first:
+      213: -1434811230338976568
+    second: Retro Impact Effect Pack 4 E_111
+  - first:
+      213: -8575809747828852469
+    second: Retro Impact Effect Pack 4 E_112
+  - first:
+      213: 3663203170492436861
+    second: Retro Impact Effect Pack 4 E_113
+  - first:
+      213: -299941790793409801
+    second: Retro Impact Effect Pack 4 E_114
+  - first:
+      213: -4789554598959639789
+    second: Retro Impact Effect Pack 4 E_115
+  - first:
+      213: 8616893707215209639
+    second: Retro Impact Effect Pack 4 E_116
+  - first:
+      213: 7286185730214529416
+    second: Retro Impact Effect Pack 4 E_117
+  - first:
+      213: 8562812496984892225
+    second: Retro Impact Effect Pack 4 E_118
+  - first:
+      213: 4186634702828220166
+    second: Retro Impact Effect Pack 4 E_119
+  - first:
+      213: 4418553325450026414
+    second: Retro Impact Effect Pack 4 E_120
+  - first:
+      213: 4141817940688683716
+    second: Retro Impact Effect Pack 4 E_121
+  - first:
+      213: -4832420051687517098
+    second: Retro Impact Effect Pack 4 E_122
+  - first:
+      213: -2250234935059307696
+    second: Retro Impact Effect Pack 4 E_123
+  - first:
+      213: 5781414757393206406
+    second: Retro Impact Effect Pack 4 E_124
+  - first:
+      213: -518394816531646929
+    second: Retro Impact Effect Pack 4 E_125
+  - first:
+      213: -6846791251691993462
+    second: Retro Impact Effect Pack 4 E_126
+  - first:
+      213: 7313058847400863885
+    second: Retro Impact Effect Pack 4 E_127
+  - first:
+      213: 4566465304254214577
+    second: Retro Impact Effect Pack 4 E_128
+  - first:
+      213: -2020197377637600218
+    second: Retro Impact Effect Pack 4 E_129
+  - first:
+      213: -2439994775512070697
+    second: Retro Impact Effect Pack 4 E_130
+  - first:
+      213: 1379268122679300373
+    second: Retro Impact Effect Pack 4 E_131
+  - first:
+      213: 7691051044542777342
+    second: Retro Impact Effect Pack 4 E_132
+  - first:
+      213: -4341397208361127464
+    second: Retro Impact Effect Pack 4 E_133
+  - first:
+      213: 4527957666832537625
+    second: Retro Impact Effect Pack 4 E_134
+  - first:
+      213: 6287490226693191869
+    second: Retro Impact Effect Pack 4 E_135
+  - first:
+      213: 2826833256820306379
+    second: Retro Impact Effect Pack 4 E_136
+  - first:
+      213: 2278949489060068761
+    second: Retro Impact Effect Pack 4 E_137
+  - first:
+      213: -1457080537676536414
+    second: Retro Impact Effect Pack 4 E_138
+  - first:
+      213: -1292697476634889797
+    second: Retro Impact Effect Pack 4 E_139
+  - first:
+      213: -3465089243981837560
+    second: Retro Impact Effect Pack 4 E_140
+  - first:
+      213: 2211634253060105042
+    second: Retro Impact Effect Pack 4 E_141
+  - first:
+      213: 1340927198751782117
+    second: Retro Impact Effect Pack 4 E_142
+  - first:
+      213: -8658878489740864652
+    second: Retro Impact Effect Pack 4 E_143
+  - first:
+      213: 2252021346826446340
+    second: Retro Impact Effect Pack 4 E_144
+  - first:
+      213: 4338880167984372691
+    second: Retro Impact Effect Pack 4 E_145
+  - first:
+      213: 7054940800605792530
+    second: Retro Impact Effect Pack 4 E_146
+  - first:
+      213: -2354230849146749868
+    second: Retro Impact Effect Pack 4 E_147
+  - first:
+      213: -870716951095291398
+    second: Retro Impact Effect Pack 4 E_148
+  - first:
+      213: 6264709769362396551
+    second: Retro Impact Effect Pack 4 E_149
+  - first:
+      213: -2453088324044422765
+    second: Retro Impact Effect Pack 4 E_150
+  - first:
+      213: 5881574012548485409
+    second: Retro Impact Effect Pack 4 E_151
+  - first:
+      213: -8603535663787733711
+    second: Retro Impact Effect Pack 4 E_152
+  - first:
+      213: -3025535749599306195
+    second: Retro Impact Effect Pack 4 E_153
+  - first:
+      213: -5147117049600193809
+    second: Retro Impact Effect Pack 4 E_154
+  - first:
+      213: -1984841229075246749
+    second: Retro Impact Effect Pack 4 E_155
+  - first:
+      213: -6948565971626734043
+    second: Retro Impact Effect Pack 4 E_156
+  - first:
+      213: 8262840233878312554
+    second: Retro Impact Effect Pack 4 E_157
+  - first:
+      213: 8850163238054363181
+    second: Retro Impact Effect Pack 4 E_158
+  - first:
+      213: -4420964504002345765
+    second: Retro Impact Effect Pack 4 E_159
+  - first:
+      213: 1111061674964221030
+    second: Retro Impact Effect Pack 4 E_160
+  - first:
+      213: 6096379509405307338
+    second: Retro Impact Effect Pack 4 E_161
+  - first:
+      213: -7224687027283899912
+    second: Retro Impact Effect Pack 4 E_162
+  - first:
+      213: 53197405573694788
+    second: Retro Impact Effect Pack 4 E_163
+  - first:
+      213: 337844822058444732
+    second: Retro Impact Effect Pack 4 E_164
+  - first:
+      213: -4529865038118075033
+    second: Retro Impact Effect Pack 4 E_165
+  - first:
+      213: -8511391262378115561
+    second: Retro Impact Effect Pack 4 E_166
+  - first:
+      213: -6180960084494699461
+    second: Retro Impact Effect Pack 4 E_167
+  - first:
+      213: -2528037222950278841
+    second: Retro Impact Effect Pack 4 E_168
+  - first:
+      213: 8349722347397676127
+    second: Retro Impact Effect Pack 4 E_169
+  - first:
+      213: 9007380687321519137
+    second: Retro Impact Effect Pack 4 E_170
+  - first:
+      213: -1360235533111967648
+    second: Retro Impact Effect Pack 4 E_171
+  - first:
+      213: -3481288210272125013
+    second: Retro Impact Effect Pack 4 E_172
+  - first:
+      213: -3942837322614036769
+    second: Retro Impact Effect Pack 4 E_173
+  - first:
+      213: -4638572460027973634
+    second: Retro Impact Effect Pack 4 E_174
+  - first:
+      213: -2596079737138757304
+    second: Retro Impact Effect Pack 4 E_175
+  - first:
+      213: -4007268251999830408
+    second: Retro Impact Effect Pack 4 E_176
+  - first:
+      213: -5341839875828774897
+    second: Retro Impact Effect Pack 4 E_177
+  - first:
+      213: -3591248518246148250
+    second: Retro Impact Effect Pack 4 E_178
+  - first:
+      213: 8484694519493782721
+    second: Retro Impact Effect Pack 4 E_179
+  - first:
+      213: 6425927384754005674
+    second: Retro Impact Effect Pack 4 E_180
+  - first:
+      213: -8170232361868798787
+    second: Retro Impact Effect Pack 4 E_181
+  - first:
+      213: -8670161174870225101
+    second: Retro Impact Effect Pack 4 E_182
+  - first:
+      213: -4039458372635025831
+    second: Retro Impact Effect Pack 4 E_183
+  - first:
+      213: 2587058384434945862
+    second: Retro Impact Effect Pack 4 E_184
+  - first:
+      213: -953341554859931840
+    second: Retro Impact Effect Pack 4 E_185
+  - first:
+      213: -5922874923021025105
+    second: Retro Impact Effect Pack 4 E_186
+  - first:
+      213: -3294409168277401998
+    second: Retro Impact Effect Pack 4 E_187
+  - first:
+      213: 3135753491204005255
+    second: Retro Impact Effect Pack 4 E_188
+  - first:
+      213: 8629308342055157156
+    second: Retro Impact Effect Pack 4 E_189
+  - first:
+      213: -909757230265342405
+    second: Retro Impact Effect Pack 4 E_190
+  - first:
+      213: -9065582832595627437
+    second: Retro Impact Effect Pack 4 E_191
+  - first:
+      213: -6742332450426909439
+    second: Retro Impact Effect Pack 4 E_192
+  - first:
+      213: -7771464438168060870
+    second: Retro Impact Effect Pack 4 E_193
+  - first:
+      213: 5667225250596716847
+    second: Retro Impact Effect Pack 4 E_194
+  - first:
+      213: -3915297112106783397
+    second: Retro Impact Effect Pack 4 E_195
+  - first:
+      213: -8776170252656700403
+    second: Retro Impact Effect Pack 4 E_196
+  - first:
+      213: -6326420126309770874
+    second: Retro Impact Effect Pack 4 E_197
+  - first:
+      213: -5544231437569890439
+    second: Retro Impact Effect Pack 4 E_198
+  - first:
+      213: 489377260735885671
+    second: Retro Impact Effect Pack 4 E_199
+  - first:
+      213: -7987169102059019581
+    second: Retro Impact Effect Pack 4 E_200
+  - first:
+      213: -744932654646483759
+    second: Retro Impact Effect Pack 4 E_201
+  - first:
+      213: -3043340929745494367
+    second: Retro Impact Effect Pack 4 E_202
+  - first:
+      213: -5364486182881902908
+    second: Retro Impact Effect Pack 4 E_203
+  - first:
+      213: 4711480175094302585
+    second: Retro Impact Effect Pack 4 E_204
+  - first:
+      213: -8636608373289030377
+    second: Retro Impact Effect Pack 4 E_205
+  - first:
+      213: -4498864753688270419
+    second: Retro Impact Effect Pack 4 E_206
+  - first:
+      213: 7392244893481381088
+    second: Retro Impact Effect Pack 4 E_207
+  - first:
+      213: 3799761699814456149
+    second: Retro Impact Effect Pack 4 E_208
+  - first:
+      213: -8926157565189901795
+    second: Retro Impact Effect Pack 4 E_209
+  - first:
+      213: -2743617880795896760
+    second: Retro Impact Effect Pack 4 E_210
+  - first:
+      213: -7765879307311918560
+    second: Retro Impact Effect Pack 4 E_211
+  - first:
+      213: -3437201576908325075
+    second: Retro Impact Effect Pack 4 E_212
+  - first:
+      213: -927804830401582691
+    second: Retro Impact Effect Pack 4 E_213
+  - first:
+      213: 4788274954477304829
+    second: Retro Impact Effect Pack 4 E_214
+  - first:
+      213: -6662528185129889246
+    second: Retro Impact Effect Pack 4 E_215
+  - first:
+      213: -4976401588193511378
+    second: Retro Impact Effect Pack 4 E_216
+  - first:
+      213: 2954554645094368036
+    second: Retro Impact Effect Pack 4 E_217
+  - first:
+      213: -7610564969514428517
+    second: Retro Impact Effect Pack 4 E_218
+  - first:
+      213: -2187260422452834599
+    second: Retro Impact Effect Pack 4 E_219
+  - first:
+      213: -559913952345140072
+    second: Retro Impact Effect Pack 4 E_220
+  - first:
+      213: -5070529513633678924
+    second: Retro Impact Effect Pack 4 E_221
+  - first:
+      213: 2722294209259208828
+    second: Retro Impact Effect Pack 4 E_222
+  - first:
+      213: 2199923978838647241
+    second: Retro Impact Effect Pack 4 E_223
+  - first:
+      213: 3224213614553013000
+    second: Retro Impact Effect Pack 4 E_224
+  - first:
+      213: 4048222417961625542
+    second: Retro Impact Effect Pack 4 E_225
+  - first:
+      213: 2001992724609620403
+    second: Retro Impact Effect Pack 4 E_226
+  - first:
+      213: 5533310182703263914
+    second: Retro Impact Effect Pack 4 E_227
+  - first:
+      213: 7801531654488903510
+    second: Retro Impact Effect Pack 4 E_228
+  - first:
+      213: 8809141835937638803
+    second: Retro Impact Effect Pack 4 E_229
+  - first:
+      213: -6195689690342984130
+    second: Retro Impact Effect Pack 4 E_230
+  - first:
+      213: 4388148706487604565
+    second: Retro Impact Effect Pack 4 E_231
+  - first:
+      213: -5699105864239798026
+    second: Retro Impact Effect Pack 4 E_232
+  - first:
+      213: -6922320392814756545
+    second: Retro Impact Effect Pack 4 E_233
+  - first:
+      213: -4663759451839487779
+    second: Retro Impact Effect Pack 4 E_234
+  - first:
+      213: -3910809623061551421
+    second: Retro Impact Effect Pack 4 E_235
+  - first:
+      213: -4979725383269807268
+    second: Retro Impact Effect Pack 4 E_236
+  - first:
+      213: -3722413414812590186
+    second: Retro Impact Effect Pack 4 E_237
+  - first:
+      213: 2495061544172729472
+    second: Retro Impact Effect Pack 4 E_238
+  - first:
+      213: 8849956892830362756
+    second: Retro Impact Effect Pack 4 E_239
+  - first:
+      213: -3447699197080068071
+    second: Retro Impact Effect Pack 4 E_240
+  - first:
+      213: 4158220743133292983
+    second: Retro Impact Effect Pack 4 E_241
+  - first:
+      213: -6240345197811230237
+    second: Retro Impact Effect Pack 4 E_242
+  - first:
+      213: 6383136080435766616
+    second: Retro Impact Effect Pack 4 E_243
+  - first:
+      213: 8497352662406960607
+    second: Retro Impact Effect Pack 4 E_244
+  - first:
+      213: -3676273553691511781
+    second: Retro Impact Effect Pack 4 E_245
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleport cloud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d9e1684b179480496cdec86d7f8c36
+      internalID: -674270488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ce7cf0466e42ec8e5fde08babecb5
+      internalID: 269297712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3d81ddc26f47f2a431ad2c6fb753c
+      internalID: -1797637420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10f4853a796149e1b0b87b357161e03
+      internalID: 224336406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d82bbbd7d1428d8a09ec7aeec23bd
+      internalID: -1530880953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a74662ec3e4b6bbb46f9b9737081f
+      internalID: 256282937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a521f9d2e7a41478086b0d2aa1ac02
+      internalID: 128384664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf6f37318494fab86854461167ac33
+      internalID: -1349478900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb679de9d3845dda7c885c265e4b9c
+      internalID: -891136073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36eb0b7db9e8446da358191e80e99a1
+      internalID: -1588179240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105915a2106ca42acac397c9533e8b85
+      internalID: 447766213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e6b0c2411f4009b8007e768567a59
+      internalID: 1658659639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef1315e07d242e999b2fe91632b565
+      internalID: 1470139346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef725f461f4b4a099f22634105d485e
+      internalID: -1070886411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5678bf1a814e4eb9c6e547ad61c92
+      internalID: -1658931830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde200bb6fba549a4a02c41c9f1c0bd0
+      internalID: 1551723650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c67129f7574f3d8f056c234e49375
+      internalID: -624502020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d321f333343143188974a718ad0c27e
+      internalID: 1398783268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c606b57e6e45bdb80fee96c76c091
+      internalID: 724825013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f63f338bcfc4ae384519e46798ae70
+      internalID: 50235931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b9f49d8c584b06a851ee41573a37d
+      internalID: 660479234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a90ad831d8f46ebae1fd8e2aaf3687
+      internalID: -848304932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528be9ad1c96d481e85b8508da775563
+      internalID: 1894259067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40b1eff13994326a19d46de27c8539
+      internalID: 1016664291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e9a554008c419b8ef8e5e3dc5cf9d
+      internalID: -1770434558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb341acf3854c93b802e0374862b06
+      internalID: -1515797027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469f10960f384e7faa0e3d0c5256347
+      internalID: -520058874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca76068bcbb74a3684ec8fffe178edf
+      internalID: 288288411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe68a44b98b34ff79d20b42465c2f52
+      internalID: 1886524264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7181acb14ac40babcec12b12283c4c
+      internalID: -1746681086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68dca0f30fa148b7b754626517e5298
+      internalID: 1022980954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a729d1a2e3054c18b8de22fe8ad9e29
+      internalID: 1453379313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d55d9e55efd46dcb31f8be85e7f7b7
+      internalID: 1162802698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a53fbea461c946a0b670268738dbd73
+      internalID: -1373289027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b239eb08d545ecaf6ded60c604e98
+      internalID: -931739022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016c5e44e36b464b859d3673b3ecb69
+      internalID: 1078424103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ad5e9a8cd9463f80bf3e674991720
+      internalID: 424494024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb1975afa7c485cae0a98fc19e7005
+      internalID: -1739209801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68855b477af54919a19e88f9b9c69da
+      internalID: 1352061025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e090fca2beb4d47f4afa860ffc6d692d
+      internalID: 378268598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f90af67b7b8f4aeeafce096b65e69f2
+      internalID: 223256190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d8b8e53041479397ea79ee74274e8
+      internalID: -1089049395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f3ffbc93324a7188933ac2b55c4d5
+      internalID: 1298976079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7b5a2945624cd1a63d7f183eb71d0
+      internalID: -1006213136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a630700edbd2a40619b23b68a9839890
+      internalID: 500964032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1d28d56c6247e0ab5226ad0207ea6
+      internalID: -1558025553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a09c981ae84e7bb5f98fadd51d2e5
+      internalID: 1482446969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095cbb79a0f84d13bf89b29275c306a
+      internalID: -983076460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562345e297014fb790633233dfd89e3
+      internalID: 590866424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92682e75c791a4d89bffc9dbd879e715
+      internalID: 1125204081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb5e8898a32b4bd6b4044a3514b4e83
+      internalID: 369105939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47d0f5bfd4d043979efc45e847d0e20
+      internalID: -653778083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0395ab6ef0bb4d6aab20aa1c3fea26b
+      internalID: 853687959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5680b7c3dfb475ca59eb107d7ad772
+      internalID: -45159959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26e25808a015476e91c5ec6e72707ae
+      internalID: -200692846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e1f3fb54e0425c84d40e73f9fbc1f
+      internalID: -209195477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4857eee797254b9ea65dd53b9abe12f
+      internalID: 1195380787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10bd2e6f9ad049f699744a45c2f7223
+      internalID: 2114975090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5f029dd2de4989a329c210345e7f5
+      internalID: -1223270564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34032ce07984713935c93e24f712e4
+      internalID: 1374596726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d50c312503478a9d7c5f62f006d30
+      internalID: -861439439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d704381726a4d8385c7b376f786ede
+      internalID: 22412243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda9da3983ed4dd097f48d54fbead34
+      internalID: -428117426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e85bc479654e7ba11bd2133d4a4ff
+      internalID: 647470186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8eac84e1e149e7a8060e1a2b86000
+      internalID: 1898008997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4492d5c967d1c4ed6add0d8a53a0b1ad
+      internalID: -1006009159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda49af6ad0841369c7eb5cb6dba639
+      internalID: -1825855721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4d3523a6b94624b8d56b658b345b6
+      internalID: -873233675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e369c7e898694f1f87b570b16c75748
+      internalID: -703588464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3217cce8922ce45d2926fa148a99b403
+      internalID: -1323196772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e968563f7982448485328b387ea9872
+      internalID: 1375988089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f5351ff7bb4e5699a6356dde35e77
+      internalID: -1389438559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df5aa4b566fe429492a18f628e7a1ae
+      internalID: -2058105114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fb9bdb43ae44e899901b2a8c680ecb
+      internalID: -643037487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23379ffe04fd04a2aa89339a974384ad
+      internalID: -548179023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d4b7a7dca142a796559ef4157f0da
+      internalID: 1841604244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc869ba9dea40422fa9377f57bba89f6
+      internalID: 1391435858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec728ca91e7684d498e462ff30333dca
+      internalID: 2037233465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b757427620224bdabcac023f54b265d
+      internalID: 1873255755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c96159b7e3514f30aaab7f7a1771461
+      internalID: 724067711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4beb8b0e2534788ae8b0dc2a8756f8
+      internalID: -627546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a9fe48ed5354492bfbbd6c2f1734be
+      internalID: 225830638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6a303100be49cab97e53ad08ae6fa
+      internalID: 1356230874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97fafd1a8aee407f8ca6d784cbddb9c
+      internalID: 324209670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975964d1a5d846f6a4c3961a4bfc94c
+      internalID: -672178061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e87b0e25274adabbc2d3f1b9f1595
+      internalID: -1592038670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc965564e5eb46a2a9a4bdc07c24adf
+      internalID: -211688664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7994f9578a43feb5dbd3baba5190e
+      internalID: 1175412675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9af97ca79045a6820df02772f58bd
+      internalID: -1107727955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d325a653732d456181b42a300f301eb
+      internalID: 822620456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f42db9d77945cda418360d03e2a7a
+      internalID: 422465550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e0dcffffee466db1562c2d9786126
+      internalID: -217997859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbac21b2b7ba4e55992e28b7dc1c741
+      internalID: -983925681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032cd8c53b664deebdcbc00814e155c
+      internalID: -587885558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6acb5bcad1d94e1da3758e0442adaf0
+      internalID: -1684809048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd969f80fd40749d998216e5bd5de501
+      internalID: 2065147418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3340effdfb45d6ae8d82563c5282d
+      internalID: -1838939466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd6b77e6c3f449780c7941cf547086
+      internalID: 373120209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad00667779e447948bba7bab46220da
+      internalID: 1361271044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e364433e984fcf91d5971b68f5e47
+      internalID: 2055122079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdf19678be6d4130966caefc0cf701a
+      internalID: -425076385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ea3a638e8448c4b3d11c7d4ebe0ab
+      internalID: -1163171129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567dc4f77ac454907ba025d705db66f8
+      internalID: -1486417547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdafcefab3b754252838dbf0ec47f54d
+      internalID: -394792432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008bd30143d04bdba601f902e21e67c
+      internalID: 306406598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b72c4c833d4627bab49549f5d5c29
+      internalID: 1665635421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b912a99b0714e598de8d42aac67066
+      internalID: -863754152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf89fc04284c47e6ae9148328dab80a
+      internalID: -1329159345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099a3ddb7f1494a0d8b2d578e9f64701
+      internalID: -579337888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d341158176e457ba90c4cc6a37cce5
+      internalID: 1251804586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ec7e831627e4d7c95c7efd2b742a6a
+      internalID: 796831006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a70eeafdd8244d2b86d83d05941c4f
+      internalID: 1244490644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04c671b1df9464d8cce57d936a159c
+      internalID: 2085901176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67e3040bf1f416bb24972922d16043
+      internalID: 742922589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3187da7b7373444aa6bd5e9736e8c7f
+      internalID: 2058122980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517e98b1d3934a8fa2d0a0c5d7fd38c
+      internalID: -1224565702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41fa04734684dd9b81fba4f14e98e9
+      internalID: 1787801840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c2fe2630294cc08db17c84953e8af
+      internalID: 537692271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c2ab415fb34541921f9ddfefb68af
+      internalID: -1473397911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbe2db09a94446ffaf9d6ef06187c3c
+      internalID: -440831567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4886c708a5c4127b6796a8edb2726c
+      internalID: 312064292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035889214f884b6e9887a452d73df01
+      internalID: -1991747576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d709e4569cfb945bf9add6113c4faaf3
+      internalID: -1299125696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb68c8e8892041faa451b6efa8f77d6
+      internalID: -1493693326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb35c42ad2e45b599fae34d601ebc7
+      internalID: 1546582431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee1e9cc1f9146948e8734d088da8de
+      internalID: -269766419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de244faf0fb874bad906772328eab575
+      internalID: -1639814822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc520b0d415e48d88d509865effe3f0
+      internalID: 1931325631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4414c99b371748da879bc7363d81c59
+      internalID: 1795364273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5726e3f22442f2ab8ed6f3d58bb55
+      internalID: 1891092564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182d1be54b5542ec98016f6acdffabe
+      internalID: -1855052386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0f05c2f7d7447aaa797babd7cc3ceb
+      internalID: -1792224377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d9534855f74389aadb313d7b5904d
+      internalID: -1210932167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346036d7ac774deb8ae7061f3a44268
+      internalID: -135676821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a22437f63dd4d68ac737cb924da5e0
+      internalID: -1080620194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bb647878e8400f8ab6f22ec813515
+      internalID: -1802873546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db253521d80f245da97fbc2b7442f5d8
+      internalID: 407958977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc6b9fbfbfc40f89ef82b305b14799
+      internalID: -270591963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7368424e53444d7789a701b3654cedb
+      internalID: -1811493041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ad434b4a9140169c01c51e25ceb21
+      internalID: 617202629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da16bf9df7784728af142ee5bf8d61d
+      internalID: 912210187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8c9be1e3d34f6eaed6c014f87b1ed
+      internalID: -678961685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7913e240174fbea2e1fdf93b492dc
+      internalID: 1716012759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d635968d592d42de961e2025d45b954
+      internalID: 1419989017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faee69cf1e0104f33b1964132747a7db
+      internalID: 1157651175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad3075f714a24fa097e6196d60489cd
+      internalID: 1397022812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6de82eff0943afac4a01b7f61315c
+      internalID: -1758451066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6575bf012ad4e27a3ab2f011a059a2
+      internalID: -75371716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59f6b3f5b4c4925ba76c855e39f9c5
+      internalID: 1327576487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d552721209bd48da86e7c29ccdf1aa2
+      internalID: 1072754134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d70c27638a7451a8b7df95dc9df482
+      internalID: 1679957451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12175f56ed1e45bdbee90247520b6bd
+      internalID: -1813572846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_152
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f60ce85820e4220882d15d0acfed09
+      internalID: 967106454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564609fc6f9eb4afa810577f1f522086
+      internalID: -1649689188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec7cb1511f8c4935a638ad503d67d7d
+      internalID: -1083151529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab777d8382e4420c895b867ca15cc1c
+      internalID: 549346374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a41d0dbacb9463d83918dae575002e
+      internalID: 1317403525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100248134faa7441c85d46abf091d265
+      internalID: -1455535206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334eb106d739f4da8b22a3a353ff5529
+      internalID: -53301465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d0c692f8954c58b4a369f25094f2f
+      internalID: 948591885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport cloud_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3937d80158dd42c387263c4a2b3205f
+      internalID: -1535600040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1825340efcaee4c0dbde9a93c194e666
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      teleport cloud_0: -674270488
+      teleport cloud_1: 269297712
+      teleport cloud_10: 447766213
+      teleport cloud_100: -425076385
+      teleport cloud_101: -1163171129
+      teleport cloud_102: -1486417547
+      teleport cloud_103: -394792432
+      teleport cloud_104: 306406598
+      teleport cloud_105: 1665635421
+      teleport cloud_106: -863754152
+      teleport cloud_107: -1329159345
+      teleport cloud_108: -579337888
+      teleport cloud_109: 1251804586
+      teleport cloud_11: 1658659639
+      teleport cloud_110: 796831006
+      teleport cloud_111: 1244490644
+      teleport cloud_112: 2085901176
+      teleport cloud_113: 742922589
+      teleport cloud_114: 2058122980
+      teleport cloud_115: -1224565702
+      teleport cloud_116: 1787801840
+      teleport cloud_117: 537692271
+      teleport cloud_118: -1473397911
+      teleport cloud_119: -440831567
+      teleport cloud_12: 1470139346
+      teleport cloud_120: 312064292
+      teleport cloud_121: -1991747576
+      teleport cloud_122: -1299125696
+      teleport cloud_123: -1493693326
+      teleport cloud_124: 1546582431
+      teleport cloud_125: -269766419
+      teleport cloud_126: -1639814822
+      teleport cloud_127: 1931325631
+      teleport cloud_128: 1795364273
+      teleport cloud_129: 1891092564
+      teleport cloud_13: -1070886411
+      teleport cloud_130: -1855052386
+      teleport cloud_131: -1792224377
+      teleport cloud_132: -1210932167
+      teleport cloud_133: -135676821
+      teleport cloud_134: -1080620194
+      teleport cloud_135: -1802873546
+      teleport cloud_136: 407958977
+      teleport cloud_137: -270591963
+      teleport cloud_138: -1811493041
+      teleport cloud_139: 617202629
+      teleport cloud_14: -1658931830
+      teleport cloud_140: 912210187
+      teleport cloud_141: -678961685
+      teleport cloud_142: 1716012759
+      teleport cloud_143: 1419989017
+      teleport cloud_144: 1157651175
+      teleport cloud_145: 1397022812
+      teleport cloud_146: -1758451066
+      teleport cloud_147: -75371716
+      teleport cloud_148: 1327576487
+      teleport cloud_149: 1072754134
+      teleport cloud_15: 1551723650
+      teleport cloud_150: 1679957451
+      teleport cloud_151: -1813572846
+      teleport cloud_152: 967106454
+      teleport cloud_153: -1649689188
+      teleport cloud_154: -1083151529
+      teleport cloud_155: 549346374
+      teleport cloud_156: 1317403525
+      teleport cloud_157: -1455535206
+      teleport cloud_158: -53301465
+      teleport cloud_159: 948591885
+      teleport cloud_16: -624502020
+      teleport cloud_160: -1535600040
+      teleport cloud_17: 1398783268
+      teleport cloud_18: 724825013
+      teleport cloud_19: 50235931
+      teleport cloud_2: -1797637420
+      teleport cloud_20: 660479234
+      teleport cloud_21: -848304932
+      teleport cloud_22: 1894259067
+      teleport cloud_23: 1016664291
+      teleport cloud_24: -1770434558
+      teleport cloud_25: -1515797027
+      teleport cloud_26: -520058874
+      teleport cloud_27: 288288411
+      teleport cloud_28: 1886524264
+      teleport cloud_29: -1746681086
+      teleport cloud_3: 224336406
+      teleport cloud_30: 1022980954
+      teleport cloud_31: 1453379313
+      teleport cloud_32: 1162802698
+      teleport cloud_33: -1373289027
+      teleport cloud_34: -931739022
+      teleport cloud_35: 1078424103
+      teleport cloud_36: 424494024
+      teleport cloud_37: -1739209801
+      teleport cloud_38: 1352061025
+      teleport cloud_39: 378268598
+      teleport cloud_4: -1530880953
+      teleport cloud_40: 223256190
+      teleport cloud_41: -1089049395
+      teleport cloud_42: 1298976079
+      teleport cloud_43: -1006213136
+      teleport cloud_44: 500964032
+      teleport cloud_45: -1558025553
+      teleport cloud_46: 1482446969
+      teleport cloud_47: -983076460
+      teleport cloud_48: 590866424
+      teleport cloud_49: 1125204081
+      teleport cloud_5: 256282937
+      teleport cloud_50: 369105939
+      teleport cloud_51: -653778083
+      teleport cloud_52: 853687959
+      teleport cloud_53: -45159959
+      teleport cloud_54: -200692846
+      teleport cloud_55: -209195477
+      teleport cloud_56: 1195380787
+      teleport cloud_57: 2114975090
+      teleport cloud_58: -1223270564
+      teleport cloud_59: 1374596726
+      teleport cloud_6: 128384664
+      teleport cloud_60: -861439439
+      teleport cloud_61: 22412243
+      teleport cloud_62: -428117426
+      teleport cloud_63: 647470186
+      teleport cloud_64: 1898008997
+      teleport cloud_65: -1006009159
+      teleport cloud_66: -1825855721
+      teleport cloud_67: -873233675
+      teleport cloud_68: -703588464
+      teleport cloud_69: -1323196772
+      teleport cloud_7: -1349478900
+      teleport cloud_70: 1375988089
+      teleport cloud_71: -1389438559
+      teleport cloud_72: -2058105114
+      teleport cloud_73: -643037487
+      teleport cloud_74: -548179023
+      teleport cloud_75: 1841604244
+      teleport cloud_76: 1391435858
+      teleport cloud_77: 2037233465
+      teleport cloud_78: 1873255755
+      teleport cloud_79: 724067711
+      teleport cloud_8: -891136073
+      teleport cloud_80: -627546569
+      teleport cloud_81: 225830638
+      teleport cloud_82: 1356230874
+      teleport cloud_83: 324209670
+      teleport cloud_84: -672178061
+      teleport cloud_85: -1592038670
+      teleport cloud_86: -211688664
+      teleport cloud_87: 1175412675
+      teleport cloud_88: -1107727955
+      teleport cloud_89: 822620456
+      teleport cloud_9: -1588179240
+      teleport cloud_90: 422465550
+      teleport cloud_91: -217997859
+      teleport cloud_92: -983925681
+      teleport cloud_93: -587885558
+      teleport cloud_94: -1684809048
+      teleport cloud_95: 2065147418
+      teleport cloud_96: -1838939466
+      teleport cloud_97: 373120209
+      teleport cloud_98: 1361271044
+      teleport cloud_99: 2055122079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

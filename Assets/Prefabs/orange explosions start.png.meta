@@ -1,0 +1,3739 @@
+fileFormatVersion: 2
+guid: 3457cd501b4a34ecc8184ef70e49e7d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7375006384461594422
+    second: Retro Impact Effect Pack 3 A_0
+  - first:
+      213: -6866000048736524959
+    second: Retro Impact Effect Pack 3 A_1
+  - first:
+      213: 7602718661002971869
+    second: Retro Impact Effect Pack 3 A_2
+  - first:
+      213: -2419410341569334619
+    second: Retro Impact Effect Pack 3 A_3
+  - first:
+      213: -8680350262000231563
+    second: Retro Impact Effect Pack 3 A_4
+  - first:
+      213: -8755896498984819510
+    second: Retro Impact Effect Pack 3 A_5
+  - first:
+      213: -471211583354748865
+    second: Retro Impact Effect Pack 3 A_6
+  - first:
+      213: 5932690691326163779
+    second: Retro Impact Effect Pack 3 A_7
+  - first:
+      213: -437889626685730231
+    second: Retro Impact Effect Pack 3 A_8
+  - first:
+      213: 5007509505616954902
+    second: Retro Impact Effect Pack 3 A_9
+  - first:
+      213: -3928643271144219459
+    second: Retro Impact Effect Pack 3 A_10
+  - first:
+      213: -2576593522883426441
+    second: Retro Impact Effect Pack 3 A_11
+  - first:
+      213: 2855959244676609853
+    second: Retro Impact Effect Pack 3 A_12
+  - first:
+      213: 1950084637752051407
+    second: Retro Impact Effect Pack 3 A_13
+  - first:
+      213: 1921345634477034964
+    second: Retro Impact Effect Pack 3 A_14
+  - first:
+      213: 8374022552077033420
+    second: Retro Impact Effect Pack 3 A_15
+  - first:
+      213: -5373878838276235035
+    second: Retro Impact Effect Pack 3 A_16
+  - first:
+      213: 5876905315921509243
+    second: Retro Impact Effect Pack 3 A_17
+  - first:
+      213: -8129698636181986195
+    second: Retro Impact Effect Pack 3 A_18
+  - first:
+      213: -8949851149637081669
+    second: Retro Impact Effect Pack 3 A_19
+  - first:
+      213: 7894968657802866978
+    second: Retro Impact Effect Pack 3 A_20
+  - first:
+      213: -2236756474525414793
+    second: Retro Impact Effect Pack 3 A_21
+  - first:
+      213: 8818811996509601943
+    second: Retro Impact Effect Pack 3 A_22
+  - first:
+      213: 3295819970426865691
+    second: Retro Impact Effect Pack 3 A_23
+  - first:
+      213: -5575932496642683907
+    second: Retro Impact Effect Pack 3 A_24
+  - first:
+      213: 816307077527884207
+    second: Retro Impact Effect Pack 3 A_25
+  - first:
+      213: -3220712726613420922
+    second: Retro Impact Effect Pack 3 A_26
+  - first:
+      213: -7119674383138465828
+    second: Retro Impact Effect Pack 3 A_27
+  - first:
+      213: -253112224858043200
+    second: Retro Impact Effect Pack 3 A_28
+  - first:
+      213: -2941964576673945129
+    second: Retro Impact Effect Pack 3 A_29
+  - first:
+      213: -1617406449686837666
+    second: Retro Impact Effect Pack 3 A_30
+  - first:
+      213: 6661611257171355959
+    second: Retro Impact Effect Pack 3 A_31
+  - first:
+      213: 5823333949977518940
+    second: Retro Impact Effect Pack 3 A_32
+  - first:
+      213: 7432341880190348676
+    second: Retro Impact Effect Pack 3 A_33
+  - first:
+      213: 7292458645162741380
+    second: Retro Impact Effect Pack 3 A_34
+  - first:
+      213: 2752708904826524575
+    second: Retro Impact Effect Pack 3 A_35
+  - first:
+      213: -8873577787524119517
+    second: Retro Impact Effect Pack 3 A_36
+  - first:
+      213: -6865212618435165073
+    second: Retro Impact Effect Pack 3 A_37
+  - first:
+      213: 8039985164476736104
+    second: Retro Impact Effect Pack 3 A_38
+  - first:
+      213: -7048968944120983531
+    second: Retro Impact Effect Pack 3 A_39
+  - first:
+      213: -6148933825300231367
+    second: Retro Impact Effect Pack 3 A_40
+  - first:
+      213: -1824712975645874580
+    second: Retro Impact Effect Pack 3 A_41
+  - first:
+      213: 3812825411009521099
+    second: Retro Impact Effect Pack 3 A_42
+  - first:
+      213: 3181126395108900219
+    second: Retro Impact Effect Pack 3 A_43
+  - first:
+      213: -3959564466354448660
+    second: Retro Impact Effect Pack 3 A_44
+  - first:
+      213: 6834939468991745294
+    second: Retro Impact Effect Pack 3 A_45
+  - first:
+      213: 3273601334452674412
+    second: Retro Impact Effect Pack 3 A_46
+  - first:
+      213: 3122187291833847025
+    second: Retro Impact Effect Pack 3 A_47
+  - first:
+      213: -2096374155456298618
+    second: Retro Impact Effect Pack 3 A_48
+  - first:
+      213: 8633456033447809329
+    second: Retro Impact Effect Pack 3 A_49
+  - first:
+      213: -6977784291183986191
+    second: Retro Impact Effect Pack 3 A_50
+  - first:
+      213: 1920174482980678586
+    second: Retro Impact Effect Pack 3 A_51
+  - first:
+      213: 8453843514541575494
+    second: Retro Impact Effect Pack 3 A_52
+  - first:
+      213: 5823990163655468222
+    second: Retro Impact Effect Pack 3 A_53
+  - first:
+      213: -2187233322676369911
+    second: Retro Impact Effect Pack 3 A_54
+  - first:
+      213: 6461269117437229784
+    second: Retro Impact Effect Pack 3 A_55
+  - first:
+      213: 8209697462088073357
+    second: Retro Impact Effect Pack 3 A_56
+  - first:
+      213: -4235224276805967857
+    second: Retro Impact Effect Pack 3 A_57
+  - first:
+      213: -5443619462893000040
+    second: Retro Impact Effect Pack 3 A_58
+  - first:
+      213: -1381272095648316605
+    second: Retro Impact Effect Pack 3 A_59
+  - first:
+      213: 2055845294619087509
+    second: Retro Impact Effect Pack 3 A_60
+  - first:
+      213: -7142672324225768422
+    second: Retro Impact Effect Pack 3 A_61
+  - first:
+      213: 492801274720192660
+    second: Retro Impact Effect Pack 3 A_62
+  - first:
+      213: -7049187951474902083
+    second: Retro Impact Effect Pack 3 A_63
+  - first:
+      213: 854244188168129155
+    second: Retro Impact Effect Pack 3 A_64
+  - first:
+      213: -968966833804829212
+    second: Retro Impact Effect Pack 3 A_65
+  - first:
+      213: -3758678878004100155
+    second: Retro Impact Effect Pack 3 A_66
+  - first:
+      213: -2730185155613682460
+    second: Retro Impact Effect Pack 3 A_67
+  - first:
+      213: 5023534608379312652
+    second: Retro Impact Effect Pack 3 A_68
+  - first:
+      213: 1924083615274457898
+    second: Retro Impact Effect Pack 3 A_69
+  - first:
+      213: -2781059561521961839
+    second: Retro Impact Effect Pack 3 A_70
+  - first:
+      213: 8196061231593144402
+    second: Retro Impact Effect Pack 3 A_71
+  - first:
+      213: 8291671717550942399
+    second: Retro Impact Effect Pack 3 A_72
+  - first:
+      213: 5599450448609406990
+    second: Retro Impact Effect Pack 3 A_73
+  - first:
+      213: -7251671690238758287
+    second: Retro Impact Effect Pack 3 A_74
+  - first:
+      213: 6332164805695731016
+    second: Retro Impact Effect Pack 3 A_75
+  - first:
+      213: -8878659357071403074
+    second: Retro Impact Effect Pack 3 A_76
+  - first:
+      213: -5157641881488353098
+    second: Retro Impact Effect Pack 3 A_77
+  - first:
+      213: 5242454371577123205
+    second: Retro Impact Effect Pack 3 A_78
+  - first:
+      213: -3228846892065146903
+    second: Retro Impact Effect Pack 3 A_79
+  - first:
+      213: 6256316087053298032
+    second: Retro Impact Effect Pack 3 A_80
+  - first:
+      213: 5652637231001853196
+    second: Retro Impact Effect Pack 3 A_81
+  - first:
+      213: 5892510077786234419
+    second: Retro Impact Effect Pack 3 A_82
+  - first:
+      213: -5767290092351754589
+    second: Retro Impact Effect Pack 3 A_83
+  - first:
+      213: 2141199295559783650
+    second: Retro Impact Effect Pack 3 A_84
+  - first:
+      213: 5421781727182251868
+    second: Retro Impact Effect Pack 3 A_85
+  - first:
+      213: 5413743359885565739
+    second: Retro Impact Effect Pack 3 A_86
+  - first:
+      213: -3784235287993453066
+    second: Retro Impact Effect Pack 3 A_87
+  - first:
+      213: 2008496530334964426
+    second: Retro Impact Effect Pack 3 A_88
+  - first:
+      213: -996789336486684630
+    second: Retro Impact Effect Pack 3 A_89
+  - first:
+      213: 8956960189508197975
+    second: Retro Impact Effect Pack 3 A_90
+  - first:
+      213: 348077133610551324
+    second: Retro Impact Effect Pack 3 A_91
+  - first:
+      213: -4048400008720587891
+    second: Retro Impact Effect Pack 3 A_92
+  - first:
+      213: -1657915547535125546
+    second: Retro Impact Effect Pack 3 A_93
+  - first:
+      213: 7312252172223763178
+    second: Retro Impact Effect Pack 3 A_94
+  - first:
+      213: 7841188910887224865
+    second: Retro Impact Effect Pack 3 A_95
+  - first:
+      213: -7547250073382129287
+    second: Retro Impact Effect Pack 3 A_96
+  - first:
+      213: 4812655208185034735
+    second: Retro Impact Effect Pack 3 A_97
+  - first:
+      213: -5228655716876250632
+    second: Retro Impact Effect Pack 3 A_98
+  - first:
+      213: -7925030265932569651
+    second: Retro Impact Effect Pack 3 A_99
+  - first:
+      213: 3730235727100980091
+    second: Retro Impact Effect Pack 3 A_100
+  - first:
+      213: -2276108331704514162
+    second: Retro Impact Effect Pack 3 A_101
+  - first:
+      213: 855674562933986129
+    second: Retro Impact Effect Pack 3 A_102
+  - first:
+      213: -1604423598553187408
+    second: Retro Impact Effect Pack 3 A_103
+  - first:
+      213: -4975938288581795265
+    second: Retro Impact Effect Pack 3 A_104
+  - first:
+      213: -7901676728839039019
+    second: Retro Impact Effect Pack 3 A_105
+  - first:
+      213: -6727690556178988966
+    second: Retro Impact Effect Pack 3 A_106
+  - first:
+      213: -7124932682961145355
+    second: Retro Impact Effect Pack 3 A_107
+  - first:
+      213: -1063723536701347694
+    second: Retro Impact Effect Pack 3 A_108
+  - first:
+      213: -5781887564514720275
+    second: Retro Impact Effect Pack 3 A_109
+  - first:
+      213: -1972091109625200804
+    second: Retro Impact Effect Pack 3 A_110
+  - first:
+      213: 5957420794503607423
+    second: Retro Impact Effect Pack 3 A_111
+  - first:
+      213: 4775724450260392185
+    second: Retro Impact Effect Pack 3 A_112
+  - first:
+      213: 4058844892932910568
+    second: Retro Impact Effect Pack 3 A_113
+  - first:
+      213: 3347458172009588543
+    second: Retro Impact Effect Pack 3 A_114
+  - first:
+      213: 7681901651574815799
+    second: Retro Impact Effect Pack 3 A_115
+  - first:
+      213: 7848399058800644314
+    second: Retro Impact Effect Pack 3 A_116
+  - first:
+      213: 7523666891745496189
+    second: Retro Impact Effect Pack 3 A_117
+  - first:
+      213: -3516712755166659935
+    second: Retro Impact Effect Pack 3 A_118
+  - first:
+      213: -4127529200382676496
+    second: Retro Impact Effect Pack 3 A_119
+  - first:
+      213: -3220641708942769557
+    second: Retro Impact Effect Pack 3 A_120
+  - first:
+      213: 5304988764334620778
+    second: Retro Impact Effect Pack 3 A_121
+  - first:
+      213: 1091551902079410468
+    second: Retro Impact Effect Pack 3 A_122
+  - first:
+      213: -3533737755426605877
+    second: Retro Impact Effect Pack 3 A_123
+  - first:
+      213: -6766253782529943631
+    second: Retro Impact Effect Pack 3 A_124
+  - first:
+      213: 4103212687347287838
+    second: Retro Impact Effect Pack 3 A_125
+  - first:
+      213: 3178581857065210086
+    second: Retro Impact Effect Pack 3 A_126
+  - first:
+      213: 3352018429613637425
+    second: Retro Impact Effect Pack 3 A_127
+  - first:
+      213: 939243404652544783
+    second: Retro Impact Effect Pack 3 A_128
+  - first:
+      213: 8038436430533338649
+    second: Retro Impact Effect Pack 3 A_129
+  - first:
+      213: 4933551623367102373
+    second: Retro Impact Effect Pack 3 A_130
+  - first:
+      213: 5910044316528422505
+    second: Retro Impact Effect Pack 3 A_131
+  - first:
+      213: -5172718045938892416
+    second: Retro Impact Effect Pack 3 A_132
+  - first:
+      213: -7933099965281922019
+    second: Retro Impact Effect Pack 3 A_133
+  - first:
+      213: -339774088059359029
+    second: Retro Impact Effect Pack 3 A_134
+  - first:
+      213: -5986681747038192006
+    second: Retro Impact Effect Pack 3 A_135
+  - first:
+      213: 383239662023742899
+    second: Retro Impact Effect Pack 3 A_136
+  - first:
+      213: 61449502190141865
+    second: Retro Impact Effect Pack 3 A_137
+  - first:
+      213: 8676168593014136617
+    second: Retro Impact Effect Pack 3 A_138
+  - first:
+      213: -3291136513634294789
+    second: Retro Impact Effect Pack 3 A_139
+  - first:
+      213: 8963010443455667804
+    second: Retro Impact Effect Pack 3 A_140
+  - first:
+      213: -3403960746148510513
+    second: Retro Impact Effect Pack 3 A_141
+  - first:
+      213: 1382804612058383127
+    second: Retro Impact Effect Pack 3 A_142
+  - first:
+      213: -6218690535947215658
+    second: Retro Impact Effect Pack 3 A_143
+  - first:
+      213: 3472244362480956396
+    second: Retro Impact Effect Pack 3 A_144
+  - first:
+      213: -2425890780169883139
+    second: Retro Impact Effect Pack 3 A_145
+  - first:
+      213: 4471528274842425291
+    second: Retro Impact Effect Pack 3 A_146
+  - first:
+      213: -3844621952745058867
+    second: Retro Impact Effect Pack 3 A_147
+  - first:
+      213: -390709899996976669
+    second: Retro Impact Effect Pack 3 A_148
+  - first:
+      213: -5028968021720436665
+    second: Retro Impact Effect Pack 3 A_149
+  - first:
+      213: 7435720827308455819
+    second: Retro Impact Effect Pack 3 A_150
+  - first:
+      213: 2214325908881344065
+    second: Retro Impact Effect Pack 3 A_151
+  - first:
+      213: -8437230311571003893
+    second: Retro Impact Effect Pack 3 A_152
+  - first:
+      213: -1486128481509345560
+    second: Retro Impact Effect Pack 3 A_153
+  - first:
+      213: 2898083018185038413
+    second: Retro Impact Effect Pack 3 A_154
+  - first:
+      213: 1735802693601492410
+    second: Retro Impact Effect Pack 3 A_155
+  - first:
+      213: -4833592817021830240
+    second: Retro Impact Effect Pack 3 A_156
+  - first:
+      213: 5466834398000759094
+    second: Retro Impact Effect Pack 3 A_157
+  - first:
+      213: 5439626432291581078
+    second: Retro Impact Effect Pack 3 A_158
+  - first:
+      213: 5769526773491516095
+    second: Retro Impact Effect Pack 3 A_159
+  - first:
+      213: 2137516551297048942
+    second: Retro Impact Effect Pack 3 A_160
+  - first:
+      213: 3405130005648905374
+    second: Retro Impact Effect Pack 3 A_161
+  - first:
+      213: -8077125892595690408
+    second: Retro Impact Effect Pack 3 A_162
+  - first:
+      213: 8251781678208095626
+    second: Retro Impact Effect Pack 3 A_163
+  - first:
+      213: -6229891627221144890
+    second: Retro Impact Effect Pack 3 A_164
+  - first:
+      213: 3652291299937956470
+    second: Retro Impact Effect Pack 3 A_165
+  - first:
+      213: 4223202683435975112
+    second: Retro Impact Effect Pack 3 A_166
+  - first:
+      213: 5674499404168053755
+    second: Retro Impact Effect Pack 3 A_167
+  - first:
+      213: 7975384377552855673
+    second: Retro Impact Effect Pack 3 A_168
+  - first:
+      213: 5035412823783454780
+    second: Retro Impact Effect Pack 3 A_169
+  - first:
+      213: -1586351766329806480
+    second: Retro Impact Effect Pack 3 A_170
+  - first:
+      213: -8814558822200734571
+    second: Retro Impact Effect Pack 3 A_171
+  - first:
+      213: -8327918302136835841
+    second: Retro Impact Effect Pack 3 A_172
+  - first:
+      213: 8365880859432757279
+    second: Retro Impact Effect Pack 3 A_173
+  - first:
+      213: 30680833746308187
+    second: Retro Impact Effect Pack 3 A_174
+  - first:
+      213: -908844535602415400
+    second: Retro Impact Effect Pack 3 A_175
+  - first:
+      213: 5775159510347390216
+    second: Retro Impact Effect Pack 3 A_176
+  - first:
+      213: 5106591761814823913
+    second: Retro Impact Effect Pack 3 A_177
+  - first:
+      213: 1003801073873823020
+    second: Retro Impact Effect Pack 3 A_178
+  - first:
+      213: 4221956104217837520
+    second: Retro Impact Effect Pack 3 A_179
+  - first:
+      213: -1207166971957380418
+    second: Retro Impact Effect Pack 3 A_180
+  - first:
+      213: -584382621022367630
+    second: Retro Impact Effect Pack 3 A_181
+  - first:
+      213: 4005746609388671094
+    second: Retro Impact Effect Pack 3 A_182
+  - first:
+      213: -1787741549085777227
+    second: Retro Impact Effect Pack 3 A_183
+  - first:
+      213: -3545720158632485941
+    second: Retro Impact Effect Pack 3 A_184
+  - first:
+      213: -7039284115962727075
+    second: Retro Impact Effect Pack 3 A_185
+  - first:
+      213: -8501211545221852264
+    second: Retro Impact Effect Pack 3 A_186
+  - first:
+      213: 3403215588103914171
+    second: Retro Impact Effect Pack 3 A_187
+  - first:
+      213: 5330968366546251608
+    second: Retro Impact Effect Pack 3 A_188
+  - first:
+      213: 9098801949780268822
+    second: Retro Impact Effect Pack 3 A_189
+  - first:
+      213: 2513887495046524821
+    second: Retro Impact Effect Pack 3 A_190
+  - first:
+      213: 8603581097018431503
+    second: Retro Impact Effect Pack 3 A_191
+  - first:
+      213: -4170232085808330501
+    second: Retro Impact Effect Pack 3 A_192
+  - first:
+      213: 5386769284858972166
+    second: Retro Impact Effect Pack 3 A_193
+  - first:
+      213: -8089854688106256432
+    second: Retro Impact Effect Pack 3 A_194
+  - first:
+      213: -1495007585654760760
+    second: Retro Impact Effect Pack 3 A_195
+  - first:
+      213: -4176632585081159308
+    second: Retro Impact Effect Pack 3 A_196
+  - first:
+      213: 6811960909835619563
+    second: Retro Impact Effect Pack 3 A_197
+  - first:
+      213: -1511423916492475678
+    second: Retro Impact Effect Pack 3 A_198
+  - first:
+      213: 833278899436928091
+    second: Retro Impact Effect Pack 3 A_199
+  - first:
+      213: 3342097156749268585
+    second: Retro Impact Effect Pack 3 A_200
+  - first:
+      213: -4172677225227044923
+    second: Retro Impact Effect Pack 3 A_201
+  - first:
+      213: -3881837139502980036
+    second: Retro Impact Effect Pack 3 A_202
+  - first:
+      213: 9216272052575476893
+    second: Retro Impact Effect Pack 3 A_203
+  - first:
+      213: -238205012182556233
+    second: Retro Impact Effect Pack 3 A_204
+  - first:
+      213: -7165151988970213500
+    second: Retro Impact Effect Pack 3 A_205
+  - first:
+      213: 5789279632495963418
+    second: Retro Impact Effect Pack 3 A_206
+  - first:
+      213: 6700591802411306107
+    second: Retro Impact Effect Pack 3 A_207
+  - first:
+      213: 8469093492812856662
+    second: Retro Impact Effect Pack 3 A_208
+  - first:
+      213: 932046848369868674
+    second: Retro Impact Effect Pack 3 A_209
+  - first:
+      213: -7339683752549624565
+    second: Retro Impact Effect Pack 3 A_210
+  - first:
+      213: -2152990078029409768
+    second: Retro Impact Effect Pack 3 A_211
+  - first:
+      213: -7750934079228703429
+    second: Retro Impact Effect Pack 3 A_212
+  - first:
+      213: -5449171205370872615
+    second: Retro Impact Effect Pack 3 A_213
+  - first:
+      213: -5953704279233047056
+    second: Retro Impact Effect Pack 3 A_214
+  - first:
+      213: -760885849851765173
+    second: Retro Impact Effect Pack 3 A_215
+  - first:
+      213: -6024447010296711059
+    second: Retro Impact Effect Pack 3 A_216
+  - first:
+      213: 2087781966721957659
+    second: Retro Impact Effect Pack 3 A_217
+  - first:
+      213: 3962526430085297103
+    second: Retro Impact Effect Pack 3 A_218
+  - first:
+      213: 8037980631685778255
+    second: Retro Impact Effect Pack 3 A_219
+  - first:
+      213: 6897605383883261957
+    second: Retro Impact Effect Pack 3 A_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orange explosions start_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16beb3e91236f4a9bb6f9623d67404c7
+      internalID: 1918908374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d0fec0419d4ad9a78a1b667fa4889
+      internalID: 1665236891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a6849b10f3441b9768445f9537b47
+      internalID: 1557803155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed301d1b3e64d76895d2f8449bf7c1
+      internalID: -1652503505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739bf6df8844b4b8d91665d450e08148
+      internalID: -1573356873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3e4398c2e44600abef42c6fe71d65
+      internalID: -1556423453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0182e5e44ea4a0d994ef681d621e13
+      internalID: 2038087943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e0c8ee58db434a9af3cb2080d7d99
+      internalID: 1341836020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f553dbcdccc453eb69577da33d19fd
+      internalID: 366766475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf468fe6a2748448034c0d999b04ae
+      internalID: -1662679215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d4cf74781444b4b346b0f187bc75b
+      internalID: 301494141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f4baa1d846a41c587c74e55be1b209
+      internalID: 1491829620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b613c3feb4f944676ab8e447193a184e
+      internalID: -471056165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eccb81d238474378b753f743cfa7a0a
+      internalID: 2110095635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae34129b7bc34331979eb4e5f4cac8e
+      internalID: -771001733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49965d452de7f4fcfbbe8a9df79ab662
+      internalID: 1096118162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a608ced2bd8f4c94a5b7f791dc4974d
+      internalID: 1349992359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740b9c6e1bfd413f81ad8ad5e7d078c
+      internalID: -2116110763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e47922630945acbfcd97f46b45e11
+      internalID: -1603808642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa4df50cb6241c4abe9861d8ac38e3
+      internalID: -401867006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca065437465074f98a6ec92e210cd600
+      internalID: -22157566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833aeab99532e428788989eeb93b5277
+      internalID: 178349977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ff03b300a94708a0deee51f504a3a
+      internalID: -1750822715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea5e9fe3170046be99edc279df1359f
+      internalID: -375321589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41a385faba34ae6a7390570b1351f9
+      internalID: 1696034226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013daa76f5bf645fda01ad8bd372b4a3
+      internalID: -847044437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7540fe333e5e4dd797f778dffa43e8c
+      internalID: 806695700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836b8f554122462282ef619560c7b73
+      internalID: 786784165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858e8723fda54a48a348223c5fb9c68
+      internalID: -305095834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bfc8172c3e4f838acd5d8f142542a
+      internalID: 983280626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff5f402cd2e5456fb46a4a0399254cf
+      internalID: 640795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4023dc45d5c7416094ce1fd8aca3036
+      internalID: -1651527209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b34e3c2d27f443bfbc86d078a9387c2
+      internalID: 880740062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c2bfc7554e4fcdbae95c6731c0152
+      internalID: 1016834972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b4cf346a765450e85dbd04f4030626
+      internalID: -1482075597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58417fa8720fc4445915a3b63d656783
+      internalID: 1449279532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d9c7a9ad0ea4825ab4828e674e3c55
+      internalID: 398677434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb10c52a3ee41ba9896fb403e5a5c5
+      internalID: -1058115805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f3a09b7b408400e8636d73979c2a69
+      internalID: 312146412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb730cb16e14366bcf992937286195
+      internalID: 1756338211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c01208efa24147a59f9beaf69b2a3
+      internalID: -823197231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b351c5b5fad34f6bb08cc2a76a7c312
+      internalID: -769007330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e362f93d5b0384d5fa874d972b3473fe
+      internalID: 2129512138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb257f7c2fbc41079d9d99dd34d21c0
+      internalID: 367084349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7d00323fa744c3ab9a18c0b5f0a98
+      internalID: -881562934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e8ec81dc9a4fdea488dcf3dda8a82
+      internalID: -973958365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c63374fad6147338b89a9f1979dfac
+      internalID: 591199627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd926ad3911a04aa19fca942def43740
+      internalID: -1766731302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe469fc15934251a754d5d8cab1401
+      internalID: -1462532260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d682c713d4711461fa306b4f67801798
+      internalID: 738795497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ecf42dedaa04abb9525bce35260521
+      internalID: 1463650028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295801cb500ef4a71a992297e2330b64
+      internalID: 1375729844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b759445126a1c439dbe5b3a309ba92a5
+      internalID: -951943004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7c80be00954a0dad7912971a4c707
+      internalID: 552749492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a95529ee59c446299016f96a78f30e
+      internalID: -1193094040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815526fbe36024d868df94cc1d0a91d4
+      internalID: 165579513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b6dc3893f04e2cbde7377734cb753
+      internalID: 475401382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046116cf0cc7b40d58e205c78f785e2b
+      internalID: -739212487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ebb7b6f262c40e58d8ec0ea2c9453d
+      internalID: -686812157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0241101c9d7486cb035cd3e168f8b9
+      internalID: -1040228518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fce3dc15e9fd4a84b33d423d8685f5d
+      internalID: 291087825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42a83002994423bbc0b77867e923ce
+      internalID: -410257013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707caeb8b1e8447d5a21d1c736e55114
+      internalID: 150765762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c29cdd9f29a48a29f2f4a0e8eea739
+      internalID: 2122667472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c44e1c58063457998592fde4235627
+      internalID: 834038239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e298d22d1e47b5a85650f0a1672e9
+      internalID: 1142244578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a109d59f54f4146388b558842bd39d78
+      internalID: 872176373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923b0cb447a6c44bbb2f2a00cf15c3d7
+      internalID: -657750366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afe7b2f3f234c2f9a8336d64366780
+      internalID: -1566820486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac49ffc7e4646efadb083c5905cf53
+      internalID: 1152239316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0bf6b6900346eb844f0eaa1d89dce
+      internalID: -1616604704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5186c902a672347849fed8b4ae563383
+      internalID: 493429189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91480c143613a41758ba4d2d190160a7
+      internalID: -625075202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c32c0787e254c45b1d9aa0bf8896e1
+      internalID: -122181804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421ebd39923d49ee9dea6cd839bdcd3
+      internalID: 1522108213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3325b4d032654d56b39d2fd2afaec3e
+      internalID: -1959507585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eecdf3ac5dc4944a31c05073e1d56d
+      internalID: -1387800690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5f09e1a94c460184db23a1301315a
+      internalID: 1475244344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf8ba076bff403a8b4d3214bdff4cf
+      internalID: -1279649282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f060f4fcbce642abb1b20990452958b
+      internalID: 1656045505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e9d07ecc774370b8d0ced7f58f6c6
+      internalID: -119804645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb096bdb9ff46d681b089b464c6d2c
+      internalID: -2138611953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a43a8925594005b59f91ef773bd07
+      internalID: 85396299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8893c1c1064ba193e40acf2bb3910
+      internalID: 2073005867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d41e869714b40db8d8ea460ab90a7e
+      internalID: 1666784967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9d4cead4d1402fa39f5f7b3aa797d
+      internalID: -1437821406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d9881bb0114e0199231f0204917e3
+      internalID: -1171188369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5926dbd48b4e5a9552964d8d5dd65
+      internalID: 1515596816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff025b70726b480393bf3340e9d9254
+      internalID: 1084480641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34824ec9560614b8a9914650a0b91246
+      internalID: -718403062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35539549e3558410ab148377317b099a
+      internalID: -1220976368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2c7abe19664f68b506907e48bcb47
+      internalID: -1878628022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7753d8d6411e4fcba8f9342e918f689
+      internalID: 687826187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882cfa4d9ab84e0cb1f18fe339d6888
+      internalID: -667607337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6232b695f83e64c5cb6a64f532a61881
+      internalID: 618358846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc6c9a106c1b4639809c4838771e159
+      internalID: -827095981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd876647cb344bc814f32aae8a5d4d
+      internalID: 1456274413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc17d744a8040a282fae341764319b
+      internalID: -320477593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2255b2ba9e704461a10353aa7b37941
+      internalID: -189475549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a80a3003bf45fdac5e2fb96e34ce6
+      internalID: -1732518591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e1237bdb8d422b8c721d8057c0abf
+      internalID: -311686474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce5413547254f649ecff9517c8185a
+      internalID: 2100042975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115bb22e3e7f44e15a584113d4f60141
+      internalID: -1125605142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f554e7005df4c479632e32e7d58bdc
+      internalID: 1657830101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d461534c9d84b428e52cf866105ff5
+      internalID: 2055178176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f40aabdbbcd46399e1007cc0b74297
+      internalID: -2019634873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652dcd9fa58940e5adac844c0339027
+      internalID: -1438104628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7a5caec4b85464fa2a622ff2f32664
+      internalID: -821935867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11541bfc2bef4eb590bfd7fd2a912a8
+      internalID: -1970365850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caccaa358ce974116bb91c66fd416229
+      internalID: -251847691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94598a6ca24d5453286ede6210fe3f75
+      internalID: 1066911708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cb4843599a74562b95bb6918c5e88f
+      internalID: -2068071051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77bb7b0afb8482180879bb79c13496
+      internalID: -1622489988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6316df022c631452fb0b1420ea104161
+      internalID: 91926393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095e3a6fbbc24399983fa25d61b0330
+      internalID: 1299783697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439604626903c4bd595094a4036714da
+      internalID: -187385565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3bff8954a5943d2a86d6a50ce884b1
+      internalID: 1325498710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b27adb24296e4d45b81b1254fb97db7
+      internalID: 1987533802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96639af14a7544e5fa7c865350af5908
+      internalID: 2076737903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f9dc3472d64758870f8f51b56701f
+      internalID: -2035139582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528ed29b7db04af882d20be10676035
+      internalID: 1485066989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05513dac425ff477bb7393f56a6161bb
+      internalID: -632154699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907654f16ee44d85b6e12fee68ee027
+      internalID: 1454104006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eef6cc08cc546f886db0d21c89ed2d
+      internalID: 1357790520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8dd69d30024fc5a86d29ffc4cc178
+      internalID: 523469281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a77be9db1ee431f938aa00fb9b3430
+      internalID: 515770158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ffd5c3c480141df9e7743d9a05bdb1
+      internalID: -1420028564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange explosions start_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015ec03b4199a4e8299e90c3260ebbf6
+      internalID: 1970465868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9ac3d9dfdaffe4052bf7342f34cdd1ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      orange explosions start_0: 1918908374
+      orange explosions start_1: 1665236891
+      orange explosions start_10: 301494141
+      orange explosions start_100: -311686474
+      orange explosions start_101: 2100042975
+      orange explosions start_102: -1125605142
+      orange explosions start_103: 1657830101
+      orange explosions start_104: 2055178176
+      orange explosions start_105: -2019634873
+      orange explosions start_106: -1438104628
+      orange explosions start_107: -821935867
+      orange explosions start_108: -1970365850
+      orange explosions start_109: -251847691
+      orange explosions start_11: 1491829620
+      orange explosions start_110: 1066911708
+      orange explosions start_111: -2068071051
+      orange explosions start_112: -1622489988
+      orange explosions start_113: 91926393
+      orange explosions start_114: 1299783697
+      orange explosions start_115: -187385565
+      orange explosions start_116: 1325498710
+      orange explosions start_117: 1987533802
+      orange explosions start_118: 2076737903
+      orange explosions start_119: -2035139582
+      orange explosions start_12: -471056165
+      orange explosions start_120: 1485066989
+      orange explosions start_121: -632154699
+      orange explosions start_122: 1454104006
+      orange explosions start_123: 1357790520
+      orange explosions start_124: 523469281
+      orange explosions start_125: 515770158
+      orange explosions start_126: -1420028564
+      orange explosions start_127: 1970465868
+      orange explosions start_13: 2110095635
+      orange explosions start_14: -771001733
+      orange explosions start_15: 1096118162
+      orange explosions start_16: 1349992359
+      orange explosions start_17: -2116110763
+      orange explosions start_18: -1603808642
+      orange explosions start_19: -401867006
+      orange explosions start_2: 1557803155
+      orange explosions start_20: -22157566
+      orange explosions start_21: 178349977
+      orange explosions start_22: -1750822715
+      orange explosions start_23: -375321589
+      orange explosions start_24: 1696034226
+      orange explosions start_25: -847044437
+      orange explosions start_26: 806695700
+      orange explosions start_27: 786784165
+      orange explosions start_28: -305095834
+      orange explosions start_29: 983280626
+      orange explosions start_3: -1652503505
+      orange explosions start_30: 640795491
+      orange explosions start_31: -1651527209
+      orange explosions start_32: 880740062
+      orange explosions start_33: 1016834972
+      orange explosions start_34: -1482075597
+      orange explosions start_35: 1449279532
+      orange explosions start_36: 398677434
+      orange explosions start_37: -1058115805
+      orange explosions start_38: 312146412
+      orange explosions start_39: 1756338211
+      orange explosions start_4: -1573356873
+      orange explosions start_40: -823197231
+      orange explosions start_41: -769007330
+      orange explosions start_42: 2129512138
+      orange explosions start_43: 367084349
+      orange explosions start_44: -881562934
+      orange explosions start_45: -973958365
+      orange explosions start_46: 591199627
+      orange explosions start_47: -1766731302
+      orange explosions start_48: -1462532260
+      orange explosions start_49: 738795497
+      orange explosions start_5: -1556423453
+      orange explosions start_50: 1463650028
+      orange explosions start_51: 1375729844
+      orange explosions start_52: -951943004
+      orange explosions start_53: 552749492
+      orange explosions start_54: -1193094040
+      orange explosions start_55: 165579513
+      orange explosions start_56: 475401382
+      orange explosions start_57: -739212487
+      orange explosions start_58: -686812157
+      orange explosions start_59: -1040228518
+      orange explosions start_6: 2038087943
+      orange explosions start_60: 291087825
+      orange explosions start_61: -410257013
+      orange explosions start_62: 150765762
+      orange explosions start_63: 2122667472
+      orange explosions start_64: 834038239
+      orange explosions start_65: 1142244578
+      orange explosions start_66: 872176373
+      orange explosions start_67: -657750366
+      orange explosions start_68: -1566820486
+      orange explosions start_69: 1152239316
+      orange explosions start_7: 1341836020
+      orange explosions start_70: -1616604704
+      orange explosions start_71: 493429189
+      orange explosions start_72: -625075202
+      orange explosions start_73: -122181804
+      orange explosions start_74: 1522108213
+      orange explosions start_75: -1959507585
+      orange explosions start_76: -1387800690
+      orange explosions start_77: 1475244344
+      orange explosions start_78: -1279649282
+      orange explosions start_79: 1656045505
+      orange explosions start_8: 366766475
+      orange explosions start_80: -119804645
+      orange explosions start_81: -2138611953
+      orange explosions start_82: 85396299
+      orange explosions start_83: 2073005867
+      orange explosions start_84: 1666784967
+      orange explosions start_85: -1437821406
+      orange explosions start_86: -1171188369
+      orange explosions start_87: 1515596816
+      orange explosions start_88: 1084480641
+      orange explosions start_89: -718403062
+      orange explosions start_9: -1662679215
+      orange explosions start_90: -1220976368
+      orange explosions start_91: -1878628022
+      orange explosions start_92: 687826187
+      orange explosions start_93: -667607337
+      orange explosions start_94: 618358846
+      orange explosions start_95: -827095981
+      orange explosions start_96: 1456274413
+      orange explosions start_97: -320477593
+      orange explosions start_98: -189475549
+      orange explosions start_99: -1732518591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

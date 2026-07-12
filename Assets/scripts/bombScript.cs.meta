@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95fed95ef8b1b4e6ba153cc80a1f26d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionPrefab: {fileID: 897649416923979418, guid: 5472bda33524a47a09bae99207033de4, type: 3}
+  - explosionStartPrefab: {fileID: 430983117172765471, guid: 39efda0546af34448af3018aec38f5f8, type: 3}
+  - bombPrefab: {fileID: 2175094321262234252, guid: 088c2a5f72660477091eb6776b8ea895, type: 3}
+  - groundTilemap: {fileID: 4453620517817930888, guid: bf4b2c0d4f5c640ba9b19c019a85b47d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

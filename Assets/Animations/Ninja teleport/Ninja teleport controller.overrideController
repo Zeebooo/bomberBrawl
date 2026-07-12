@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ninja teleport controller
+  m_Controller: {fileID: 9100000, guid: bdb97334a12c143b2ac8e315bab286b3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ef7687967c18b4da7b55c1f8877116ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 64d141fdb84ad4ce884f96153ef115a2, type: 2}

@@ -1,0 +1,130 @@
+@startuml bombit
+
+skinparam classAttributeIconSize 0
+skinparam class {
+    BackgroundColor White
+    BorderColor Black
+}
+
+class mapGenerator {
+    +groundTilemap : Tilemap
+    +groundTile : TileBase
+    +solidWallPrefab : GameObject
+    +breakableWallPrefab : GameObject
+    +width : int
+    +height : int
+    +breakableWallChance : float
+    --
+    -GenerateMap()
+    -IsSpawnProtected(x: int, y: int) : bool
+}
+
+class characterScript {
+    +health : int
+    +moveSpeed : float
+    +invincibilityDuration : float
+    -invincibilityTimer : float
+    -rb : Rigidbody2D
+    +bombPrefab : GameObject
+    -_animator : Animator
+    --
+    -moveCharacter()
+    -resetAnimation()
+    +takeDamage(damage: int)
+}
+
+class bombScript {
+    +explosionScript : explosionScript
+    +explosionPrefab : GameObject
+    +explosionStartPrefab : GameObject
+    +bombPrefab : GameObject
+    +groundTilemap : Tilemap
+    -activeBombs : List<GameObject>
+    +fuseTimer : float
+    +maxBombs : int
+    +currentBombs : int
+    +explosionRadius : float
+    --
+    -dropBomb() : IEnumerator
+    +SpawnExplosion(origin: Vector3, direction: Vector2, rotation: int, explosionPref: GameObject)
+    +addBomb()
+    -OnTriggerExit2D(other: Collider2D)
+}
+
+class explosionScript {
+    -rb : Rigidbody2D
+    +explosionStartPrefab : GameObject
+    +explosionDamage : int
+    --
+    +removeExplosion()
+    +setDirection(dir: Vector2)
+    -OnTriggerEnter2D(collision: Collider2D)
+}
+
+class breakableWallScript {
+    +explosionPrefab : GameObject
+    +groundTilemap : Tilemap
+    +itemSpawnChance : float
+    +commonItemPrefabs : GameObject[]
+    +commonItemChance : float
+    --
+    +breakWall()
+}
+
+class itempickupScript {
+    +itemType : ItemType
+    --
+    -OnTriggerEnter2D(collision: Collider2D)
+}
+
+enum itemType {
+    Movement
+    MoreBombs
+    ExplosionRange
+}
+
+class lobbyManager {
+    -currentLobby : Lobby
+    +lobbyName : string
+    +maxPlayers : int
+    --
+    +createLobby()
+    +listLobbies() : List<Lobby>
+    +joinLobby(lobbyId: string)
+    +leaveLobby()
+}
+
+class relayManager {
+    +joinCode : string
+    +maxConnections : int
+    --
+    +createRelay() : string
+    +joinRelay(joinCode: string)
+}
+
+class networkManager {
+    +isHost : bool
+    -networkPrefabs : List<GameObject>
+    --
+    +startHost()
+    +startClient()
+    +startServer()
+    +spawnObject(prefab: GameObject, position: Vector3)
+    +despawnObject(obj: GameObject)
+}
+
+lobbyManager --> relayManager : hämtar joinCode
+relayManager --> networkManager : startar anslutning
+networkManager ..> characterScript : synkroniserar
+networkManager ..> bombScript : synkroniserar
+networkManager ..> mapGenerator : synkroniserar
+
+mapGenerator ..> breakableWallScript : instansierar
+bombScript ..> explosionScript : skapar explosion
+explosionScript --> characterScript : takeDamage()
+explosionScript --> breakableWallScript : breakWall()
+itempickupScript --> characterScript : moveSpeed++
+itempickupScript --> bombScript : addBomb() / explosionRadius++
+itempickupScript *-- itemType
+
+@enduml

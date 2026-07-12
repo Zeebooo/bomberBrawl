@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b896926ded89487ab59bb87eb29b0ac, type: 3}
+  m_Name: AudioRefsSO
+  m_EditorClassIdentifier: Assembly-CSharp::AudioRefsSO
+  backgroundMusic:
+  - {fileID: 8300000, guid: 1f2ad53bacc245642854dbdc8ea71a9b, type: 3}
+  explosionsSFX:
+  - {fileID: 8300000, guid: effe6d71cfa2d4689a4262969473dd08, type: 3}
+  positiveClickSFX:
+  - {fileID: 8300000, guid: 16c2014c8ef50476c8d7b7b8f1e3205f, type: 3}
+  negativeClickSFX:
+  - {fileID: 8300000, guid: 7e23cb852a3fd4e788aca72da6665245, type: 3}
+  victorySoundSFX:
+  - {fileID: 8300000, guid: cdf04d29e26a9405fbf28d5de8222f95, type: 3}
+  deathSoundSFX:
+  - {fileID: 8300000, guid: 4f5bc64a69b9741b49c08897fbf40c67, type: 3}
+  powerUpSFX:
+  - {fileID: 8300000, guid: a0fbeb571ed114dc29e75de4226e56c5, type: 3}
+  - {fileID: 8300000, guid: 5662835f9ea8e46a6aced93a46e17a3b, type: 3}
+  - {fileID: 8300000, guid: 7cc7d37818ed341adae32e6fe9d640b5, type: 3}
+  swooshSFX:
+  - {fileID: 8300000, guid: c5098bc7b068245b0b8711f6fa803845, type: 3}
+  ninjaAbilitySFX:
+  - {fileID: 8300000, guid: 07c8c6970cafb486785f35942b7fbe7c, type: 3}
