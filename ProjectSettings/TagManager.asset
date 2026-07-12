@@ -8,6 +8,7 @@ TagManager:
   - breakableWall
   - wallEffect
   - explosion
+  - builderWall
   layers:
   - Default
   - TransparentFX

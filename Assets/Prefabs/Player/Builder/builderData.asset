@@ -23,7 +23,8 @@ MonoBehaviour:
   moveSpeed: 4.85
   explosionRadius: 1.408
   maxBombs: 1
-  abilityName: 'Ability: Wall Build'
+  abilityName: 'Ability: Construct wall'
   abilityDescription: Press Q to build an indestructible wall in front of you that
     lasts for three seconds
-  abilityCooldown: 20
+  abilityCooldown: 15
+  abilityIcon: {fileID: 5786251395003078474, guid: 6775f05ddd2be4eb498091bc0ca837c9, type: 3}

@@ -291,6 +291,7 @@ GameObject:
   - component: {fileID: 3070015964633355612}
   - component: {fileID: 2555054057367836285}
   - component: {fileID: -6417075938805609380}
+  - component: {fileID: 2259137297582296203}
   m_Layer: 2
   m_Name: builderPrefab
   m_TagString: Player
@@ -626,6 +627,20 @@ MonoBehaviour:
   SwitchTransformSpaceWhenParented: 0
   Interpolate: 1
   SlerpPosition: 0
+--- !u!114 &2259137297582296203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9220478434429692062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb2e156bf0bb4cd3a34bb9b0e035c08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BuilderAbility
+  ShowTopMostFoldoutHeaderGroup: 1
+  builderWallPrefab: {fileID: 508771325500690660, guid: c07aa78278d994b3da24430398da9c65, type: 3}
 --- !u!1001 &6732851271824408626
 PrefabInstance:
   m_ObjectHideFlags: 0

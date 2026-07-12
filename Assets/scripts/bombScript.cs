@@ -157,7 +157,7 @@ public class bombScript : NetworkBehaviour
 			explosion = Instantiate(explosionPref, origin, Quaternion.Euler(0, 0, rotation));
 			explosion.transform.localScale = new Vector3(explosionPref.transform.localScale.x, explosionRadius.Value, 1f);
 		}
-		else if (hit.collider == null || hit.collider.CompareTag("solidWall") || hit.collider.CompareTag("breakableWall"))
+		else if (hit.collider == null || hit.collider.CompareTag("solidWall") || hit.collider.CompareTag("breakableWall") || hit.collider.CompareTag("builderWall"))
 		{
 			explosion = Instantiate(explosionPref, origin, Quaternion.Euler(0, 0, rotation));
 			explosion.transform.localScale = new Vector3(explosionPref.transform.localScale.x, hitDistance / spriteSize, 1f);

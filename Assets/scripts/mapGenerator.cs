@@ -186,4 +186,11 @@ public class mapGenerator : NetworkBehaviour
 			}
 		}
 	}
+
+	public Vector3 GetTileCenter(Vector3 position)
+	{
+		int x = Mathf.FloorToInt(position.x);
+		int y = Mathf.FloorToInt(position.y);
+		return new Vector3(x + 0.5f, y + 0.65f, 0);
+	}
 }

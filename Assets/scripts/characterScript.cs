@@ -14,6 +14,7 @@ public class characterScript : NetworkBehaviour
 	private float invincibilityTimer = 0f;
 	readonly NetworkVariable<bool> shieldActive = new(false);
 	readonly NetworkVariable<bool> godMode = new(false);
+	private Vector2 movementDirection;
 
 	[Header("World event settings")]
 	readonly NetworkVariable<bool> invertedControlsActive = new(false);
@@ -128,6 +129,11 @@ public class characterScript : NetworkBehaviour
 		}	
 	}
 
+	public Vector2 GetMovementDirection()
+	{
+		return movementDirection;
+	}
+
 	void moveCharacter()
 	{
 		if (!GameStateHandler.Instance.isGameInProgress()) return;
@@ -137,6 +143,7 @@ public class characterScript : NetworkBehaviour
 		resetAnimation();
 
 		Vector2 dir = Vector2.zero;
+		movementDirection = Vector2.zero;
 		Vector3 leftScaleCharacter = new Vector3(-4, 4, 4);
 		Vector3 rightScaleCharacter = new Vector3(4, 4, 4);
 
@@ -151,6 +158,7 @@ public class characterScript : NetworkBehaviour
 				shieldPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				torchPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				dir.y -= 1f;
+				movementDirection = Vector2.down;
 			}
 			else
 			{
@@ -158,6 +166,7 @@ public class characterScript : NetworkBehaviour
 				shieldPrefab.GetComponent<SpriteRenderer>().sortingOrder = 0;
 				torchPrefab.GetComponent<SpriteRenderer>().sortingOrder = 0;
 				dir.y += 1f;
+				movementDirection = Vector2.up;
 			}
 		}
 		if (kb.sKey.isPressed || kb.downArrowKey.isPressed)
@@ -168,6 +177,7 @@ public class characterScript : NetworkBehaviour
 				shieldPrefab.GetComponent<SpriteRenderer>().sortingOrder = 0;
 				torchPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				dir.y += 1f;
+				movementDirection = Vector2.up;
 			}
 			else
 			{
@@ -175,6 +185,7 @@ public class characterScript : NetworkBehaviour
 				shieldPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				torchPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				dir.y -= 1f;
+				movementDirection = Vector2.down;
 			}
 		}
 		if (kb.dKey.isPressed || kb.rightArrowKey.isPressed)
@@ -187,6 +198,7 @@ public class characterScript : NetworkBehaviour
 				shieldPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				torchPrefab.GetComponent<SpriteRenderer>().sortingOrder = 0;
 				dir.x -= 1f;
+				movementDirection = Vector2.left;
 			}
 			else
 			{
@@ -195,6 +207,7 @@ public class characterScript : NetworkBehaviour
 				transform.localScale = rightScaleCharacter;
 				torchPrefab.transform.localScale = torchLeftScale;
 				dir.x += 1f;
+				movementDirection = Vector2.right;
 			}
 		}
 		if (kb.aKey.isPressed || kb.leftArrowKey.isPressed)
@@ -207,6 +220,7 @@ public class characterScript : NetworkBehaviour
 				shieldPrefab.GetComponent<SpriteRenderer>().sortingOrder = 0;
 				torchPrefab.GetComponent<SpriteRenderer>().sortingOrder = 2;
 				dir.x += 1f;
+				movementDirection = Vector2.right;
 			}
 			else
 			{
@@ -215,6 +229,7 @@ public class characterScript : NetworkBehaviour
 				torchPrefab.transform.localScale = torchRightScale;
 				transform.localScale = leftScaleCharacter;
 				dir.x -= 1f;
+				movementDirection = Vector2.left;
 			}
 		}
 
