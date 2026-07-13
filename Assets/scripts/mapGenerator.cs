@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+//using System.Numerics;
 using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -30,6 +31,7 @@ public class mapGenerator : NetworkBehaviour
 	private int playerCount;
 
 	private List<Vector3> breakableWallPositions = new();
+	private List<Vector3> wallPositions = new();
 
 	private float breakableWallChance = 0.8f;
 
@@ -112,6 +114,7 @@ public class mapGenerator : NetworkBehaviour
 				{
 					GameObject wall = Instantiate(solidWallPrefab, new Vector3(x + 0.5f, y + 0.65f, 0), Quaternion.identity);
 					wall.GetComponent<SpriteRenderer>().sortingOrder = -y;
+					wallPositions.Add(wall.transform.position);
 				}
 				else
 				{
@@ -123,6 +126,7 @@ public class mapGenerator : NetworkBehaviour
 					{
 						GameObject wall = Instantiate(breakableWallPrefab, new Vector3(x + 0.5f, y + 0.65f, 0), Quaternion.identity);
 						breakableWallPositions.Add(wall.transform.position);
+						wallPositions.Add(wall.transform.position);
 						wall.GetComponent<SpriteRenderer>().sortingOrder = -y;
 					}
 				}
@@ -173,6 +177,23 @@ public class mapGenerator : NetworkBehaviour
 			}
 		}
 		return false;
+	}
+
+	public bool IsPositionOccupied(Vector3 position)
+    {
+        foreach (Vector3 wallPosition in wallPositions)
+        {
+            if (Vector3.Distance(wallPosition, position) < 0.1f)
+            {
+                return true;
+            }
+        }
+		return false;
+    }
+
+	public bool IsPositionOuterGrid(Vector3 position)
+	{
+		return position.x < 0 || position.x > width || position.y < 0 || position.y > height;
 	}
 
 	public void RemoveWallAtPosition(Vector3 position)

@@ -18,6 +18,12 @@ public class BuilderAbility : AbilityBase
 		Vector3 currentTileCenter = mapGenerator.Instance.GetTileCenter(transform.position);
 		Vector3 targetTileCenter = currentTileCenter + (Vector3)movementDirection;
 
+		if (mapGenerator.Instance.IsPositionOccupied(targetTileCenter) || mapGenerator.Instance.IsPositionOuterGrid(targetTileCenter))
+		{
+			ResetCooldown();
+			return;
+		}
+
 		var builderWall = Instantiate(builderWallPrefab, targetTileCenter, Quaternion.identity);
 		builderWall.GetComponent<NetworkObject>().Spawn();
 	}
