@@ -25,12 +25,14 @@ public class BuilderAbility : AbilityBase
 		}
 
 		var builderWall = Instantiate(builderWallPrefab, targetTileCenter, Quaternion.identity);
+		builderWall.GetComponent<SpriteRenderer>().sortingOrder = -Mathf.FloorToInt(builderWall.transform.position.y);
 		builderWall.GetComponent<NetworkObject>().Spawn();
+		PlayAbilitySFXClientRpc(); 
 	}
 
-	[ClientRpc]
+	[ClientRpc] 
 	private void PlayAbilitySFXClientRpc()
 	{
-		SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.ninjaAbilitySFX[0]);
+		SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.builderAbilitySFX[0]);
 	}
 }

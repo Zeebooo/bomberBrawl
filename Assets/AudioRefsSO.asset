@@ -32,3 +32,5 @@ MonoBehaviour:
   - {fileID: 8300000, guid: c5098bc7b068245b0b8711f6fa803845, type: 3}
   ninjaAbilitySFX:
   - {fileID: 8300000, guid: 07c8c6970cafb486785f35942b7fbe7c, type: 3}
+  builderAbilitySFX:
+  - {fileID: 8300000, guid: 5b1f83bbc554f4367aed82ebf7279fac, type: 3}

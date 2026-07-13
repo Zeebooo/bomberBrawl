@@ -20,41 +20,45 @@ public class breakableWallScript : MonoBehaviour
 
 	public void breakWall(bool isServer)
 	{
-		float roll = Random.value;
-
-		if (isServer && roll <= itemSpawnChance)
+		if (isServer)
 		{
-			Vector3 spawnPos = new(
-				Mathf.Floor(transform.position.x) + 0.5f,
-				Mathf.Floor(transform.position.y) + 0.3f,
-				0f
-			);
+			float roll = Random.value;
 
-			float spawnRoll = Random.value;
-			GameObject prefab = null;
+			if (roll <= itemSpawnChance)
+			{
+				Vector3 spawnPos = new(
+					Mathf.Floor(transform.position.x) + 0.5f,
+					Mathf.Floor(transform.position.y) + 0.3f,
+					0f
+				);
 
-			if (spawnRoll <= commonItemChance)
-			{
-				prefab = commonItemPrefabs.Length > 0 ? commonItemPrefabs[Random.Range(0, commonItemPrefabs.Length)] : null;
-			}
-			else if (spawnRoll <= commonItemChance + rareItemChance)
-			{
-				prefab = rareItemPrefabs.Length > 0 ? rareItemPrefabs[Random.Range(0, rareItemPrefabs.Length)] : null;
-			}
-			else if (spawnRoll <= commonItemChance + rareItemChance + legendaryItemChance)
-			{
-				prefab = legendaryItemPrefabs.Length > 0 ? legendaryItemPrefabs[Random.Range(0, legendaryItemPrefabs.Length)] : null;
-			}
+				float spawnRoll = Random.value;
+				GameObject prefab = null;
 
-			if (prefab != null)
-			{
-				GameObject item = Instantiate(prefab, spawnPos, Quaternion.identity);
-				if (item.TryGetComponent<NetworkObject>(out var netObj))
+				if (spawnRoll <= commonItemChance)
 				{
-					netObj.Spawn();
+					prefab = commonItemPrefabs.Length > 0 ? commonItemPrefabs[Random.Range(0, commonItemPrefabs.Length)] : null;
 				}
-					
+				else if (spawnRoll <= commonItemChance + rareItemChance)
+				{
+					prefab = rareItemPrefabs.Length > 0 ? rareItemPrefabs[Random.Range(0, rareItemPrefabs.Length)] : null;
+				}
+				else if (spawnRoll <= commonItemChance + rareItemChance + legendaryItemChance)
+				{
+					prefab = legendaryItemPrefabs.Length > 0 ? legendaryItemPrefabs[Random.Range(0, legendaryItemPrefabs.Length)] : null;
+				}
+
+				if (prefab != null)
+				{
+					GameObject item = Instantiate(prefab, spawnPos, Quaternion.identity);
+					if (item.TryGetComponent<NetworkObject>(out var netObj))
+					{
+						netObj.Spawn();
+					}
+
+				}
 			}
+
 			if (wallBreakEffectPrefab != null)
 			{
 				GameObject wallBreak = Instantiate(wallBreakEffectPrefab, transform.position, Quaternion.identity);

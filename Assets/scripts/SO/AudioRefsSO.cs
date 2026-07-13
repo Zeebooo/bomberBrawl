@@ -13,4 +13,5 @@ public class AudioRefsSO : ScriptableObject
 	public AudioClip[] swooshSFX;
 	[Header("Character SFX")]
 	public AudioClip[] ninjaAbilitySFX;
+	public AudioClip[] builderAbilitySFX;
 }
