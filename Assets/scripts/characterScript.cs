@@ -40,7 +40,6 @@ public class characterScript : NetworkBehaviour
 	private RuntimeAnimatorController defaultController;
 	[SerializeField] private GameObject shadowPrefab;
 	[SerializeField] private GameObject activeShadowPrefab;
-	public static characterScript Instance { get; private set; }
 
 	static readonly int runUpHash = Animator.StringToHash("isRunningUp");
 	static readonly int runDownHash = Animator.StringToHash("isRunningDown");
@@ -72,7 +71,6 @@ public class characterScript : NetworkBehaviour
 
 	void Awake()
 	{
-		Instance = this;
 		ability = GetComponent<AbilityBase>();
 	}
 

@@ -406,6 +406,7 @@ public class GameLobby : NetworkBehaviour
 				joinAllocation.ConnectionData,
 				joinAllocation.HostConnectionData
 			);
+
 			NetworkManager.Singleton.StartClient();
 		}
 		catch (Exception e)
