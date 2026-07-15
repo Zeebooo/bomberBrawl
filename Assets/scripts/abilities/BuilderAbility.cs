@@ -23,14 +23,18 @@ public class BuilderAbility : AbilityBase
 			ResetCooldown();
 			return;
 		}
-
-		var builderWall = Instantiate(builderWallPrefab, targetTileCenter, Quaternion.identity);
-		builderWall.GetComponent<SpriteRenderer>().sortingOrder = -Mathf.FloorToInt(builderWall.transform.position.y);
-		builderWall.GetComponent<NetworkObject>().Spawn();
-		PlayAbilitySFXClientRpc(); 
+		NetworkSpawnWallServerRPC(targetTileCenter);
+		PlayAbilitySFXClientRpc();
 	}
 
-	[ClientRpc] 
+	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
+	private void NetworkSpawnWallServerRPC(Vector3 position)
+	{
+		GameObject builderWall = Instantiate(builderWallPrefab, position, Quaternion.identity);
+		builderWall.GetComponent<NetworkObject>().Spawn();
+	}
+
+	[ClientRpc]
 	private void PlayAbilitySFXClientRpc()
 	{
 		SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.builderAbilitySFX[0]);

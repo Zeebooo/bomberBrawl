@@ -3,32 +3,32 @@ using UnityEngine;
 
 public abstract class AbilityBase : NetworkBehaviour
 {
-	private float coolDownDuration;
-	private float cooldownTimer;
-	private bool isCooldownActive = false;
+	private readonly NetworkVariable<float> coolDownDuration = new(0f, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Server);
+	private readonly NetworkVariable<float> cooldownTimer = new(0f, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Owner);
+	private readonly NetworkVariable<bool> isCooldownActive = new(false, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Owner);
 
-	public float CooldownProgress => coolDownDuration > 0 ? cooldownTimer / coolDownDuration : 0f;
-	public int CooldownTimeRemaining => Mathf.CeilToInt(cooldownTimer);
-	public bool IsCooldownActive => isCooldownActive;
+	public float CooldownProgress => coolDownDuration.Value > 0 ? cooldownTimer.Value / coolDownDuration.Value : 0f;
+	public int CooldownTimeRemaining => Mathf.CeilToInt(cooldownTimer.Value);
+	public bool IsCooldownActive => isCooldownActive.Value;
 
-	public void setCoolDownDuration(float duration) => coolDownDuration = duration;
+	public void setCoolDownDuration(float duration) => coolDownDuration.Value = duration;
 
 	protected virtual void Update()
 	{
-		if (!isCooldownActive) return;
+		if (!IsOwner || !isCooldownActive.Value) return;
 
-		cooldownTimer -= Time.deltaTime;
-		if (cooldownTimer <= 0f)
+		cooldownTimer.Value -= Time.deltaTime;
+		if (cooldownTimer.Value <= 0f)
 		{
-			isCooldownActive = false;
+			isCooldownActive.Value = false;
 		}
 	}
 
 	public void Activate()
 	{
-		if (isCooldownActive) return;
-		isCooldownActive = true;
-		cooldownTimer = coolDownDuration;
+		if (isCooldownActive.Value) return;
+		isCooldownActive.Value = true;
+		cooldownTimer.Value = coolDownDuration.Value;
 		ExecuteAbility();
 	}
 
@@ -36,7 +36,7 @@ public abstract class AbilityBase : NetworkBehaviour
 
 	protected void ResetCooldown()
 	{
-		isCooldownActive = false;
-		cooldownTimer = 0f;
+		isCooldownActive.Value = false;
+		cooldownTimer.Value = 0f;
 	}
 }

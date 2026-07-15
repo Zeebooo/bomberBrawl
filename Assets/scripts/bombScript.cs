@@ -65,7 +65,7 @@ public class bombScript : NetworkBehaviour
 		}
 
 		if (!IsOwner) return;
-		if (!GameStateHandler.Instance.isGameInProgress()) return;
+		if (GameStateHandler.Instance == null || !GameStateHandler.Instance.isGameInProgress()) return;
 		var kb = Keyboard.current;
 		if (kb == null) return;
 

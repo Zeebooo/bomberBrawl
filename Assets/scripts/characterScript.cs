@@ -103,7 +103,7 @@ public class characterScript : NetworkBehaviour
 		if (IsOwner)
 		{
 			moveCharacter();
-			if (!IsWithinMap(transform.position))
+			if (mapGenerator.Instance != null && !IsWithinMap(transform.position))
 			{
 				transform.position = ClampToMap(transform.position);
 				rb.linearVelocity = Vector2.zero;
@@ -134,7 +134,7 @@ public class characterScript : NetworkBehaviour
 
 	void moveCharacter()
 	{
-		if (!GameStateHandler.Instance.isGameInProgress()) return;
+		if (GameStateHandler.Instance == null || !GameStateHandler.Instance.isGameInProgress()) return;
 
 		var kb = Keyboard.current;
 		if (kb == null) return;
