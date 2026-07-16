@@ -338,6 +338,7 @@ public class GameLobby : NetworkBehaviour
 				joinAllocation.ConnectionData,
 				joinAllocation.HostConnectionData
 			);
+			NetworkManager.Singleton.OnClientDisconnectCallback += HandleLocalClientDisconnected;
 			NetworkManager.Singleton.StartClient();
 		}
 		catch (Exception e)
@@ -372,6 +373,7 @@ public class GameLobby : NetworkBehaviour
 				joinAllocation.ConnectionData,
 				joinAllocation.HostConnectionData
 			);
+			NetworkManager.Singleton.OnClientDisconnectCallback += HandleLocalClientDisconnected;
 			NetworkManager.Singleton.StartClient();
 		}
 		catch (Exception e)
@@ -407,6 +409,7 @@ public class GameLobby : NetworkBehaviour
 				joinAllocation.HostConnectionData
 			);
 
+			NetworkManager.Singleton.OnClientDisconnectCallback += HandleLocalClientDisconnected;
 			NetworkManager.Singleton.StartClient();
 		}
 		catch (Exception e)
@@ -452,11 +455,22 @@ public class GameLobby : NetworkBehaviour
 		StartCoroutine(ShutdownAndLoad());
 	}
 
+	private void HandleLocalClientDisconnected(ulong clientId)
+	{
+		if (NetworkManager.Singleton == null || NetworkManager.Singleton.IsServer) return;
+		if (clientId != NetworkManager.Singleton.LocalClientId) return;
+		if (isLeavingLobby) return;
+
+		joinedLobby = null;
+		StartCoroutine(ShutdownAndLoad());
+	}
+
 	private IEnumerator ShutdownAndLoad()
 	{
 		var nm = NetworkManager.Singleton;
 		if (nm != null)
 		{
+			nm.OnClientDisconnectCallback -= HandleLocalClientDisconnected;
 			nm.Shutdown();
 			Destroy(nm.gameObject);
 		}

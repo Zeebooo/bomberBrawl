@@ -32,6 +32,9 @@ public class mapGenerator : NetworkBehaviour
 
 	private List<Vector3> breakableWallPositions = new();
 	private List<Vector3> wallPositions = new();
+	private List<Vector3> emptyPositions = new();
+	private float randomPowerUpInterval = 8f;
+	private float randomPowerUpTimer = 0f;
 
 	private float breakableWallChance = 0.8f;
 
@@ -56,6 +59,21 @@ public class mapGenerator : NetworkBehaviour
 		{
 			// Klient som joinar efter att seed redan är satt
 			GenerateMap(mapSeed.Value);
+		}
+	}
+
+	private void Update()
+	{
+		if (!IsServer) return;
+
+		if (GameStateHandler.Instance != null && GameStateHandler.Instance.isGameInProgress())
+		{
+			randomPowerUpTimer += Time.deltaTime;
+			if (randomPowerUpTimer >= randomPowerUpInterval)
+			{
+				randomPowerUpTimer = 0f;
+				SpawnRandomPowerUp();
+			}
 		}
 	}
 
@@ -129,6 +147,10 @@ public class mapGenerator : NetworkBehaviour
 						wallPositions.Add(wall.transform.position);
 						wall.GetComponent<SpriteRenderer>().sortingOrder = -y;
 					}
+					else
+					{
+						emptyPositions.Add(new Vector3(x + 0.5f, y + 0.65f, 0));
+					}
 				}
 			}
 		}
@@ -157,6 +179,17 @@ public class mapGenerator : NetworkBehaviour
 		return false;
 	}
 
+	private void SpawnRandomPowerUp()
+	{
+		if (breakableWallPositions.Count > 0) return;
+		if (emptyPositions.Count == 0) return;
+
+		int randomIndex = Random.Range(0, emptyPositions.Count);
+		Vector3 spawnPosition = emptyPositions[randomIndex];
+
+		ItemSpawningManager.Instance.spawnRandomPowerUp(spawnPosition);
+	}
+
 	public float getMapHeight()
 	{
 		return height;
@@ -180,16 +213,16 @@ public class mapGenerator : NetworkBehaviour
 	}
 
 	public bool IsPositionOccupied(Vector3 position)
-    {
-        foreach (Vector3 wallPosition in wallPositions)
-        {
-            if (Vector3.Distance(wallPosition, position) < 0.1f)
-            {
-                return true;
-            }
-        }
+	{
+		foreach (Vector3 wallPosition in wallPositions)
+		{
+			if (Vector3.Distance(wallPosition, position) < 0.1f)
+			{
+				return true;
+			}
+		}
 		return false;
-    }
+	}
 
 	public bool IsPositionOuterGrid(Vector3 position)
 	{
@@ -203,6 +236,16 @@ public class mapGenerator : NetworkBehaviour
 			if (Vector3.Distance(breakableWallPositions[i], position) < 0.1f)
 			{
 				breakableWallPositions.RemoveAt(i);
+				emptyPositions.Add(position);
+				break;
+			}
+		}
+
+		for (int i = 0; i < wallPositions.Count; i++)
+		{
+			if (Vector3.Distance(wallPositions[i], position) < 0.1f)
+			{
+				wallPositions.RemoveAt(i);
 				return;
 			}
 		}

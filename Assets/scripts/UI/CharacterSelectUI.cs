@@ -129,7 +129,6 @@ public class CharacterSelectUI : MonoBehaviour
 	{
 		PlayerData localData = GetLocalPlayerData();
 		if (GameLobby.Instance.characters == null || GameLobby.Instance.characters.Length == 0) return;
-		Debug.Log($"Updating character display for index {localData.selectedCharacterIndex}");
 
 		int index = Mathf.Clamp(localData.selectedCharacterIndex, 0, GameLobby.Instance.characters.Length - 1);
 		CharacterDataSO characterData = GameLobby.Instance.characters[index];

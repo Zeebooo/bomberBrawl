@@ -138,7 +138,8 @@ public class GameStateHandler : NetworkBehaviour
 					if (character.CurrentHealth.Value > 0) aliveCount++;
 					else deadCount++;
 				}
-				if (deadCount > 0 && aliveCount <= 1)
+				
+				if ((deadCount > 0 && aliveCount <= 1) || NetworkManager.Singleton.ConnectedClients.Count <= 1)
 				{
 					state.Value = State.gameOver;
 				}

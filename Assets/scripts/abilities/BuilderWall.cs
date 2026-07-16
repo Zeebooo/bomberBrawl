@@ -13,17 +13,18 @@ public class BuilderWall : NetworkBehaviour
 		GetComponent<SpriteRenderer>().sortingOrder = -Mathf.FloorToInt(transform.position.y);
 	}
 
-    void Update()
-    {
-        if (hasTriggeredDestroy) return;
+	void Update()
+	{
+		if (hasTriggeredDestroy) return;
 
-        wallTimer += Time.deltaTime;
-        if (wallTimer >= wallDuration)
-        {
-            hasTriggeredDestroy = true;
-            NetworkDestroyWallServerRPC();
-        }
-    }
+		wallTimer += Time.deltaTime;
+		if (wallTimer >= wallDuration)
+		{
+			hasTriggeredDestroy = true;
+			PlayAbilitySFXClientRpc();
+			NetworkDestroyWallServerRPC();
+		}
+	}
 
 	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
 	private void NetworkDestroyWallServerRPC()
@@ -31,5 +32,11 @@ public class BuilderWall : NetworkBehaviour
 		GameObject effect = Instantiate(breakEffect, transform.position, transform.rotation);
 		effect.GetComponent<NetworkObject>().Spawn();
 		Destroy(gameObject);
+	}
+
+	[ClientRpc]
+	private void PlayAbilitySFXClientRpc()
+	{
+		SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.builderAbilitySFX[1]);
 	}
 }

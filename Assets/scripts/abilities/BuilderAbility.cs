@@ -24,7 +24,6 @@ public class BuilderAbility : AbilityBase
 			return;
 		}
 		NetworkSpawnWallServerRPC(targetTileCenter);
-		PlayAbilitySFXClientRpc();
 	}
 
 	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
@@ -32,6 +31,7 @@ public class BuilderAbility : AbilityBase
 	{
 		GameObject builderWall = Instantiate(builderWallPrefab, position, Quaternion.identity);
 		builderWall.GetComponent<NetworkObject>().Spawn();
+		PlayAbilitySFXClientRpc();
 	}
 
 	[ClientRpc]

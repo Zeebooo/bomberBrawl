@@ -6,7 +6,7 @@ public class NinjaAbility : AbilityBase
 	[SerializeField] private GameObject smokeCloudPrefab;
 	private Rigidbody2D rb;
 	private characterScript cs;
-	private bool isTouchingWall = false;
+	private bool isTouchingSolidWall = false;
 	private Vector2 wallDirection;
 	private Vector3 wallCenter;
 
@@ -20,7 +20,7 @@ public class NinjaAbility : AbilityBase
 	{
 		if (collision.gameObject.CompareTag("solidWall"))
 		{
-			isTouchingWall = true;
+			isTouchingSolidWall = true;
 			wallCenter = collision.gameObject.transform.position;
 			wallDirection = -collision.contacts[0].normal;
 		}
@@ -30,12 +30,16 @@ public class NinjaAbility : AbilityBase
 	{
 		if (collision.gameObject.CompareTag("solidWall"))
 		{
-			isTouchingWall = false;
+			isTouchingSolidWall = false;
 		}
 	}
 	protected override void ExecuteAbility()
 	{
-		if (!isTouchingWall) return;
+		if (!isTouchingSolidWall)
+		{
+			ResetCooldown();
+			return;
+		}
 
 		Vector2 teleportPos = (Vector2)wallCenter + wallDirection * 1f;
 
@@ -45,12 +49,19 @@ public class NinjaAbility : AbilityBase
 			return;
 		}
 
-		var smokeCloudStart = Instantiate(smokeCloudPrefab, transform.position, Quaternion.identity);
+		Vector3 startPos = transform.position;
+		SpawnSmokeCloudsServerRpc(startPos, teleportPos);
+		transform.position = teleportPos;
+	}
+
+	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
+	private void SpawnSmokeCloudsServerRpc(Vector3 startPos, Vector3 endPos)
+	{
+		var smokeCloudStart = Instantiate(smokeCloudPrefab, startPos, Quaternion.identity);
 		smokeCloudStart.GetComponent<NetworkObject>().Spawn();
 
-		var smokeCloudEnd = Instantiate(smokeCloudPrefab, teleportPos, Quaternion.identity);
+		var smokeCloudEnd = Instantiate(smokeCloudPrefab, endPos, Quaternion.identity);
 		smokeCloudEnd.GetComponent<NetworkObject>().Spawn();
-		transform.position = teleportPos;
 		PlayAbilitySFXClientRpc();
 	}
 

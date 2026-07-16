@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: haldooController
+  m_Controller: {fileID: 9100000, guid: 4a822ed426ea54e0d8792f1e099f8a69, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5649ff95fe87e47bfad7ce1496dd3b89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4763c9fccf3ac4856a64bde2ec3ccda8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a56bf5ae3eafc42a8be0f88902931ece, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9206f4975568a4476a63043ba47197a6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: be702bb4567794c41ae92942dcf700c9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bb48de3d7ec6846009886a55eb1420fc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 57dc488bcbf364cc294ac7f6effeb5c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 888893c4ad0944324924b041d0b9ced4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9414cc65b933a4f3cbe7eeb65abd7781, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7ec43b5e7fcdf4a06828264ef8c07a1b, type: 2}

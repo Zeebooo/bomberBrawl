@@ -86,6 +86,14 @@ public class guiHusScript : MonoBehaviour
     void UpdateAbilityCooldown()
     {
         if (ability == null || abilityCooldownImage == null || abilityCooldownText == null) return;
+
+        if (!character.IsOwner)
+        {
+            abilityCooldownImage.fillAmount = 0f;
+            abilityCooldownText.gameObject.SetActive(false);
+            return;
+        }
+
         abilityCooldownImage.fillAmount = ability.CooldownProgress;
         abilityCooldownText.gameObject.SetActive(ability.IsCooldownActive);
         if (ability.IsCooldownActive)

@@ -28,6 +28,24 @@ public class SoundManager : MonoBehaviour
 		sfxSource.PlayOneShot(clip);
 	}
 
+	public void PlaySFXHighPitch(AudioClip clip)
+	{
+		sfxSource.pitch = 1.1f;
+		sfxSource.PlayOneShot(clip);
+	}
+
+	public void PlaySFXLowPitch(AudioClip clip)
+	{
+		sfxSource.pitch = 0.9f;
+		sfxSource.PlayOneShot(clip);
+	}
+
+	public void PlaySFXNormalPitch(AudioClip clip)
+	{
+		sfxSource.pitch = 1f;
+		sfxSource.PlayOneShot(clip);
+	}
+
 	public void PlayClickSFX(AudioClip clip)
 	{
 		clickSfxSource.pitch = Random.Range(0.9f, 1.1f);

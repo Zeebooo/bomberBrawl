@@ -37,6 +37,7 @@ public class OptionsUI : MonoBehaviour
 	private void Awake()
 	{
 		Instance = this;
+		if (surrenderButton != null) surrenderButton.gameObject.SetActive(false);
 
 		AddReleaseListener(musicVolumeSlider, () =>
 		{
@@ -61,7 +62,6 @@ public class OptionsUI : MonoBehaviour
 			else
 				SoundManager.Instance.PlayClickSFX(SoundManager.Instance.AudioRefs.negativeClickSFX[0]);
 		});
-
 	}
 
 	private void Start()
@@ -91,8 +91,9 @@ public class OptionsUI : MonoBehaviour
 			SoundManager.Instance.PlayClickSFX(SoundManager.Instance.AudioRefs.negativeClickSFX[0]);
 			changeActiveStatus();
 			GameStateHandler.Instance.SurrenderServerRpc();
-
+			GameLobby.Instance.LeaveLobby();
 		});
+		surrenderButton.gameObject.SetActive(true);
 	}
 
 	public void ApplyMusicVolume(float value)

@@ -14,4 +14,6 @@ public class AudioRefsSO : ScriptableObject
 	[Header("Character SFX")]
 	public AudioClip[] ninjaAbilitySFX;
 	public AudioClip[] builderAbilitySFX;
+	public AudioClip[] haldoAbilitySFX;
+	public AudioClip[] monkAbilitySFX;
 }

@@ -34,3 +34,8 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 07c8c6970cafb486785f35942b7fbe7c, type: 3}
   builderAbilitySFX:
   - {fileID: 8300000, guid: 5b1f83bbc554f4367aed82ebf7279fac, type: 3}
+  - {fileID: 8300000, guid: b36f950097f884c29af261cf227945b3, type: 3}
+  haldoAbilitySFX:
+  - {fileID: 8300000, guid: d475100d81748493a996c99b190f81a6, type: 3}
+  monkAbilitySFX:
+  - {fileID: 8300000, guid: b0b11dcf87a9544be87dcc8e7b6e13c3, type: 3}

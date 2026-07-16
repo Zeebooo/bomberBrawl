@@ -317,6 +317,10 @@ public class characterScript : NetworkBehaviour
 	public void activateGodMode(float duration) => activateGodModeRpc(duration);
 	public void deactivateGodMode() => deactivateGodModeRpc();
 	public void increaseMovementSpeed(float multiplier) => moveSpeed.Value *= multiplier;
+	public void addMovementSpeed(float amount) => moveSpeed.Value += amount;
+	public float getMovementSpeed() => moveSpeed.Value;
+	public int getCurrentHealth() => currentHealth.Value;
+	public int getMaxHealth() => maxHealth.Value;
 
 	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
 	void takeDamageRpc(int damage)

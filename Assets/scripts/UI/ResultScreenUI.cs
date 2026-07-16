@@ -40,6 +40,8 @@ public class ResultScreenUI : MonoBehaviour
 	{
 		canvasGroup = GetComponent<CanvasGroup>();
 		canvasGroup.alpha = 0;
+		canvasGroup.interactable = false;
+		canvasGroup.blocksRaycasts = false;
 		goBackToLobbyListButton.onClick.AddListener(() =>
 		{
 			SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.positiveClickSFX[0]);
@@ -136,6 +138,8 @@ public class ResultScreenUI : MonoBehaviour
 		}
 
 		canvasGroup.alpha = 1;
+		canvasGroup.interactable = true;
+		canvasGroup.blocksRaycasts = true;
 		SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.victorySoundSFX[0]);
 	}
 
