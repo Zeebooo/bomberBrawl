@@ -389,7 +389,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 948639924
+  GlobalObjectIdHash: 1744275611
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -420,6 +420,7 @@ MonoBehaviour:
   bombPrefab: {fileID: 2175094321262234252, guid: 088c2a5f72660477091eb6776b8ea895, type: 3}
   shieldPrefab: {fileID: 3812828837226574780}
   torchPrefab: {fileID: 4592858761233077269}
+  primaryAbility: {fileID: 8782669859670293527}
   godModeController: {fileID: 22100000, guid: beb104ca5e4ca4da8a0f5c5da1ed9373, type: 2}
   shadowPrefab: {fileID: 5825509249326696103}
   activeShadowPrefab: {fileID: 1287102929305085892}

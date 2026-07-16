@@ -35,6 +35,7 @@ public class characterScript : NetworkBehaviour
 	public GameObject shieldPrefab;
 	public GameObject torchPrefab;
 	private AbilityBase ability;
+	[SerializeField] private AbilityBase primaryAbility;
 	private Animator _animator;
 	[SerializeField] private RuntimeAnimatorController godModeController;
 	private RuntimeAnimatorController defaultController;
@@ -55,7 +56,7 @@ public class characterScript : NetworkBehaviour
 		defaultController = _animator.runtimeAnimatorController;
 		shieldPrefab.SetActive(false);
 		torchPrefab.SetActive(false);
-		ability = GetComponent<AbilityBase>();
+		ability = primaryAbility != null ? primaryAbility : GetComponent<AbilityBase>();
 
 		if (IsOwner)
 		{
@@ -71,7 +72,7 @@ public class characterScript : NetworkBehaviour
 
 	void Awake()
 	{
-		ability = GetComponent<AbilityBase>();
+		ability = primaryAbility != null ? primaryAbility : GetComponent<AbilityBase>();
 	}
 
 	public override void OnNetworkSpawn()
@@ -125,6 +126,11 @@ public class characterScript : NetworkBehaviour
 		{
 			ability.Activate();
 		}	
+	}
+
+	public AbilityBase GetAbility()
+	{
+		return ability;
 	}
 
 	public Vector2 GetMovementDirection()

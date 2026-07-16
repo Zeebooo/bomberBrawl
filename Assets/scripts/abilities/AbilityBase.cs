@@ -24,7 +24,7 @@ public abstract class AbilityBase : NetworkBehaviour
 		}
 	}
 
-	public void Activate()
+	public virtual void Activate()
 	{
 		if (isCooldownActive.Value) return;
 		isCooldownActive.Value = true;
@@ -34,9 +34,26 @@ public abstract class AbilityBase : NetworkBehaviour
 
 	protected abstract void ExecuteAbility();
 
+	// Sant om senaste ExecuteAbility()-anropet misslyckades (dvs kallade ResetCooldown()). Används av Jester.
+	public bool LastEffectFailed { get; private set; }
+
+	// Kör effekten utan att röra den här instansens egen cooldown — används av Jester för att låna andra abilities.
+	public void TriggerEffect()
+	{
+		LastEffectFailed = false;
+		ExecuteAbility();
+	}
+
+	// Hur länge effekten visuellt pågår efter aktivering (0 = momentan). Används av Jester som fallback om RunningCoroutine inte sätts.
+	public virtual float EffectDuration => 0f;
+
+	// Sätts av abilities som startar en lokal coroutine i ExecuteAbility(), så Jester kan vänta in exakt när den är klar.
+	public Coroutine RunningCoroutine { get; protected set; }
+
 	protected void ResetCooldown()
 	{
 		isCooldownActive.Value = false;
 		cooldownTimer.Value = 0f;
+		LastEffectFailed = true;
 	}
 }

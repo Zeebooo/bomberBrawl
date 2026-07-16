@@ -12,6 +12,8 @@ public class HaldoAbility : AbilityBase
 	[SerializeField] private RuntimeAnimatorController whirlwindAnimatorController;
 	[SerializeField] private GameObject bobbingHeadPrefab;
 
+	public override float EffectDuration => abilityDuration;
+
 	private void Start()
 	{
 		cs = GetComponent<characterScript>();

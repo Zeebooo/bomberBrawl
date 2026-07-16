@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 2555054057367836285}
   - component: {fileID: -6417075938805609380}
   m_Layer: 2
-  m_Name: redNinjaPortrait
+  m_Name: jesterPortrait
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -178,7 +178,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7882412656940679191, guid: dfd0a1e38b46a49fcb291d673a9e945e, type: 3}
+  m_Sprite: {fileID: -8431133896764612160, guid: 82ad76b98e9df42d98f4c3b423b2a956, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 2246352038
+  GlobalObjectIdHash: 2796823863
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -250,7 +250,7 @@ Animator:
   m_GameObject: {fileID: 9220478434429692062}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4a822ed426ea54e0d8792f1e099f8a69, type: 2}
+  m_Controller: {fileID: 22100000, guid: 8f3a63320a5b2416ca5cc3fedf016467, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -295,6 +295,10 @@ MonoBehaviour:
       ParameterType: 4
     - name: isDead
       NameHash: 1276664872
+      Synchronize: 1
+      ParameterType: 4
+    - name: isChanneling
+      NameHash: -2124271529
       Synchronize: 1
       ParameterType: 4
   AnimatorParametersExpanded: 0

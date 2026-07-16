@@ -19,6 +19,9 @@ public class mapGenerator : NetworkBehaviour
 	[SerializeField] private GameObject breakableWallPrefab;
 	[SerializeField] private Camera mainCamera;
 	[SerializeField] private GameObject mapDecorations;
+	[SerializeField] private GameObject rightMapDecorations;
+	[SerializeField] private GameObject topMapDecorations;
+	[SerializeField] private SpriteRenderer backgroundSquare;
 
 	[Header("Settings")]
 	private int width2Players = 11;
@@ -88,7 +91,6 @@ public class mapGenerator : NetworkBehaviour
 			height = height2Players;
 			mainCamera.transform.position = new Vector3(4f, 4.5f, -10f);
 			mainCamera.orthographicSize = 6.2f;
-			mapDecorations.SetActive(true);
 		}
 		else
 		{
@@ -96,8 +98,15 @@ public class mapGenerator : NetworkBehaviour
 			height = height3orMorePlayers;
 			mainCamera.transform.position = new Vector3(4f, 5.75f, -10f);
 			mainCamera.orthographicSize = 7f;
-			mapDecorations.SetActive(false);
+
+			float widthGrowth = width3orMorePlayers - width2Players;
+			float heightGrowth = height3orMorePlayers - height2Players;
+
+			rightMapDecorations.transform.position += new Vector3(widthGrowth, 0f, 0f);
+			topMapDecorations.transform.position += new Vector3(0f, heightGrowth, 0f);
 		}
+
+		ResizeBackgroundToCamera();
 
 		spawnPoints = new Vector3[]
 		{
@@ -154,6 +163,24 @@ public class mapGenerator : NetworkBehaviour
 				}
 			}
 		}
+	}
+
+	private void ResizeBackgroundToCamera()
+	{
+		if (backgroundSquare == null || backgroundSquare.sprite == null) return;
+
+		float cameraHeight = mainCamera.orthographicSize * 2f;
+		float cameraWidth = cameraHeight * mainCamera.aspect;
+
+		Vector2 spriteSize = backgroundSquare.sprite.bounds.size;
+		backgroundSquare.transform.localScale = new Vector3(
+			cameraWidth / spriteSize.x,
+			cameraHeight / spriteSize.y,
+			1f
+		);
+
+		Vector3 pos = backgroundSquare.transform.position;
+		backgroundSquare.transform.position = new Vector3(mainCamera.transform.position.x, mainCamera.transform.position.y, pos.z);
 	}
 
 	bool IsSpawnProtected(int x, int y)

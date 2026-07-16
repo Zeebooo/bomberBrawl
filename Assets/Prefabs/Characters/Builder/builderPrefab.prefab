@@ -420,6 +420,7 @@ MonoBehaviour:
   bombPrefab: {fileID: 2175094321262234252, guid: 088c2a5f72660477091eb6776b8ea895, type: 3}
   shieldPrefab: {fileID: 3812828837226574780}
   torchPrefab: {fileID: 7909097375676937636}
+  primaryAbility: {fileID: 2259137297582296203}
   godModeController: {fileID: 22100000, guid: beb104ca5e4ca4da8a0f5c5da1ed9373, type: 2}
   shadowPrefab: {fileID: 5825509249326696103}
   activeShadowPrefab: {fileID: 7638618201776989023}
@@ -578,6 +579,10 @@ MonoBehaviour:
       ParameterType: 4
     - name: isDead
       NameHash: 1276664872
+      Synchronize: 1
+      ParameterType: 4
+    - name: isChanneling
+      NameHash: -2124271529
       Synchronize: 1
       ParameterType: 4
   AnimatorParametersExpanded: 0

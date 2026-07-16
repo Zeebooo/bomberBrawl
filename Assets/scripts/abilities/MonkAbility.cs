@@ -9,6 +9,8 @@ public class MonkAbility : AbilityBase
 	private float channelingDuration = 3f;
 	private int healAmount = 1;
 
+	public override float EffectDuration => channelingDuration;
+
 	private void Start()
 	{
 		cs = GetComponent<characterScript>();
@@ -17,7 +19,7 @@ public class MonkAbility : AbilityBase
 
 	protected override void ExecuteAbility()
 	{
-		StartCoroutine(ChannelingCoroutine());
+		RunningCoroutine = StartCoroutine(ChannelingCoroutine());
 	}
 
 	private IEnumerator ChannelingCoroutine()

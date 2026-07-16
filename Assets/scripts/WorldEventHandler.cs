@@ -32,7 +32,7 @@ public class WorldEventHandler : NetworkBehaviour
 		if (testing && Keyboard.current.tKey.wasPressedThisFrame)
 		{
 			eventTimer = 0f;
-			TriggerDarknessRpc(10f, "Darkness");
+			TriggerSwitchRpc(10f, "Switch");
 		}
 		else if (eventTimer <= 0f)
 		{
@@ -140,7 +140,7 @@ public class WorldEventHandler : NetworkBehaviour
 
 	// SWITCH
 
-	[Rpc(SendTo.Everyone, InvokePermission = RpcInvokePermission.Everyone)]
+	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
 	public void TriggerSwitchRpc(float duration, string eventName)
 	{
 		characterScript[] allCharacters = FindObjectsByType<characterScript>();
@@ -177,8 +177,16 @@ public class WorldEventHandler : NetworkBehaviour
 			(order[i], order[j]) = (order[j], order[i]);
 		}
 
+		ulong[] clientIds = new ulong[n];
+		Vector3[] newPositions = new Vector3[n];
+		for (int i = 0; i < n; i++)
+		{
+			clientIds[i] = characters[i].OwnerClientId;
+			newPositions[i] = SnapToTileCenter(positions[order[i]]);
+		}
+
 		SetCharactersVisibleRpc(false);
-		if (IsServer && poofEffectPrefab != null)
+		if (poofEffectPrefab != null)
 		{
 			for (int i = 0; i < n; i++)
 			{
@@ -191,13 +199,29 @@ public class WorldEventHandler : NetworkBehaviour
 		}
 		SetInterpolationRpc(false);
 
-		for (int i = 0; i < n; i++)
-		{
-			characters[i].transform.position = SnapToTileCenter(positions[order[i]]);
-		}
+		ApplySwitchPositionsRpc(clientIds, newPositions);
 
 		StartCoroutine(ShowAfterDelay());
 		ShowPopupRpc(duration, eventName);
+	}
+
+	// Positionerna är redan beräknade en gång på servern — varje klient flyttar bara sin egen (ägar-auktoritativa) karaktär.
+	[Rpc(SendTo.Everyone)]
+	private void ApplySwitchPositionsRpc(ulong[] clientIds, Vector3[] newPositions)
+	{
+		foreach (var character in FindObjectsByType<characterScript>())
+		{
+			if (!character.IsOwner) continue;
+
+			for (int i = 0; i < clientIds.Length; i++)
+			{
+				if (character.OwnerClientId == clientIds[i])
+				{
+					character.transform.position = newPositions[i];
+					break;
+				}
+			}
+		}
 	}
 
 	// HELPER METHODS

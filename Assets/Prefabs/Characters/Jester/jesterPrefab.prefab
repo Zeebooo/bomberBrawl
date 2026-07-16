@@ -273,6 +273,112 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1 &6484007993599551252
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4276867005423405148}
+  - component: {fileID: 3905236672001966618}
+  - component: {fileID: 2228272843459189489}
+  m_Layer: 0
+  m_Name: haldooHead
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4276867005423405148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6484007993599551252}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.00029999763, y: -0.030800104, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3787893937991642057}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &3905236672001966618
+SpriteRenderer:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6484007993599551252}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: -1332406609020410393, guid: 82ad76b98e9df42d98f4c3b423b2a956, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+--- !u!114 &2228272843459189489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6484007993599551252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da7bc1c493c9a4c6e96169273e7ac169, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  amplitude: 0.05
+  frequency: 10
 --- !u!1 &9220478434429692062
 GameObject:
   m_ObjectHideFlags: 0
@@ -291,9 +397,13 @@ GameObject:
   - component: {fileID: 3070015964633355612}
   - component: {fileID: 2555054057367836285}
   - component: {fileID: -6417075938805609380}
-  - component: {fileID: 6246401462068740691}
+  - component: {fileID: -3957654044040458137}
+  - component: {fileID: 7453852911126788643}
+  - component: {fileID: -3060286236542301605}
+  - component: {fileID: -8994821057153430806}
+  - component: {fileID: 4123851598884003932}
   m_Layer: 2
-  m_Name: redNinjaPrefab
+  m_Name: jesterPrefab
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -312,6 +422,7 @@ Transform:
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 4276867005423405148}
   - {fileID: 2542085574533812851}
   - {fileID: 2955100499421519955}
   - {fileID: 6639336328034681563}
@@ -367,7 +478,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7882412656940679191, guid: dfd0a1e38b46a49fcb291d673a9e945e, type: 3}
+  m_Sprite: {fileID: -8431133896764612160, guid: 82ad76b98e9df42d98f4c3b423b2a956, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -389,7 +500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 381381892
+  GlobalObjectIdHash: 2044600492
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -420,6 +531,7 @@ MonoBehaviour:
   bombPrefab: {fileID: 2175094321262234252, guid: 088c2a5f72660477091eb6776b8ea895, type: 3}
   shieldPrefab: {fileID: 3812828837226574780}
   torchPrefab: {fileID: 4592858761233077269}
+  primaryAbility: {fileID: -3957654044040458137}
   godModeController: {fileID: 22100000, guid: beb104ca5e4ca4da8a0f5c5da1ed9373, type: 2}
   shadowPrefab: {fileID: 5825509249326696103}
   activeShadowPrefab: {fileID: 1287102929305085892}
@@ -533,7 +645,7 @@ Animator:
   m_GameObject: {fileID: 9220478434429692062}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4a822ed426ea54e0d8792f1e099f8a69, type: 2}
+  m_Controller: {fileID: 22100000, guid: 8f3a63320a5b2416ca5cc3fedf016467, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -578,6 +690,10 @@ MonoBehaviour:
       ParameterType: 4
     - name: isDead
       NameHash: 1276664872
+      Synchronize: 1
+      ParameterType: 4
+    - name: isChanneling
+      NameHash: -2124271529
       Synchronize: 1
       ParameterType: 4
   AnimatorParametersExpanded: 0
@@ -627,7 +743,25 @@ MonoBehaviour:
   SwitchTransformSpaceWhenParented: 0
   Interpolate: 1
   SlerpPosition: 0
---- !u!114 &6246401462068740691
+--- !u!114 &-3957654044040458137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9220478434429692062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61fd8e32936749b9ab8b67446892b62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::JesterAbility
+  ShowTopMostFoldoutHeaderGroup: 1
+  abilityIcons:
+  - {fileID: -6242742688074877422, guid: 803e716b1eec54559961bbccfcb19e8d, type: 3}
+  - {fileID: 5786251395003078474, guid: 6775f05ddd2be4eb498091bc0ca837c9, type: 3}
+  - {fileID: -7753107590575645130, guid: dde8de73697c7447d87536404c0e8f1e, type: 3}
+  - {fileID: 6731417177886138735, guid: f46cba570912a4a0aa4cb5ec33c084ca, type: 3}
+--- !u!114 &7453852911126788643
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -641,6 +775,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NinjaAbility
   ShowTopMostFoldoutHeaderGroup: 1
   smokeCloudPrefab: {fileID: 6849653878317790298, guid: bbca7490ef6bd43c896c66b674dc9c8f, type: 3}
+--- !u!114 &-3060286236542301605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9220478434429692062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb2e156bf0bb4cd3a34bb9b0e035c08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BuilderAbility
+  ShowTopMostFoldoutHeaderGroup: 1
+  builderWallPrefab: {fileID: 508771325500690660, guid: c07aa78278d994b3da24430398da9c65, type: 3}
+--- !u!114 &-8994821057153430806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9220478434429692062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ea791301ae224fd49cdd89522be6a80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HaldoAbility
+  ShowTopMostFoldoutHeaderGroup: 1
+  whirlwindAnimatorController: {fileID: 9100000, guid: 7f48ef55724084253b22de1c3d340310, type: 2}
+  bobbingHeadPrefab: {fileID: 6484007993599551252}
+--- !u!114 &4123851598884003932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9220478434429692062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8819465f7d835413bbdb44ba994ad18e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MonkAbility
+  ShowTopMostFoldoutHeaderGroup: 1
 --- !u!1001 &1085431359637660035
 PrefabInstance:
   m_ObjectHideFlags: 0
