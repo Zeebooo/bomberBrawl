@@ -15,6 +15,7 @@ public class BuilderWall : NetworkBehaviour
 
 	void Update()
 	{
+		if (!IsServer) return;
 		if (hasTriggeredDestroy) return;
 
 		wallTimer += Time.deltaTime;

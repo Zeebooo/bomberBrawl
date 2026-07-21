@@ -21,7 +21,9 @@ public class JesterAbility : AbilityBase
 			GetComponent<BuilderAbility>(),
 			GetComponent<NinjaAbility>(),
 			GetComponent<HaldoAbility>(),
-			GetComponent<MonkAbility>()
+			GetComponent<MonkAbility>(),
+			GetComponent<FairyAbility>(),
+			GetComponent<GeologistAbility>(),
 		};
 	}
 

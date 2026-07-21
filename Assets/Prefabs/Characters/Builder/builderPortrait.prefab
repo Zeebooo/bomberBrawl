@@ -178,12 +178,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -4906457821859568354, guid: 9137fdaf2d83f420485d258a161c0f9d, type: 3}
+  m_Sprite: {fileID: -282103522, guid: 9137fdaf2d83f420485d258a161c0f9d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.14, y: 0.14}
+  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -200,7 +200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 1233244121
+  GlobalObjectIdHash: 2392016593
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -295,6 +295,14 @@ MonoBehaviour:
       ParameterType: 4
     - name: isDead
       NameHash: 1276664872
+      Synchronize: 1
+      ParameterType: 4
+    - name: isChanneling
+      NameHash: -2124271529
+      Synchronize: 1
+      ParameterType: 4
+    - name: isAnimation
+      NameHash: -1261816549
       Synchronize: 1
       ParameterType: 4
   AnimatorParametersExpanded: 0

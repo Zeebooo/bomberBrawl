@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b6256ec581c4d8790b955a69256f0d, type: 3}
+  m_Name: geologistData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDataSO
+  characterName: Geologist
+  prefab: {fileID: 9220478434429692062, guid: 6012ebcb039614c6a9a8d819cfb0fc37, type: 3}
+  portrait: {fileID: 9220478434429692062, guid: cee90848e0f7d4edabe9c08ca6843f58, type: 3}
+  GUI:
+  - {fileID: -1839505528, guid: 63b2576c5f9f04f5ea040ad41265bdaa, type: 3}
+  - {fileID: -662416002, guid: 63b2576c5f9f04f5ea040ad41265bdaa, type: 3}
+  - {fileID: 6580459740925903434, guid: 63b2576c5f9f04f5ea040ad41265bdaa, type: 3}
+  maxHealth: 3
+  moveSpeed: 5.2
+  explosionRadius: 1
+  maxBombs: 1
+  abilityName: 'Ability: Taste for minerals'
+  abilityDescription: Press Q to indulge your taste for minerals and lick a rock.
+    For the next 10 seconds, the first stat powerup you pick up is doubled.
+  abilityCooldown: 18
+  abilityIcon: {fileID: 3609343596276308538, guid: fad2b307e64b549f68f57b38e7f8125f, type: 3}

@@ -137,7 +137,7 @@ public class CharacterSelectUI : MonoBehaviour
 		string radiusString = FormatPercent(characterData.explosionRadius / defaultData.explosionRadius);
 
 		if (characterNameText != null) characterNameText.text = characterData.characterName;
-		if (statsText != null) statsText.text = $"HP: {characterData.maxHealth}\nMovement Speed: {moveSpeedString}\nMax Bombs: {characterData.maxBombs}\nExplosion Radius: {radiusString}";
+		if (statsText != null) statsText.text = $"HP: {characterData.maxHealth}\nMovement Speed: {moveSpeedString}\nMax Bombs: {characterData.maxBombs}\nExplosion Radius: {radiusString} \nAbility Cooldown: {characterData.abilityCooldown}s";
 		if (abilityText != null) abilityText.text = $"{characterData.abilityName}\n{characterData.abilityDescription}";
 
 		RefreshPreview(characterData.prefab);
@@ -194,7 +194,7 @@ public class CharacterSelectUI : MonoBehaviour
 		int percent = Mathf.RoundToInt(ratio * 100f);
 		if (percent > 100) return $"<color=green>+{percent - 100}%</color>";
 		if (percent < 100) return $"<color=red>-{100 - percent}%</color>";
-		return "Normal";
+		return "+0%";
 	}
 
 	private void HandleReadyChanged(object sender, EventArgs e)

@@ -9,6 +9,7 @@ TagManager:
   - wallEffect
   - explosion
   - builderWall
+  - multiplierItem
   layers:
   - Default
   - TransparentFX

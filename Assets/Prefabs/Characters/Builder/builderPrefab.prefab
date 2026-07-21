@@ -367,12 +367,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -4906457821859568354, guid: 9137fdaf2d83f420485d258a161c0f9d, type: 3}
+  m_Sprite: {fileID: -282103522, guid: 9137fdaf2d83f420485d258a161c0f9d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.14, y: 0.14}
+  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -389,7 +389,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 1969355381
+  GlobalObjectIdHash: 95955258
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -517,7 +517,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.32, y: 0.32}
-    newSize: {x: 0.14, y: 0.14}
+    newSize: {x: 0.32, y: 0.32}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -646,6 +646,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BuilderAbility
   ShowTopMostFoldoutHeaderGroup: 1
   builderWallPrefab: {fileID: 508771325500690660, guid: c07aa78278d994b3da24430398da9c65, type: 3}
+  builderAnimatorController: {fileID: 22100000, guid: 3181ab17ff8964ba3bbab3b282ff97ee, type: 2}
 --- !u!1001 &6732851271824408626
 PrefabInstance:
   m_ObjectHideFlags: 0

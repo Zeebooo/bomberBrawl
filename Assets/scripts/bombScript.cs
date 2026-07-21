@@ -177,10 +177,10 @@ public class bombScript : NetworkBehaviour
 		explosionRadius.Value = data.explosionRadius;
 	}
 
-	public void addBomb()
+	public void addBomb(int amount)
 	{
-		currentBombs.Value++;
-		maxBombs.Value++;
+		currentBombs.Value += amount;
+		maxBombs.Value += amount;
 	}
 	public void increaseExplosionRadius(float multiplier) => explosionRadius.Value *= multiplier;
 	public void setRemoteBomb() => remoteBomb.Value = true;

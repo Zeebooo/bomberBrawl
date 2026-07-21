@@ -309,6 +309,7 @@ GameObject:
   - component: {fileID: 53666390}
   - component: {fileID: 53666389}
   - component: {fileID: 53666388}
+  - component: {fileID: 53666391}
   m_Layer: 5
   m_Name: Join Code button
   m_TagString: Untagged
@@ -355,7 +356,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -418,6 +419,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 53666386}
   m_CullTransparentMesh: 1
+--- !u!95 &53666391
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53666386}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a3ba92b8ddf3d4c5bb5316f90a48ab0c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &55471755
 GameObject:
   m_ObjectHideFlags: 0
@@ -3062,6 +3085,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 694533b753188455fb9db26fc80d6c85, type: 2}
   - {fileID: 11400000, guid: 696a3d1e59d0e465c80fb83acab47939, type: 2}
   - {fileID: 11400000, guid: 2ee2c887b4a7e45ee87ac0befcbbbfec, type: 2}
+  - {fileID: 11400000, guid: 01a82a7c73a234dc5a3d15f1dbce3495, type: 2}
+  - {fileID: 11400000, guid: 44fe16151064f47b4ab489d79121e951, type: 2}
 --- !u!4 &854865570
 Transform:
   m_ObjectHideFlags: 0
@@ -4544,6 +4569,7 @@ GameObject:
   - component: {fileID: 1225975467}
   - component: {fileID: 1225975466}
   - component: {fileID: 1225975465}
+  - component: {fileID: 1225975468}
   m_Layer: 5
   m_Name: Quick join button
   m_TagString: Untagged
@@ -4590,7 +4616,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -4653,6 +4679,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225975463}
   m_CullTransparentMesh: 1
+--- !u!95 &1225975468
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1225975463}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a3ba92b8ddf3d4c5bb5316f90a48ab0c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1305556118
 GameObject:
   m_ObjectHideFlags: 0
@@ -4960,6 +5008,7 @@ GameObject:
   - component: {fileID: 1322270964}
   - component: {fileID: 1322270963}
   - component: {fileID: 1322270962}
+  - component: {fileID: 1322270965}
   m_Layer: 5
   m_Name: Main menu button
   m_TagString: Untagged
@@ -5006,7 +5055,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -5069,6 +5118,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322270960}
   m_CullTransparentMesh: 1
+--- !u!95 &1322270965
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322270960}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 55037217834c3456d9173062ded1e8d2, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1340246353
 GameObject:
   m_ObjectHideFlags: 0
@@ -5735,9 +5806,9 @@ RectTransform:
   - {fileID: 1855907652}
   m_Father: {fileID: 2086052756}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.7574815}
-  m_AnchorMax: {x: 0.5, y: 0.7574815}
-  m_AnchoredPosition: {x: 0, y: 61.100006}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -200.9}
   m_SizeDelta: {x: 333.4089, y: 39.20166}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1622137149
@@ -7302,6 +7373,7 @@ GameObject:
   - component: {fileID: 2076421918}
   - component: {fileID: 2076421917}
   - component: {fileID: 2076421916}
+  - component: {fileID: 2076421919}
   m_Layer: 5
   m_Name: Create game button
   m_TagString: Untagged
@@ -7348,7 +7420,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -7411,6 +7483,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2076421914}
   m_CullTransparentMesh: 1
+--- !u!95 &2076421919
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076421914}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a3ba92b8ddf3d4c5bb5316f90a48ab0c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2086052755
 GameObject:
   m_ObjectHideFlags: 0

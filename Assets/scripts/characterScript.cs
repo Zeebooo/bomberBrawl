@@ -125,12 +125,7 @@ public class characterScript : NetworkBehaviour
 		if (kb != null && kb.qKey.wasPressedThisFrame && ability != null)
 		{
 			ability.Activate();
-		}	
-	}
-
-	public AbilityBase GetAbility()
-	{
-		return ability;
+		}
 	}
 
 	public Vector2 GetMovementDirection()
@@ -327,6 +322,7 @@ public class characterScript : NetworkBehaviour
 	public float getMovementSpeed() => moveSpeed.Value;
 	public int getCurrentHealth() => currentHealth.Value;
 	public int getMaxHealth() => maxHealth.Value;
+	public AbilityBase GetAbility() => ability;
 
 	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
 	void takeDamageRpc(int damage)
@@ -350,7 +346,14 @@ public class characterScript : NetworkBehaviour
 	{
 		if (currentHealth.Value < maxHealth.Value)
 		{
-			currentHealth.Value += amount;
+			if (currentHealth.Value + amount > maxHealth.Value)
+			{
+				currentHealth.Value = maxHealth.Value;
+			}
+			else
+			{
+				currentHealth.Value += amount;
+			}
 		}
 	}
 

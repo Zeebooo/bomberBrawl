@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 9076026696626371244}
   - component: {fileID: 8925186903549253582}
   - component: {fileID: 4178644527881100616}
+  - component: {fileID: -535203982726082399}
   m_Layer: 2
   m_Name: MoreBombs
   m_TagString: Untagged
@@ -108,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 1588101224
+  GlobalObjectIdHash: 2713760344
   InScenePlacedSourceGlobalObjectIdHash: 0
   DeferredDespawnTick: 0
   Ownership: 1
@@ -221,3 +222,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1681bc66a96be4bf0bf0d43d94eceac9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+--- !u!114 &-535203982726082399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2546522236907479853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1681bc66a96be4bf0bf0d43d94eceac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::itemBobbing

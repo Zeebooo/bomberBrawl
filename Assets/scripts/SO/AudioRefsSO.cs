@@ -16,4 +16,6 @@ public class AudioRefsSO : ScriptableObject
 	public AudioClip[] builderAbilitySFX;
 	public AudioClip[] haldoAbilitySFX;
 	public AudioClip[] monkAbilitySFX;
+	public AudioClip[] geologistAbilitySFX;
+	public AudioClip[] fairyAbilitySFX;
 }

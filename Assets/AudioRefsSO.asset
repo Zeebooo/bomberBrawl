@@ -39,3 +39,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: d475100d81748493a996c99b190f81a6, type: 3}
   monkAbilitySFX:
   - {fileID: 8300000, guid: b0b11dcf87a9544be87dcc8e7b6e13c3, type: 3}
+  geologistAbilitySFX:
+  - {fileID: 8300000, guid: b734543420dab49769ca153eb79eebc8, type: 3}
+  fairyAbilitySFX:
+  - {fileID: 8300000, guid: 21374285bc3304c15b1d3229eb9b6264, type: 3}

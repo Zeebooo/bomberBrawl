@@ -23,7 +23,7 @@ MonoBehaviour:
   explosionRadius: 1.152
   maxBombs: 1
   abilityName: 'Ability: Shadow Step'
-  abilityDescription: Run towards a wall and press Q to teleport through it (can't
-    teleport through walls built by builder).
+  abilityDescription: Run towards a stone wall and press Q to teleport through it
+    (can't teleport through walls built by Builder).
   abilityCooldown: 11
   abilityIcon: {fileID: 5786251395003078474, guid: 6775f05ddd2be4eb498091bc0ca837c9, type: 3}

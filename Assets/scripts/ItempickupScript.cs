@@ -67,19 +67,26 @@ public class ItempickupScript : NetworkBehaviour
 		bombScript bomb = playerNetObj.GetComponent<bombScript>();
 		if (character == null) return;
 
+		GeologistAbility geologist = character.GetAbility() as GeologistAbility;
+		bool doubleActive = geologist != null && geologist.IsAbilityActive();
+
 		switch (item)
 		{
 			case itemTypes.Movement:
-				character.increaseMovementSpeed(moveSpeedMultiplier);
+				character.increaseMovementSpeed(doubleActive ? doubleMultiplier(moveSpeedMultiplier) : moveSpeedMultiplier);
+				if (doubleActive) geologist.ConsumeDoubling();
 				break;
 			case itemTypes.MoreBombs:
-				bomb.addBomb();
+				bomb.addBomb(doubleActive ? 2 : 1);
+				if (doubleActive) geologist.ConsumeDoubling();
 				break;
 			case itemTypes.ExplosionRange:
-				bomb.increaseExplosionRadius(explosionRangeMultiplier);
+				bomb.increaseExplosionRadius(doubleActive ? doubleMultiplier(explosionRangeMultiplier) : explosionRangeMultiplier);
+				if (doubleActive) geologist.ConsumeDoubling();
 				break;
 			case itemTypes.Health:
-				character.addHealth(healthMultiplier);
+				character.addHealth(doubleActive ? healthMultiplier * 2 : healthMultiplier);
+				if (doubleActive) geologist.ConsumeDoubling();
 				break;
 			case itemTypes.RemoteBomb:
 				bomb.setRemoteBomb();
@@ -132,6 +139,11 @@ public class ItempickupScript : NetworkBehaviour
 				SoundManager.Instance.PlaySFX(SoundManager.Instance.AudioRefs.powerUpSFX[2]);
 				break;
 		}
+	}
+
+	private float doubleMultiplier(float multiplier)
+	{
+		return multiplier * 2f;
 	}
 
 	public static string[] getWorldEvents() => worldEvents;

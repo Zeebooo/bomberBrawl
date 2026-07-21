@@ -12,6 +12,7 @@ public class WorldEventHandler : NetworkBehaviour
 	public static WorldEventHandler Instance { get; private set; }
 	private float eventInterval;
 	private float eventTimer;
+	private bool isSwitchInProgress = false;
 	private readonly WaitForSeconds switchShowDelay = new(0.2f);
 	[SerializeField] private GameObject poofEffectPrefab;
 	[SerializeField] private GameObject globalLight;
@@ -143,6 +144,8 @@ public class WorldEventHandler : NetworkBehaviour
 	[Rpc(SendTo.Server, InvokePermission = RpcInvokePermission.Everyone)]
 	public void TriggerSwitchRpc(float duration, string eventName)
 	{
+		if (isSwitchInProgress) return;
+
 		characterScript[] allCharacters = FindObjectsByType<characterScript>();
 		System.Collections.Generic.List<characterScript> aliveCharactersList = new();
 		foreach (var c in allCharacters)
@@ -158,6 +161,8 @@ public class WorldEventHandler : NetworkBehaviour
 		{
 			return;
 		}
+
+		isSwitchInProgress = true;
 
 		Vector3[] positions = new Vector3[n];
 		for (int i = 0; i < n; i++)
@@ -238,6 +243,7 @@ public class WorldEventHandler : NetworkBehaviour
 		yield return switchShowDelay;
 		SetInterpolationRpc(true);
 		SetCharactersVisibleRpc(true);
+		isSwitchInProgress = false;
 	}
 
 	[Rpc(SendTo.Everyone)]

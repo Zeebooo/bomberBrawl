@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5863293943234733605}
   - component: {fileID: 7988483525632949312}
   - component: {fileID: -7126388655550995909}
+  - component: {fileID: 8112632164254923866}
   m_Layer: 2
   m_Name: Movespeed
   m_TagString: Untagged
@@ -210,6 +211,18 @@ BoxCollider2D:
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!114 &-7126388655550995909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3690708114628439249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1681bc66a96be4bf0bf0d43d94eceac9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::itemBobbing
+--- !u!114 &8112632164254923866
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

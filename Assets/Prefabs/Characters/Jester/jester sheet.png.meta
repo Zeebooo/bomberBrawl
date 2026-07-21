@@ -861,8 +861,8 @@ TextureImporter:
       name: jester sheet_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 64
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -883,8 +883,8 @@ TextureImporter:
       name: jester sheet_29
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
+        x: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -906,7 +906,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -928,7 +928,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -949,7 +949,7 @@ TextureImporter:
       name: jester sheet_32
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 64
         width: 32
         height: 32
@@ -971,7 +971,7 @@ TextureImporter:
       name: jester sheet_33
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 64
         width: 32
         height: 32
@@ -993,8 +993,8 @@ TextureImporter:
       name: jester sheet_34
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
+        x: 64
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -1015,8 +1015,8 @@ TextureImporter:
       name: jester sheet_35
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 96
+        y: 64
         width: 32
         height: 32
       alignment: 0
@@ -1037,7 +1037,7 @@ TextureImporter:
       name: jester sheet_36
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 32
         width: 32
         height: 32
@@ -1059,7 +1059,7 @@ TextureImporter:
       name: jester sheet_37
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 32
         width: 32
         height: 32
@@ -1081,8 +1081,8 @@ TextureImporter:
       name: jester sheet_38
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 64
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -1103,8 +1103,8 @@ TextureImporter:
       name: jester sheet_39
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 96
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -1125,7 +1125,7 @@ TextureImporter:
       name: jester sheet_40
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 0
         width: 32
         height: 32
@@ -1147,7 +1147,7 @@ TextureImporter:
       name: jester sheet_41
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 0
         width: 32
         height: 32
@@ -1161,6 +1161,50 @@ TextureImporter:
       bones: []
       spriteID: 506896fa64264eb70800000000000000
       internalID: 8927368417085326853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester sheet_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b2cf4c7b5964e78bead048d38fd787
+      internalID: 628757938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester sheet_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622945afc20b4d24b1dc29870ccafdc
+      internalID: 69479290
       vertices: []
       indices: 
       edges: []
@@ -1218,6 +1262,8 @@ TextureImporter:
       jester sheet_4: -1332406609020410393
       jester sheet_40: -158895499253938325
       jester sheet_41: 8927368417085326853
+      jester sheet_42: 628757938
+      jester sheet_43: 69479290
       jester sheet_5: 4494935887726839163
       jester sheet_6: 7904115511940419853
       jester sheet_7: 4032347195181750688

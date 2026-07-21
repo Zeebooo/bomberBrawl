@@ -23,8 +23,8 @@ MonoBehaviour:
   moveSpeed: 5
   explosionRadius: 1.28
   maxBombs: 1
-  abilityName: 'Ability: Toolbox Trickery'
-  abilityDescription: Gain a random characters ability after each activation. Press
-    Q to activate.
+  abilityName: 'Ability: Sleight of hand'
+  abilityDescription: Press Q to perform a random ability borrowed from another
+    character's act, never quite knowing what trick you'll pull next.
   abilityCooldown: 27
   abilityIcon: {fileID: 5786251395003078474, guid: 6775f05ddd2be4eb498091bc0ca837c9, type: 3}
