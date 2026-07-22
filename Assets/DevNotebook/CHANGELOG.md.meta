@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67d9f55686855734dbe7ec4eddca98ab
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 379218
+  packageName: DevNotebook
+  packageVersion: 1.0.0
+  assetPath: Assets/DevNotebook/CHANGELOG.md
+  uploadId: 936830

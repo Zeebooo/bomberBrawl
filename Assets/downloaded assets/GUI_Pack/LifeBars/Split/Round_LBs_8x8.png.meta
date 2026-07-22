@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: 39fce2a1dbd7d4c57b92652414d14638
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4888299202295408675
+    second: Round_LBs_8x8_0
+  - first:
+      213: -6542027303465759155
+    second: Round_LBs_8x8_1
+  - first:
+      213: -4548817176004629506
+    second: Round_LBs_8x8_2
+  - first:
+      213: 1573285326362097455
+    second: Round_LBs_8x8_3
+  - first:
+      213: -4677698504311129077
+    second: Round_LBs_8x8_4
+  - first:
+      213: 9007495522899019622
+    second: Round_LBs_8x8_5
+  - first:
+      213: 5519623191684502461
+    second: Round_LBs_8x8_6
+  - first:
+      213: -6556186693521573110
+    second: Round_LBs_8x8_7
+  - first:
+      213: 3600995612393622954
+    second: Round_LBs_8x8_8
+  - first:
+      213: -8985250992729429866
+    second: Round_LBs_8x8_9
+  - first:
+      213: -3583989624033861046
+    second: Round_LBs_8x8_10
+  - first:
+      213: -6771920387844141255
+    second: Round_LBs_8x8_11
+  - first:
+      213: 2848790595529674527
+    second: Round_LBs_8x8_12
+  - first:
+      213: 1560907660154049073
+    second: Round_LBs_8x8_13
+  - first:
+      213: 62970532482767091
+    second: Round_LBs_8x8_14
+  - first:
+      213: -2220410808011194659
+    second: Round_LBs_8x8_15
+  - first:
+      213: -3183466387380253833
+    second: Round_LBs_8x8_16
+  - first:
+      213: -5541179558375912127
+    second: Round_LBs_8x8_17
+  - first:
+      213: -4352459699842478013
+    second: Round_LBs_8x8_18
+  - first:
+      213: 7827675243542690182
+    second: Round_LBs_8x8_19
+  - first:
+      213: 6256525420503971158
+    second: Round_LBs_8x8_20
+  - first:
+      213: 5395029263098593958
+    second: Round_LBs_8x8_21
+  - first:
+      213: 347485141410434712
+    second: Round_LBs_8x8_22
+  - first:
+      213: -4343494071893446564
+    second: Round_LBs_8x8_23
+  - first:
+      213: -5059960056671569799
+    second: Round_LBs_8x8_24
+  - first:
+      213: -4146044666726341133
+    second: Round_LBs_8x8_25
+  - first:
+      213: 8842871056935797642
+    second: Round_LBs_8x8_26
+  - first:
+      213: 6283513835408451846
+    second: Round_LBs_8x8_27
+  - first:
+      213: -1299772338865684583
+    second: Round_LBs_8x8_28
+  - first:
+      213: -8974705449913651006
+    second: Round_LBs_8x8_29
+  - first:
+      213: -2422859091575014394
+    second: Round_LBs_8x8_30
+  - first:
+      213: 6144935637938262122
+    second: Round_LBs_8x8_31
+  - first:
+      213: 543399896240367246
+    second: Round_LBs_8x8_32
+  - first:
+      213: 1272957506589264580
+    second: Round_LBs_8x8_33
+  - first:
+      213: -5327198872639953163
+    second: Round_LBs_8x8_34
+  - first:
+      213: 1399448431039375245
+    second: Round_LBs_8x8_35
+  - first:
+      213: -7640811859859143356
+    second: Round_LBs_8x8_36
+  - first:
+      213: 1645751124723083612
+    second: Round_LBs_8x8_37
+  - first:
+      213: -4938274310359310930
+    second: Round_LBs_8x8_38
+  - first:
+      213: -5008068483601539580
+    second: Round_LBs_8x8_39
+  - first:
+      213: 2848155521116947904
+    second: Round_LBs_8x8_40
+  - first:
+      213: -4669585827117469694
+    second: Round_LBs_8x8_41
+  - first:
+      213: 4131087503445780713
+    second: Round_LBs_8x8_42
+  - first:
+      213: -4626255301008728502
+    second: Round_LBs_8x8_43
+  - first:
+      213: -3850899064228468252
+    second: Round_LBs_8x8_44
+  - first:
+      213: -35274567619174259
+    second: Round_LBs_8x8_45
+  - first:
+      213: -2101394989624966408
+    second: Round_LBs_8x8_46
+  - first:
+      213: 1598017340098465128
+    second: Round_LBs_8x8_47
+  - first:
+      213: 3594973484253820276
+    second: Round_LBs_8x8_48
+  - first:
+      213: -5698495564617981116
+    second: Round_LBs_8x8_49
+  - first:
+      213: -7762823278745875992
+    second: Round_LBs_8x8_50
+  - first:
+      213: -4677749024981532749
+    second: Round_LBs_8x8_51
+  - first:
+      213: -9146918805411840864
+    second: Round_LBs_8x8_52
+  - first:
+      213: 2342915902717677628
+    second: Round_LBs_8x8_53
+  - first:
+      213: 873773118762483642
+    second: Round_LBs_8x8_54
+  - first:
+      213: -1201101683666273014
+    second: Round_LBs_8x8_55
+  - first:
+      213: -4704346343081498767
+    second: Round_LBs_8x8_56
+  - first:
+      213: -8861559347312346792
+    second: Round_LBs_8x8_57
+  - first:
+      213: -6967668213931406817
+    second: Round_LBs_8x8_58
+  - first:
+      213: -2515460199918335440
+    second: Round_LBs_8x8_59
+  - first:
+      213: 3766131712103316166
+    second: Round_LBs_8x8_60
+  - first:
+      213: 5724230197572360404
+    second: Round_LBs_8x8_61
+  - first:
+      213: -9030728965740758148
+    second: Round_LBs_8x8_62
+  - first:
+      213: -4307302568028030955
+    second: Round_LBs_8x8_63
+  - first:
+      213: -8631742058737339934
+    second: Round_LBs_8x8_64
+  - first:
+      213: 8993451200823752238
+    second: Round_LBs_8x8_65
+  - first:
+      213: 363950979155062170
+    second: Round_LBs_8x8_66
+  - first:
+      213: -1489183615500312652
+    second: Round_LBs_8x8_67
+  - first:
+      213: 7199316984766760476
+    second: Round_LBs_8x8_68
+  - first:
+      213: -3419447165547795049
+    second: Round_LBs_8x8_69
+  - first:
+      213: 5443284607167047003
+    second: Round_LBs_8x8_70
+  - first:
+      213: 1779576041207872684
+    second: Round_LBs_8x8_71
+  - first:
+      213: -2173837033833485410
+    second: Round_LBs_8x8_72
+  - first:
+      213: -5808234833076167162
+    second: Round_LBs_8x8_73
+  - first:
+      213: -1519573673808803652
+    second: Round_LBs_8x8_74
+  - first:
+      213: -8858504759390707121
+    second: Round_LBs_8x8_75
+  - first:
+      213: 158981672439469243
+    second: Round_LBs_8x8_76
+  - first:
+      213: -5524892429619531426
+    second: Round_LBs_8x8_77
+  - first:
+      213: -3199753844190912991
+    second: Round_LBs_8x8_78
+  - first:
+      213: 3549815255104594945
+    second: Round_LBs_8x8_79
+  - first:
+      213: -8247693131119988051
+    second: Round_LBs_8x8_80
+  - first:
+      213: -1604569138659396000
+    second: Round_LBs_8x8_81
+  - first:
+      213: 3472836279962883353
+    second: Round_LBs_8x8_82
+  - first:
+      213: -2340159638841167938
+    second: Round_LBs_8x8_83
+  - first:
+      213: 4127061138360849304
+    second: Round_LBs_8x8_84
+  - first:
+      213: 3422489512800012406
+    second: Round_LBs_8x8_85
+  - first:
+      213: 7601348067694840095
+    second: Round_LBs_8x8_86
+  - first:
+      213: 8289462750843037993
+    second: Round_LBs_8x8_87
+  - first:
+      213: 8949902637711269140
+    second: Round_LBs_8x8_88
+  - first:
+      213: -823410959206286538
+    second: Round_LBs_8x8_89
+  - first:
+      213: 9127985084497568420
+    second: Round_LBs_8x8_90
+  - first:
+      213: -6425823240017553834
+    second: Round_LBs_8x8_91
+  - first:
+      213: 5051768377493283334
+    second: Round_LBs_8x8_92
+  - first:
+      213: 8465339571602612301
+    second: Round_LBs_8x8_93
+  - first:
+      213: 3215369159567902876
+    second: Round_LBs_8x8_94
+  - first:
+      213: -403067592853624995
+    second: Round_LBs_8x8_95
+  - first:
+      213: -3569197089119889271
+    second: Round_LBs_8x8_96
+  - first:
+      213: -1143089903449238462
+    second: Round_LBs_8x8_97
+  - first:
+      213: 8544429294719678547
+    second: Round_LBs_8x8_98
+  - first:
+      213: -7037859444156574816
+    second: Round_LBs_8x8_99
+  - first:
+      213: -7634374826649401025
+    second: Round_LBs_8x8_100
+  - first:
+      213: 6112805719973365117
+    second: Round_LBs_8x8_101
+  - first:
+      213: 5908236169249260112
+    second: Round_LBs_8x8_102
+  - first:
+      213: 4443819513796601183
+    second: Round_LBs_8x8_103
+  - first:
+      213: 1227332459384581675
+    second: Round_LBs_8x8_104
+  - first:
+      213: -2716933852329573122
+    second: Round_LBs_8x8_105
+  - first:
+      213: 5684752493992966312
+    second: Round_LBs_8x8_106
+  - first:
+      213: 1708252765549988516
+    second: Round_LBs_8x8_107
+  - first:
+      213: -2744532880556120094
+    second: Round_LBs_8x8_108
+  - first:
+      213: 3580824620454176002
+    second: Round_LBs_8x8_109
+  - first:
+      213: 5839560496822739197
+    second: Round_LBs_8x8_110
+  - first:
+      213: -925756980958438822
+    second: Round_LBs_8x8_111
+  - first:
+      213: 944301362488123104
+    second: Round_LBs_8x8_112
+  - first:
+      213: -8951216381135529414
+    second: Round_LBs_8x8_113
+  - first:
+      213: 569037007175414462
+    second: Round_LBs_8x8_114
+  - first:
+      213: -8078726063402830691
+    second: Round_LBs_8x8_115
+  - first:
+      213: -1991542714058453484
+    second: Round_LBs_8x8_116
+  - first:
+      213: -533838519012395383
+    second: Round_LBs_8x8_117
+  - first:
+      213: -8564311804242213353
+    second: Round_LBs_8x8_118
+  - first:
+      213: -6271918436893562479
+    second: Round_LBs_8x8_119
+  - first:
+      213: 3415665071981639733
+    second: Round_LBs_8x8_120
+  - first:
+      213: -304425585375458288
+    second: Round_LBs_8x8_121
+  - first:
+      213: -7958800927776270119
+    second: Round_LBs_8x8_122
+  - first:
+      213: -2793077719120507596
+    second: Round_LBs_8x8_123
+  - first:
+      213: 6803444756204655650
+    second: Round_LBs_8x8_124
+  - first:
+      213: -8766010191808472606
+    second: Round_LBs_8x8_125
+  - first:
+      213: -8478516478343114632
+    second: Round_LBs_8x8_126
+  - first:
+      213: -6187879040960237797
+    second: Round_LBs_8x8_127
+  - first:
+      213: -8478427075928030807
+    second: Round_LBs_8x8_128
+  - first:
+      213: -7310461653410547515
+    second: Round_LBs_8x8_129
+  - first:
+      213: -917301185244568933
+    second: Round_LBs_8x8_130
+  - first:
+      213: -6592024210091156598
+    second: Round_LBs_8x8_131
+  - first:
+      213: 7094385980039290563
+    second: Round_LBs_8x8_132
+  - first:
+      213: -8087496957020177862
+    second: Round_LBs_8x8_133
+  - first:
+      213: 8042749796651693427
+    second: Round_LBs_8x8_134
+  - first:
+      213: 4813733155743556882
+    second: Round_LBs_8x8_135
+  - first:
+      213: 6625909674766661192
+    second: Round_LBs_8x8_136
+  - first:
+      213: -4905078385020524489
+    second: Round_LBs_8x8_137
+  - first:
+      213: -7019636811940715217
+    second: Round_LBs_8x8_138
+  - first:
+      213: 3279795478349816268
+    second: Round_LBs_8x8_139
+  - first:
+      213: 2445540125149357028
+    second: Round_LBs_8x8_140
+  - first:
+      213: -6731530803094811023
+    second: Round_LBs_8x8_141
+  - first:
+      213: -3747068548071747841
+    second: Round_LBs_8x8_142
+  - first:
+      213: 8335873734445677735
+    second: Round_LBs_8x8_143
+  - first:
+      213: -312478058769934376
+    second: Round_LBs_8x8_144
+  - first:
+      213: -259277153486678403
+    second: Round_LBs_8x8_145
+  - first:
+      213: 6768214681017731111
+    second: Round_LBs_8x8_146
+  - first:
+      213: 7955545828862304595
+    second: Round_LBs_8x8_147
+  - first:
+      213: -4370373879331472554
+    second: Round_LBs_8x8_148
+  - first:
+      213: -7429930984612734936
+    second: Round_LBs_8x8_149
+  - first:
+      213: -7568427303739107556
+    second: Round_LBs_8x8_150
+  - first:
+      213: -8758440236303939064
+    second: Round_LBs_8x8_151
+  - first:
+      213: 5351808025617139857
+    second: Round_LBs_8x8_152
+  - first:
+      213: 2680486947575193530
+    second: Round_LBs_8x8_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Round_LBs_8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 28
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a4a4a93ab6d340800000000000000
+      internalID: 4888299202295408675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e440224dc0635a0800000000000000
+      internalID: -6542027303465759155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6c0c01ea5fd0c0800000000000000
+      internalID: -4548817176004629506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b5203bae65d510800000000000000
+      internalID: 1573285326362097455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 279
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cb82c6ef9751fb0800000000000000
+      internalID: -4677698504311129077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667415e447d010d70800000000000000
+      internalID: 9007495522899019622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3dc527c04a99c40800000000000000
+      internalID: 5519623191684502461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bf08b30feb305a0800000000000000
+      internalID: -6556186693521573110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad467a3e6e49f130800000000000000
+      internalID: 3600995612393622954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698e2a8f3d9fd4380800000000000000
+      internalID: -8985250992729429866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a6ccfc6c134ec0800000000000000
+      internalID: -3583989624033861046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f0353594e4502a0800000000000000
+      internalID: -6771920387844141255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f050ef3ffe88720800000000000000
+      internalID: 2848790595529674527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321ba23f3579a510800000000000000
+      internalID: 1560907660154049073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 199
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d3fb9d57bfd000800000000000000
+      internalID: 62970532482767091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 199
+        width: 14
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefd0562248f21e0800000000000000
+      internalID: -2220410808011194659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bcdc9ff2e02d3d0800000000000000
+      internalID: -3183466387380253833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d0952dc86c913b0800000000000000
+      internalID: -5541179558375912127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3409fab96f4f893c0800000000000000
+      internalID: -4352459699842478013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 279
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893b74492d71ac60800000000000000
+      internalID: 7827675243542690182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553751b8b4a3d650800000000000000
+      internalID: 6256525420503971158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a244dbd78efeda40800000000000000
+      internalID: 5395029263098593958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ece7225e382d400800000000000000
+      internalID: 347485141410434712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50b6c8872fc8b3c0800000000000000
+      internalID: -4343494071893446564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978fc64232967c9b0800000000000000
+      internalID: -5059960056671569799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5afd0a75a4676c0800000000000000
+      internalID: -4146044666726341133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83cd3fef5038ba70800000000000000
+      internalID: 8842871056935797642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e5c4ba86833750800000000000000
+      internalID: 6283513835408451846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f380db1f746fde0800000000000000
+      internalID: -1299772338865684583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0722e71f0737380800000000000000
+      internalID: -8974705449913651006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 13
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c78d93e76406ed0800000000000000
+      internalID: -2422859091575014394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d2fac762374550800000000000000
+      internalID: 6144935637938262122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 263
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86246a935b8a8700800000000000000
+      internalID: 543399896240367246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca8b6a9b147aa110800000000000000
+      internalID: 1272957506589264580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 247
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f62f6c99dcf116b0800000000000000
+      internalID: -5327198872639953163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d876495fee6db6310800000000000000
+      internalID: 1399448431039375245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 231
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4450181a81266f590800000000000000
+      internalID: -7640811859859143356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59a1d9ade1e6d610800000000000000
+      internalID: 1645751124723083612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 215
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9897cda9b77bb0800000000000000
+      internalID: -4938274310359310930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed9108f34cf7ab0800000000000000
+      internalID: -5008068483601539580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 199
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c54e353b5ea68720800000000000000
+      internalID: 2848155521116947904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 279
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f6764e6c423fb0800000000000000
+      internalID: -4669585827117469694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 271
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e0fa6232945930800000000000000
+      internalID: 4131087503445780713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 263
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5b1f805d3ccfb0800000000000000
+      internalID: -4626255301008728502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e927ca34bbde8ac0800000000000000
+      internalID: -3850899064228468252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802477b7fda28ff0800000000000000
+      internalID: -35274567619174259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f24e9ef36856d2e0800000000000000
+      internalID: -2101394989624966408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dcb7ddd4c4d2610800000000000000
+      internalID: 1598017340098465128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b5e14659e3e130800000000000000
+      internalID: 3594973484253820276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 215
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436ec4d970eae0b0800000000000000
+      internalID: -5698495564617981116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e908307b59e44490800000000000000
+      internalID: -7762823278745875992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfbb89ab0c451fb0800000000000000
+      internalID: -4677749024981532749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 13
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac36161fcd9f0180800000000000000
+      internalID: -9146918805411840864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 271
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d918a995b38020800000000000000
+      internalID: 2342915902717677628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7f16a504402c00800000000000000
+      internalID: 873773118762483642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 255
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0db2f5e164d45fe0800000000000000
+      internalID: -1201101683666273014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 247
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1772838fcedc6beb0800000000000000
+      internalID: -4704346343081498767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859b76369ba650580800000000000000
+      internalID: -8861559347312346792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a86dbfcaedd4f90800000000000000
+      internalID: -6967668213931406817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a0c31964a471dd0800000000000000
+      internalID: -2515460199918335440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 215
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca704d96dcf34430800000000000000
+      internalID: 3766131712103316166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 207
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d85dd2590d807f40800000000000000
+      internalID: 5724230197572360404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bf03e3ad76ca280800000000000000
+      internalID: -9030728965740758148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_63
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 279
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518bf8ca2236934c0800000000000000
+      internalID: -4307302568028030955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 271
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1792c9454e53880800000000000000
+      internalID: -8631742058737339934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_65
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 263
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26f8e1c7382fcc70800000000000000
+      internalID: 8993451200823752238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d613cbc730d0500800000000000000
+      internalID: 363950979155062170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf95c8446b555be0800000000000000
+      internalID: -1489183615500312652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16857e67ac19e360800000000000000
+      internalID: 7199316984766760476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dae418beeab80d0800000000000000
+      internalID: -3419447165547795049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 223
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b552b8da28e6a8b40800000000000000
+      internalID: 5443284607167047003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 215
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacbdfa1bf252b810800000000000000
+      internalID: 1779576041207872684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_72
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b24c63cbaf4d1e0800000000000000
+      internalID: -2173837033833485410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ed1725131056fa0800000000000000
+      internalID: -5808234833076167162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb847927bc369eae0800000000000000
+      internalID: -1519573673808803652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42e86f0bd4401580800000000000000
+      internalID: -8858504759390707121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45d8f1df0d43200800000000000000
+      internalID: 158981672439469243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51784e7b93a353b0800000000000000
+      internalID: -5524892429619531426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5f4ce4d03893d0800000000000000
+      internalID: -3199753844190912991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a5c2ba2a734130800000000000000
+      internalID: 3549815255104594945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f92f9bce4a8d80800000000000000
+      internalID: -8247693131119988051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f6a8aedc6bb9e0800000000000000
+      internalID: -1604569138659396000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d64e523ef13030800000000000000
+      internalID: 3472836279962883353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf6a290535168fd0800000000000000
+      internalID: -2340159638841167938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893515e3d34464930800000000000000
+      internalID: 4127061138360849304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c1f924102f7f20800000000000000
+      internalID: 3422489512800012406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198d0d3bc96d7960800000000000000
+      internalID: 7601348067694840095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 167
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e4d2d3761a0370800000000000000
+      internalID: 8289462750843037993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_88
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9c17c701743c70800000000000000
+      internalID: 8949902637711269140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_89
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 167
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b78506818a294f0800000000000000
+      internalID: -823410959206286538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2aa8c721e1dae70800000000000000
+      internalID: 9127985084497568420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656dd450fc3e2d6a0800000000000000
+      internalID: -6425823240017553834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_92
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 119
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602e90ce29c7b1640800000000000000
+      internalID: 5051768377493283334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_93
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406e643d7dea7570800000000000000
+      internalID: 8465339571602612301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988ac107394f9c20800000000000000
+      internalID: 3215369159567902876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_95
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57ec7be824086af0800000000000000
+      internalID: -403067592853624995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_96
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 119
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98896a9682aa77ec0800000000000000
+      internalID: -3569197089119889271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24492960acde220f0800000000000000
+      internalID: -1143089903449238462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35835385c29e39670800000000000000
+      internalID: 8544429294719678547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_99
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a35bebaf10845e90800000000000000
+      internalID: -7037859444156574816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_100
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39c0673b804d0690800000000000000
+      internalID: -7634374826649401025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750dff4a6c05d450800000000000000
+      internalID: 6112805719973365117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05287352e754ef150800000000000000
+      internalID: 5908236169249260112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_103
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55abcdad4e9bad30800000000000000
+      internalID: 4443819513796601183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_104
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eacee7e5c580110800000000000000
+      internalID: 1227332459384581675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_105
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef489a56e038b4ad0800000000000000
+      internalID: -2716933852329573122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87770364c44ee40800000000000000
+      internalID: 5684752493992966312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_107
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8f2de6dee4b710800000000000000
+      internalID: 1708252765549988516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_108
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a214e2e579e9d0800000000000000
+      internalID: -2744532880556120094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e4213505a1b130800000000000000
+      internalID: 3580824620454176002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e58125594a0150800000000000000
+      internalID: 5839560496822739197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a52a14eec0723f0800000000000000
+      internalID: -925756980958438822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee95080615da1d00800000000000000
+      internalID: 944301362488123104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_113
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a52ce7024e6c380800000000000000
+      internalID: -8951216381135529414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_114
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2fdb4a420a5e700800000000000000
+      internalID: 569037007175414462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_115
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d943f21c27992ef80800000000000000
+      internalID: -8078726063402830691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_116
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4785047e9c54e0800000000000000
+      internalID: -1991542714058453484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_117
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98678d202bc6798f0800000000000000
+      internalID: -533838519012395383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_118
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716457a2ac3752980800000000000000
+      internalID: -8564311804242213353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_119
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1996cb4696ba5f8a0800000000000000
+      internalID: -6271918436893562479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_120
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538bc273941e66f20800000000000000
+      internalID: 3415665071981639733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_121
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cc7230b8676cbf0800000000000000
+      internalID: -304425585375458288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_122
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d898d549b8ac8190800000000000000
+      internalID: -7958800927776270119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_123
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d83c1ec9efc39d0800000000000000
+      internalID: -2793077719120507596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_124
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2249296a5f0ba6e50800000000000000
+      internalID: 6803444756204655650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e95dc3cc20e85680800000000000000
+      internalID: -8766010191808472606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870101e1f22465a80800000000000000
+      internalID: -8478516478343114632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_127
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fea7a0ccc302aa0800000000000000
+      internalID: -6187879040960237797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_128
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1814dbe73965a80800000000000000
+      internalID: -8478427075928030807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_129
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c87954dbd50c8a90800000000000000
+      internalID: -7310461653410547515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_130
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e37d9e671543f0800000000000000
+      internalID: -917301185244568933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bddbe28ec6484a0800000000000000
+      internalID: -6592024210091156598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_132
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced0cf0672547260800000000000000
+      internalID: 7094385980039290563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_133
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a72c2fd5073cf80800000000000000
+      internalID: -8087496957020177862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f4c6e3569d9f60800000000000000
+      internalID: 8042749796651693427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_135
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2156d970dc0ddc240800000000000000
+      internalID: 4813733155743556882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_136
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467a4e5eb5f3fb50800000000000000
+      internalID: 6625909674766661192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_137
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a7617239adebb0800000000000000
+      internalID: -4905078385020524489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25a40cd28d359e90800000000000000
+      internalID: -7019636811940715217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc129f64c9c248d20800000000000000
+      internalID: 3279795478349816268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_140
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3ed7b69cd40f120800000000000000
+      internalID: 2445540125149357028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_141
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e0fe6566cc492a0800000000000000
+      internalID: -6731530803094811023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe0523220dbffbc0800000000000000
+      internalID: -3747068548071747841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb4220ff8fea370800000000000000
+      internalID: 8335873734445677735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71ae27cdad9abf0800000000000000
+      internalID: -312478058769934376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_145
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d765d087dccd66cf0800000000000000
+      internalID: -259277153486678403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72845a194678ded50800000000000000
+      internalID: 6768214681017731111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ada3f7c6c76e60800000000000000
+      internalID: 7955545828862304595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_148
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b3dcaac105953c0800000000000000
+      internalID: -4370373879331472554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_149
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8285d7c822593e890800000000000000
+      internalID: -7429930984612734936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17534c677b87f690800000000000000
+      internalID: -7568427303739107556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_151
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a8d906205c37680800000000000000
+      internalID: -8758440236303939064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1988ef05b01754a40800000000000000
+      internalID: 5351808025617139857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_8x8_153
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5a4f4da0033520800000000000000
+      internalID: 2680486947575193530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Round_LBs_8x8_0: 4888299202295408675
+      Round_LBs_8x8_1: -6542027303465759155
+      Round_LBs_8x8_10: -3583989624033861046
+      Round_LBs_8x8_100: -7634374826649401025
+      Round_LBs_8x8_101: 6112805719973365117
+      Round_LBs_8x8_102: 5908236169249260112
+      Round_LBs_8x8_103: 4443819513796601183
+      Round_LBs_8x8_104: 1227332459384581675
+      Round_LBs_8x8_105: -2716933852329573122
+      Round_LBs_8x8_106: 5684752493992966312
+      Round_LBs_8x8_107: 1708252765549988516
+      Round_LBs_8x8_108: -2744532880556120094
+      Round_LBs_8x8_109: 3580824620454176002
+      Round_LBs_8x8_11: -6771920387844141255
+      Round_LBs_8x8_110: 5839560496822739197
+      Round_LBs_8x8_111: -925756980958438822
+      Round_LBs_8x8_112: 944301362488123104
+      Round_LBs_8x8_113: -8951216381135529414
+      Round_LBs_8x8_114: 569037007175414462
+      Round_LBs_8x8_115: -8078726063402830691
+      Round_LBs_8x8_116: -1991542714058453484
+      Round_LBs_8x8_117: -533838519012395383
+      Round_LBs_8x8_118: -8564311804242213353
+      Round_LBs_8x8_119: -6271918436893562479
+      Round_LBs_8x8_12: 2848790595529674527
+      Round_LBs_8x8_120: 3415665071981639733
+      Round_LBs_8x8_121: -304425585375458288
+      Round_LBs_8x8_122: -7958800927776270119
+      Round_LBs_8x8_123: -2793077719120507596
+      Round_LBs_8x8_124: 6803444756204655650
+      Round_LBs_8x8_125: -8766010191808472606
+      Round_LBs_8x8_126: -8478516478343114632
+      Round_LBs_8x8_127: -6187879040960237797
+      Round_LBs_8x8_128: -8478427075928030807
+      Round_LBs_8x8_129: -7310461653410547515
+      Round_LBs_8x8_13: 1560907660154049073
+      Round_LBs_8x8_130: -917301185244568933
+      Round_LBs_8x8_131: -6592024210091156598
+      Round_LBs_8x8_132: 7094385980039290563
+      Round_LBs_8x8_133: -8087496957020177862
+      Round_LBs_8x8_134: 8042749796651693427
+      Round_LBs_8x8_135: 4813733155743556882
+      Round_LBs_8x8_136: 6625909674766661192
+      Round_LBs_8x8_137: -4905078385020524489
+      Round_LBs_8x8_138: -7019636811940715217
+      Round_LBs_8x8_139: 3279795478349816268
+      Round_LBs_8x8_14: 62970532482767091
+      Round_LBs_8x8_140: 2445540125149357028
+      Round_LBs_8x8_141: -6731530803094811023
+      Round_LBs_8x8_142: -3747068548071747841
+      Round_LBs_8x8_143: 8335873734445677735
+      Round_LBs_8x8_144: -312478058769934376
+      Round_LBs_8x8_145: -259277153486678403
+      Round_LBs_8x8_146: 6768214681017731111
+      Round_LBs_8x8_147: 7955545828862304595
+      Round_LBs_8x8_148: -4370373879331472554
+      Round_LBs_8x8_149: -7429930984612734936
+      Round_LBs_8x8_15: -2220410808011194659
+      Round_LBs_8x8_150: -7568427303739107556
+      Round_LBs_8x8_151: -8758440236303939064
+      Round_LBs_8x8_152: 5351808025617139857
+      Round_LBs_8x8_153: 2680486947575193530
+      Round_LBs_8x8_16: -3183466387380253833
+      Round_LBs_8x8_17: -5541179558375912127
+      Round_LBs_8x8_18: -4352459699842478013
+      Round_LBs_8x8_19: 7827675243542690182
+      Round_LBs_8x8_2: -4548817176004629506
+      Round_LBs_8x8_20: 6256525420503971158
+      Round_LBs_8x8_21: 5395029263098593958
+      Round_LBs_8x8_22: 347485141410434712
+      Round_LBs_8x8_23: -4343494071893446564
+      Round_LBs_8x8_24: -5059960056671569799
+      Round_LBs_8x8_25: -4146044666726341133
+      Round_LBs_8x8_26: 8842871056935797642
+      Round_LBs_8x8_27: 6283513835408451846
+      Round_LBs_8x8_28: -1299772338865684583
+      Round_LBs_8x8_29: -8974705449913651006
+      Round_LBs_8x8_3: 1573285326362097455
+      Round_LBs_8x8_30: -2422859091575014394
+      Round_LBs_8x8_31: 6144935637938262122
+      Round_LBs_8x8_32: 543399896240367246
+      Round_LBs_8x8_33: 1272957506589264580
+      Round_LBs_8x8_34: -5327198872639953163
+      Round_LBs_8x8_35: 1399448431039375245
+      Round_LBs_8x8_36: -7640811859859143356
+      Round_LBs_8x8_37: 1645751124723083612
+      Round_LBs_8x8_38: -4938274310359310930
+      Round_LBs_8x8_39: -5008068483601539580
+      Round_LBs_8x8_4: -4677698504311129077
+      Round_LBs_8x8_40: 2848155521116947904
+      Round_LBs_8x8_41: -4669585827117469694
+      Round_LBs_8x8_42: 4131087503445780713
+      Round_LBs_8x8_43: -4626255301008728502
+      Round_LBs_8x8_44: -3850899064228468252
+      Round_LBs_8x8_45: -35274567619174259
+      Round_LBs_8x8_46: -2101394989624966408
+      Round_LBs_8x8_47: 1598017340098465128
+      Round_LBs_8x8_48: 3594973484253820276
+      Round_LBs_8x8_49: -5698495564617981116
+      Round_LBs_8x8_5: 9007495522899019622
+      Round_LBs_8x8_50: -7762823278745875992
+      Round_LBs_8x8_51: -4677749024981532749
+      Round_LBs_8x8_52: -9146918805411840864
+      Round_LBs_8x8_53: 2342915902717677628
+      Round_LBs_8x8_54: 873773118762483642
+      Round_LBs_8x8_55: -1201101683666273014
+      Round_LBs_8x8_56: -4704346343081498767
+      Round_LBs_8x8_57: -8861559347312346792
+      Round_LBs_8x8_58: -6967668213931406817
+      Round_LBs_8x8_59: -2515460199918335440
+      Round_LBs_8x8_6: 5519623191684502461
+      Round_LBs_8x8_60: 3766131712103316166
+      Round_LBs_8x8_61: 5724230197572360404
+      Round_LBs_8x8_62: -9030728965740758148
+      Round_LBs_8x8_63: -4307302568028030955
+      Round_LBs_8x8_64: -8631742058737339934
+      Round_LBs_8x8_65: 8993451200823752238
+      Round_LBs_8x8_66: 363950979155062170
+      Round_LBs_8x8_67: -1489183615500312652
+      Round_LBs_8x8_68: 7199316984766760476
+      Round_LBs_8x8_69: -3419447165547795049
+      Round_LBs_8x8_7: -6556186693521573110
+      Round_LBs_8x8_70: 5443284607167047003
+      Round_LBs_8x8_71: 1779576041207872684
+      Round_LBs_8x8_72: -2173837033833485410
+      Round_LBs_8x8_73: -5808234833076167162
+      Round_LBs_8x8_74: -1519573673808803652
+      Round_LBs_8x8_75: -8858504759390707121
+      Round_LBs_8x8_76: 158981672439469243
+      Round_LBs_8x8_77: -5524892429619531426
+      Round_LBs_8x8_78: -3199753844190912991
+      Round_LBs_8x8_79: 3549815255104594945
+      Round_LBs_8x8_8: 3600995612393622954
+      Round_LBs_8x8_80: -8247693131119988051
+      Round_LBs_8x8_81: -1604569138659396000
+      Round_LBs_8x8_82: 3472836279962883353
+      Round_LBs_8x8_83: -2340159638841167938
+      Round_LBs_8x8_84: 4127061138360849304
+      Round_LBs_8x8_85: 3422489512800012406
+      Round_LBs_8x8_86: 7601348067694840095
+      Round_LBs_8x8_87: 8289462750843037993
+      Round_LBs_8x8_88: 8949902637711269140
+      Round_LBs_8x8_89: -823410959206286538
+      Round_LBs_8x8_9: -8985250992729429866
+      Round_LBs_8x8_90: 9127985084497568420
+      Round_LBs_8x8_91: -6425823240017553834
+      Round_LBs_8x8_92: 5051768377493283334
+      Round_LBs_8x8_93: 8465339571602612301
+      Round_LBs_8x8_94: 3215369159567902876
+      Round_LBs_8x8_95: -403067592853624995
+      Round_LBs_8x8_96: -3569197089119889271
+      Round_LBs_8x8_97: -1143089903449238462
+      Round_LBs_8x8_98: 8544429294719678547
+      Round_LBs_8x8_99: -7037859444156574816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

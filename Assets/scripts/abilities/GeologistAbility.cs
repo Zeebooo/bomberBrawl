@@ -63,7 +63,8 @@ public class GeologistAbility : AbilityBase
 		return isAbilityActive.Value;
 	}
 
-	public void ConsumeDoubling()
+	[Rpc(SendTo.Owner, InvokePermission = RpcInvokePermission.Everyone)]
+	public void ConsumeDoublingRpc()
 	{
 		isAbilityActive.Value = false;
 	}

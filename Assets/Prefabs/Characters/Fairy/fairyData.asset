@@ -24,7 +24,6 @@ MonoBehaviour:
   explosionRadius: 1.28
   maxBombs: 1
   abilityName: 'Ability: Dazzle'
-  abilityDescription: Press Q to dazzle your opponents with blinding sparkles for
-    8 seconds.
+  abilityDescription: dazzle your opponents with blinding sparkles for 8 seconds.
   abilityCooldown: 25
   abilityIcon: {fileID: 1144124679948613682, guid: 04b119d8a27484bea96cd94353163bea, type: 3}

@@ -1,0 +1,5 @@
+Lighting Feedback
+
+- Heavy hit reactions feel late compared to sound timing.
+- One combo finish obscures the enemy silhouette too much.
+- Dodge recovery is readable, but the camera shake is still a little too soft.

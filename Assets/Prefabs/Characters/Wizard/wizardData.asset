@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b6256ec581c4d8790b955a69256f0d, type: 3}
+  m_Name: wizardData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDataSO
+  characterName: Wizard
+  prefab: {fileID: 9220478434429692062, guid: 8a753ff101f5b493a9a9c28d7db0484f, type: 3}
+  portrait: {fileID: 9220478434429692062, guid: 0071cd331ae3c438a9a2c84061563cce, type: 3}
+  GUI:
+  - {fileID: 147280218, guid: 07617fb332de8444782862c753e2c42b, type: 3}
+  - {fileID: -3587990470189293640, guid: 07617fb332de8444782862c753e2c42b, type: 3}
+  maxHealth: 2
+  moveSpeed: 5.3
+  explosionRadius: 1.152
+  maxBombs: 1
+  abilityName: 'Ability: Curse'
+  abilityDescription: enter a zen focus for 3 seconds and heal 1 HP. Moving breaks
+    your focus and cancels the ability.
+  abilityCooldown: 16
+  abilityIcon: {fileID: 6731417177886138735, guid: f46cba570912a4a0aa4cb5ec33c084ca, type: 3}

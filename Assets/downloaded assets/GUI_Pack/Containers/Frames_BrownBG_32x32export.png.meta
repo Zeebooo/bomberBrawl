@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 141e0a3ed881d41af9e152c5f69fd4dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5112837481292515521
+    second: Frames_BrownBG_32x32export_0
+  - first:
+      213: -3001425632113495593
+    second: Frames_BrownBG_32x32export_1
+  - first:
+      213: -5508487351087237393
+    second: Frames_BrownBG_32x32export_2
+  - first:
+      213: 3809659559966527056
+    second: Frames_BrownBG_32x32export_3
+  - first:
+      213: -8766042459454304409
+    second: Frames_BrownBG_32x32export_4
+  - first:
+      213: 9001558218928483731
+    second: Frames_BrownBG_32x32export_5
+  - first:
+      213: -1672962241693802499
+    second: Frames_BrownBG_32x32export_6
+  - first:
+      213: -5235703727272636848
+    second: Frames_BrownBG_32x32export_7
+  - first:
+      213: -2400180864420686798
+    second: Frames_BrownBG_32x32export_8
+  - first:
+      213: -7990287212002426333
+    second: Frames_BrownBG_32x32export_9
+  - first:
+      213: 7637762772523481930
+    second: Frames_BrownBG_32x32export_10
+  - first:
+      213: 8163635286959840007
+    second: Frames_BrownBG_32x32export_11
+  - first:
+      213: 3091272035758257545
+    second: Frames_BrownBG_32x32export_12
+  - first:
+      213: -9190907607999081357
+    second: Frames_BrownBG_32x32export_13
+  - first:
+      213: 7223071472651900691
+    second: Frames_BrownBG_32x32export_14
+  - first:
+      213: 9087423875636187322
+    second: Frames_BrownBG_32x32export_15
+  - first:
+      213: -113209414696475783
+    second: Frames_BrownBG_32x32export_16
+  - first:
+      213: 7885034379985770098
+    second: Frames_BrownBG_32x32export_17
+  - first:
+      213: 6385372940488334685
+    second: Frames_BrownBG_32x32export_18
+  - first:
+      213: 8431083969142347962
+    second: Frames_BrownBG_32x32export_19
+  - first:
+      213: -5672481002174840835
+    second: Frames_BrownBG_32x32export_20
+  - first:
+      213: 2458018340766202065
+    second: Frames_BrownBG_32x32export_21
+  - first:
+      213: -3233504510234377420
+    second: Frames_BrownBG_32x32export_22
+  - first:
+      213: -742669841357082268
+    second: Frames_BrownBG_32x32export_23
+  - first:
+      213: 6014723428209092975
+    second: Frames_BrownBG_32x32export_24
+  - first:
+      213: 896980735381973219
+    second: Frames_BrownBG_32x32export_25
+  - first:
+      213: 1146396555983166697
+    second: Frames_BrownBG_32x32export_26
+  - first:
+      213: 1249585347335894266
+    second: Frames_BrownBG_32x32export_27
+  - first:
+      213: -1386823750265940863
+    second: Frames_BrownBG_32x32export_28
+  - first:
+      213: -5495199903007837504
+    second: Frames_BrownBG_32x32export_29
+  - first:
+      213: -5898509141721431910
+    second: Frames_BrownBG_32x32export_30
+  - first:
+      213: 7910755709244260655
+    second: Frames_BrownBG_32x32export_31
+  - first:
+      213: -5445052429687329303
+    second: Frames_BrownBG_32x32export_32
+  - first:
+      213: -256174282893609687
+    second: Frames_BrownBG_32x32export_33
+  - first:
+      213: -802176251767845691
+    second: Frames_BrownBG_32x32export_34
+  - first:
+      213: 1815137585193207768
+    second: Frames_BrownBG_32x32export_35
+  - first:
+      213: 415254463248866190
+    second: Frames_BrownBG_32x32export_36
+  - first:
+      213: 5698856233699448486
+    second: Frames_BrownBG_32x32export_37
+  - first:
+      213: -7278478788928886732
+    second: Frames_BrownBG_32x32export_38
+  - first:
+      213: -7463561488697719884
+    second: Frames_BrownBG_32x32export_39
+  - first:
+      213: 1972140677826833045
+    second: Frames_BrownBG_32x32export_40
+  - first:
+      213: -9209306920525989227
+    second: Frames_BrownBG_32x32export_41
+  - first:
+      213: -4779877573575357205
+    second: Frames_BrownBG_32x32export_42
+  - first:
+      213: 150716924970728430
+    second: Frames_BrownBG_32x32export_43
+  - first:
+      213: -7691177179243652750
+    second: Frames_BrownBG_32x32export_44
+  - first:
+      213: -7093287138763961624
+    second: Frames_BrownBG_32x32export_45
+  - first:
+      213: 7467148389257726901
+    second: Frames_BrownBG_32x32export_46
+  - first:
+      213: -7038089337953207800
+    second: Frames_BrownBG_32x32export_47
+  - first:
+      213: -2825777193033993287
+    second: Frames_BrownBG_32x32export_48
+  - first:
+      213: 3593519308982073493
+    second: Frames_BrownBG_32x32export_49
+  - first:
+      213: 2682127002170916957
+    second: Frames_BrownBG_32x32export_50
+  - first:
+      213: 1636782085039702787
+    second: Frames_BrownBG_32x32export_51
+  - first:
+      213: -4958403127719439813
+    second: Frames_BrownBG_32x32export_52
+  - first:
+      213: 7950470720887718198
+    second: Frames_BrownBG_32x32export_53
+  - first:
+      213: 3454415758971559683
+    second: Frames_BrownBG_32x32export_54
+  - first:
+      213: -2177208293762372094
+    second: Frames_BrownBG_32x32export_55
+  - first:
+      213: -1698965389797491638
+    second: Frames_BrownBG_32x32export_56
+  - first:
+      213: -4014927370175514651
+    second: Frames_BrownBG_32x32export_57
+  - first:
+      213: -2035727782295617255
+    second: Frames_BrownBG_32x32export_58
+  - first:
+      213: -2900886461061560160
+    second: Frames_BrownBG_32x32export_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c84ebaa99274f640800000000000000
+      internalID: 5112837481292515521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d17f123a4bc856d0800000000000000
+      internalID: -3001425632113495593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe676bc70fbed83b0800000000000000
+      internalID: -5508487351087237393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec9f27f21aed430800000000000000
+      internalID: 3809659559966527056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f0c3ed3d2c85680800000000000000
+      internalID: -8766042459454304409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dea300285fbec70800000000000000
+      internalID: 9001558218928483731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff133574b178c8e0800000000000000
+      internalID: -1672962241693802499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec9b2333b0757b0800000000000000
+      internalID: -5235703727272636848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 131
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d3837838d0bed0800000000000000
+      internalID: -2400180864420686798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322cf337d1ccc1190800000000000000
+      internalID: -7990287212002426333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 131
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bf6f666c8cef960800000000000000
+      internalID: 7637762772523481930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd51b6a0f0b4170800000000000000
+      internalID: 8163635286959840007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985387bc98766ea20800000000000000
+      internalID: 3091272035758257545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37497cdd936537080800000000000000
+      internalID: -9190907607999081357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179ca22c318d3460800000000000000
+      internalID: 7223071472651900691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0d2be1ed30d1e70800000000000000
+      internalID: 9087423875636187322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97369cb13accd6ef0800000000000000
+      internalID: -113209414696475783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765bccedf44d6d60800000000000000
+      internalID: 7885034379985770098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dd234bbd66d9850800000000000000
+      internalID: 6385372940488334685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 95
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8583c333a310570800000000000000
+      internalID: 8431083969142347962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 99
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff7736259c4741b0800000000000000
+      internalID: -5672481002174840835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b3c468a2ac1220800000000000000
+      internalID: 2458018340766202065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 99
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4334bdf97c84023d0800000000000000
+      internalID: -3233504510234377420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 98
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461f380d6b181b5f0800000000000000
+      internalID: -742669841357082268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f696f903717987350800000000000000
+      internalID: 6014723428209092975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8afc6f937b27c00800000000000000
+      internalID: 896980735381973219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec9b130891d8ef00800000000000000
+      internalID: 1146396555983166697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af43d78b04b675110800000000000000
+      internalID: 1249585347335894266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d257952301cce0800000000000000
+      internalID: -1386823750265940863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 67
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f4739dc02db3b0800000000000000
+      internalID: -5495199903007837504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90cc4fef29442ea0800000000000000
+      internalID: -5898509141721431910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 63
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21c5629766a8cd60800000000000000
+      internalID: 7910755709244260655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edeb111aa94f64b0800000000000000
+      internalID: -5445052429687329303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 66
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9253983d8d2e17cf0800000000000000
+      internalID: -256174282893609687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8f1af2f81ed4f0800000000000000
+      internalID: -802176251767845691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 66
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7c6e7440aa03910800000000000000
+      internalID: 1815137585193207768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1855fbb743c500800000000000000
+      internalID: 415254463248866190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a61dabfc87661f40800000000000000
+      internalID: 5698856233699448486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438ada0ca16adfa90800000000000000
+      internalID: -7278478788928886732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b303e2ae5a1c6890800000000000000
+      internalID: -7463561488697719884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a67f46f737e5b10800000000000000
+      internalID: 1972140677826833045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a70861628f13080800000000000000
+      internalID: -9209306920525989227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4f25fba67aadb0800000000000000
+      internalID: -4779877573575357205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf486ae34771200800000000000000
+      internalID: 150716924970728430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2795796ea13734590800000000000000
+      internalID: -7691177179243652750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 34
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea802cdde49f8d90800000000000000
+      internalID: -7093287138763961624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb46dab5e3a0a760800000000000000
+      internalID: 7467148389257726901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 34
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ab5d9590fa35e90800000000000000
+      internalID: -7038089337953207800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3fec25d92d8c8d0800000000000000
+      internalID: -2825777193033993287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983261b5cebed130800000000000000
+      internalID: 3593519308982073493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5081e64c44d83520800000000000000
+      internalID: 2682127002170916957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303c38162a407b610800000000000000
+      internalID: 1636782085039702787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d81740a6303bb0800000000000000
+      internalID: -4958403127719439813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63108ab4ffeb55e60800000000000000
+      internalID: 7950470720887718198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd20c94dc80ff20800000000000000
+      internalID: 3454415758971559683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6248979009c1e0800000000000000
+      internalID: -2177208293762372094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cff6fbaff0c68e0800000000000000
+      internalID: -1698965389797491638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7f1bd24dc1848c0800000000000000
+      internalID: -4014927370175514651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91140e42e54afb3e0800000000000000
+      internalID: -2035727782295617255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames_BrownBG_32x32export_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a88faa122bfdb7d0800000000000000
+      internalID: -2900886461061560160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frames_BrownBG_32x32export_0: 5112837481292515521
+      Frames_BrownBG_32x32export_1: -3001425632113495593
+      Frames_BrownBG_32x32export_10: 7637762772523481930
+      Frames_BrownBG_32x32export_11: 8163635286959840007
+      Frames_BrownBG_32x32export_12: 3091272035758257545
+      Frames_BrownBG_32x32export_13: -9190907607999081357
+      Frames_BrownBG_32x32export_14: 7223071472651900691
+      Frames_BrownBG_32x32export_15: 9087423875636187322
+      Frames_BrownBG_32x32export_16: -113209414696475783
+      Frames_BrownBG_32x32export_17: 7885034379985770098
+      Frames_BrownBG_32x32export_18: 6385372940488334685
+      Frames_BrownBG_32x32export_19: 8431083969142347962
+      Frames_BrownBG_32x32export_2: -5508487351087237393
+      Frames_BrownBG_32x32export_20: -5672481002174840835
+      Frames_BrownBG_32x32export_21: 2458018340766202065
+      Frames_BrownBG_32x32export_22: -3233504510234377420
+      Frames_BrownBG_32x32export_23: -742669841357082268
+      Frames_BrownBG_32x32export_24: 6014723428209092975
+      Frames_BrownBG_32x32export_25: 896980735381973219
+      Frames_BrownBG_32x32export_26: 1146396555983166697
+      Frames_BrownBG_32x32export_27: 1249585347335894266
+      Frames_BrownBG_32x32export_28: -1386823750265940863
+      Frames_BrownBG_32x32export_29: -5495199903007837504
+      Frames_BrownBG_32x32export_3: 3809659559966527056
+      Frames_BrownBG_32x32export_30: -5898509141721431910
+      Frames_BrownBG_32x32export_31: 7910755709244260655
+      Frames_BrownBG_32x32export_32: -5445052429687329303
+      Frames_BrownBG_32x32export_33: -256174282893609687
+      Frames_BrownBG_32x32export_34: -802176251767845691
+      Frames_BrownBG_32x32export_35: 1815137585193207768
+      Frames_BrownBG_32x32export_36: 415254463248866190
+      Frames_BrownBG_32x32export_37: 5698856233699448486
+      Frames_BrownBG_32x32export_38: -7278478788928886732
+      Frames_BrownBG_32x32export_39: -7463561488697719884
+      Frames_BrownBG_32x32export_4: -8766042459454304409
+      Frames_BrownBG_32x32export_40: 1972140677826833045
+      Frames_BrownBG_32x32export_41: -9209306920525989227
+      Frames_BrownBG_32x32export_42: -4779877573575357205
+      Frames_BrownBG_32x32export_43: 150716924970728430
+      Frames_BrownBG_32x32export_44: -7691177179243652750
+      Frames_BrownBG_32x32export_45: -7093287138763961624
+      Frames_BrownBG_32x32export_46: 7467148389257726901
+      Frames_BrownBG_32x32export_47: -7038089337953207800
+      Frames_BrownBG_32x32export_48: -2825777193033993287
+      Frames_BrownBG_32x32export_49: 3593519308982073493
+      Frames_BrownBG_32x32export_5: 9001558218928483731
+      Frames_BrownBG_32x32export_50: 2682127002170916957
+      Frames_BrownBG_32x32export_51: 1636782085039702787
+      Frames_BrownBG_32x32export_52: -4958403127719439813
+      Frames_BrownBG_32x32export_53: 7950470720887718198
+      Frames_BrownBG_32x32export_54: 3454415758971559683
+      Frames_BrownBG_32x32export_55: -2177208293762372094
+      Frames_BrownBG_32x32export_56: -1698965389797491638
+      Frames_BrownBG_32x32export_57: -4014927370175514651
+      Frames_BrownBG_32x32export_58: -2035727782295617255
+      Frames_BrownBG_32x32export_59: -2900886461061560160
+      Frames_BrownBG_32x32export_6: -1672962241693802499
+      Frames_BrownBG_32x32export_7: -5235703727272636848
+      Frames_BrownBG_32x32export_8: -2400180864420686798
+      Frames_BrownBG_32x32export_9: -7990287212002426333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

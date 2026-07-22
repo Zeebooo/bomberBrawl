@@ -1,0 +1,5330 @@
+fileFormatVersion: 2
+guid: fe95b8cb02ec74d56b88aec2325435e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7724625900938600116
+    second: Angle_Down_LBs_8x8_0
+  - first:
+      213: -1232872892167979908
+    second: Angle_Down_LBs_8x8_1
+  - first:
+      213: -5523946849329769303
+    second: Angle_Down_LBs_8x8_2
+  - first:
+      213: 6847070565942346812
+    second: Angle_Down_LBs_8x8_3
+  - first:
+      213: -757946942177918249
+    second: Angle_Down_LBs_8x8_4
+  - first:
+      213: 4186892578403374969
+    second: Angle_Down_LBs_8x8_5
+  - first:
+      213: 4713574809957175025
+    second: Angle_Down_LBs_8x8_6
+  - first:
+      213: 988284799209761754
+    second: Angle_Down_LBs_8x8_7
+  - first:
+      213: -1502498922935392117
+    second: Angle_Down_LBs_8x8_8
+  - first:
+      213: 1520218885430959620
+    second: Angle_Down_LBs_8x8_9
+  - first:
+      213: -8646124439542214055
+    second: Angle_Down_LBs_8x8_10
+  - first:
+      213: -2580810157594588682
+    second: Angle_Down_LBs_8x8_11
+  - first:
+      213: 5840720058510191925
+    second: Angle_Down_LBs_8x8_12
+  - first:
+      213: 3689735004638974051
+    second: Angle_Down_LBs_8x8_13
+  - first:
+      213: -5918417152005071471
+    second: Angle_Down_LBs_8x8_14
+  - first:
+      213: 1035339936660348750
+    second: Angle_Down_LBs_8x8_15
+  - first:
+      213: 7929693476825281154
+    second: Angle_Down_LBs_8x8_16
+  - first:
+      213: -3608382911738738939
+    second: Angle_Down_LBs_8x8_17
+  - first:
+      213: -5734032137414225655
+    second: Angle_Down_LBs_8x8_18
+  - first:
+      213: -4556860998501574701
+    second: Angle_Down_LBs_8x8_19
+  - first:
+      213: -3649218035861707265
+    second: Angle_Down_LBs_8x8_20
+  - first:
+      213: -7088274350915179591
+    second: Angle_Down_LBs_8x8_21
+  - first:
+      213: -2392425171574991879
+    second: Angle_Down_LBs_8x8_22
+  - first:
+      213: 7532767791223200776
+    second: Angle_Down_LBs_8x8_23
+  - first:
+      213: -304641613136490994
+    second: Angle_Down_LBs_8x8_24
+  - first:
+      213: -913045964489364122
+    second: Angle_Down_LBs_8x8_25
+  - first:
+      213: 7685482260473806483
+    second: Angle_Down_LBs_8x8_26
+  - first:
+      213: -4968214934458455337
+    second: Angle_Down_LBs_8x8_27
+  - first:
+      213: -6200007622420676145
+    second: Angle_Down_LBs_8x8_28
+  - first:
+      213: 4714389575569242265
+    second: Angle_Down_LBs_8x8_29
+  - first:
+      213: 2546685685975421792
+    second: Angle_Down_LBs_8x8_30
+  - first:
+      213: -2939413969891931128
+    second: Angle_Down_LBs_8x8_31
+  - first:
+      213: 2629493167270706549
+    second: Angle_Down_LBs_8x8_32
+  - first:
+      213: 5280037794339647421
+    second: Angle_Down_LBs_8x8_33
+  - first:
+      213: -2628536041086866304
+    second: Angle_Down_LBs_8x8_34
+  - first:
+      213: -5238525481075412948
+    second: Angle_Down_LBs_8x8_35
+  - first:
+      213: -1213920770903162751
+    second: Angle_Down_LBs_8x8_36
+  - first:
+      213: 877942877688512942
+    second: Angle_Down_LBs_8x8_37
+  - first:
+      213: -8689354394079765974
+    second: Angle_Down_LBs_8x8_38
+  - first:
+      213: 3362323628748831678
+    second: Angle_Down_LBs_8x8_39
+  - first:
+      213: -2470430693449833985
+    second: Angle_Down_LBs_8x8_40
+  - first:
+      213: 7749129395080592645
+    second: Angle_Down_LBs_8x8_41
+  - first:
+      213: 5627481509530767631
+    second: Angle_Down_LBs_8x8_42
+  - first:
+      213: 5342238912841721733
+    second: Angle_Down_LBs_8x8_43
+  - first:
+      213: -8979974259048345106
+    second: Angle_Down_LBs_8x8_44
+  - first:
+      213: 153058038011724795
+    second: Angle_Down_LBs_8x8_45
+  - first:
+      213: 5464863459124060270
+    second: Angle_Down_LBs_8x8_46
+  - first:
+      213: -7778423052614287579
+    second: Angle_Down_LBs_8x8_47
+  - first:
+      213: -9025300881566460240
+    second: Angle_Down_LBs_8x8_48
+  - first:
+      213: -7629861566117857020
+    second: Angle_Down_LBs_8x8_49
+  - first:
+      213: 2275807152265539467
+    second: Angle_Down_LBs_8x8_50
+  - first:
+      213: 7498351553505664117
+    second: Angle_Down_LBs_8x8_51
+  - first:
+      213: -946126368027741156
+    second: Angle_Down_LBs_8x8_52
+  - first:
+      213: 2374999797762509717
+    second: Angle_Down_LBs_8x8_53
+  - first:
+      213: 8831556556412428190
+    second: Angle_Down_LBs_8x8_54
+  - first:
+      213: 3922912215120847027
+    second: Angle_Down_LBs_8x8_55
+  - first:
+      213: -5968302748130232367
+    second: Angle_Down_LBs_8x8_56
+  - first:
+      213: -8122658905013759294
+    second: Angle_Down_LBs_8x8_57
+  - first:
+      213: 3480057460940876701
+    second: Angle_Down_LBs_8x8_58
+  - first:
+      213: -521573503159295226
+    second: Angle_Down_LBs_8x8_59
+  - first:
+      213: 5095695071359955493
+    second: Angle_Down_LBs_8x8_60
+  - first:
+      213: 2836178259768370853
+    second: Angle_Down_LBs_8x8_61
+  - first:
+      213: -4894954123623013963
+    second: Angle_Down_LBs_8x8_62
+  - first:
+      213: -4496427047973343769
+    second: Angle_Down_LBs_8x8_63
+  - first:
+      213: 6533008634211010005
+    second: Angle_Down_LBs_8x8_64
+  - first:
+      213: -8252400640113147426
+    second: Angle_Down_LBs_8x8_65
+  - first:
+      213: -3840278873872771334
+    second: Angle_Down_LBs_8x8_66
+  - first:
+      213: 9099350717656063782
+    second: Angle_Down_LBs_8x8_67
+  - first:
+      213: 1690385135220705625
+    second: Angle_Down_LBs_8x8_68
+  - first:
+      213: -2937234331380518738
+    second: Angle_Down_LBs_8x8_69
+  - first:
+      213: 2223374318692927356
+    second: Angle_Down_LBs_8x8_70
+  - first:
+      213: -4508971804938617020
+    second: Angle_Down_LBs_8x8_71
+  - first:
+      213: -7124289974591665456
+    second: Angle_Down_LBs_8x8_72
+  - first:
+      213: 1840158372718385681
+    second: Angle_Down_LBs_8x8_73
+  - first:
+      213: 1999735212200802538
+    second: Angle_Down_LBs_8x8_74
+  - first:
+      213: 2278806768001480892
+    second: Angle_Down_LBs_8x8_75
+  - first:
+      213: 4647290157275401090
+    second: Angle_Down_LBs_8x8_76
+  - first:
+      213: -493760339326030759
+    second: Angle_Down_LBs_8x8_77
+  - first:
+      213: -7708889824097454320
+    second: Angle_Down_LBs_8x8_78
+  - first:
+      213: 5014313610313102949
+    second: Angle_Down_LBs_8x8_79
+  - first:
+      213: 9058431917559542466
+    second: Angle_Down_LBs_8x8_80
+  - first:
+      213: 8287172232701676707
+    second: Angle_Down_LBs_8x8_81
+  - first:
+      213: -179863229066743799
+    second: Angle_Down_LBs_8x8_82
+  - first:
+      213: -7028800799807154744
+    second: Angle_Down_LBs_8x8_83
+  - first:
+      213: 4556721119233271024
+    second: Angle_Down_LBs_8x8_84
+  - first:
+      213: -2451047670035908285
+    second: Angle_Down_LBs_8x8_85
+  - first:
+      213: -706339620209219504
+    second: Angle_Down_LBs_8x8_86
+  - first:
+      213: 6081507768733100041
+    second: Angle_Down_LBs_8x8_87
+  - first:
+      213: 7434782170121992371
+    second: Angle_Down_LBs_8x8_88
+  - first:
+      213: 661328894790570846
+    second: Angle_Down_LBs_8x8_89
+  - first:
+      213: 3314471099738931589
+    second: Angle_Down_LBs_8x8_90
+  - first:
+      213: -4014718929035543428
+    second: Angle_Down_LBs_8x8_91
+  - first:
+      213: -555119220529936494
+    second: Angle_Down_LBs_8x8_92
+  - first:
+      213: -655477425159749693
+    second: Angle_Down_LBs_8x8_93
+  - first:
+      213: 7420711978886352196
+    second: Angle_Down_LBs_8x8_94
+  - first:
+      213: -6616715560918661135
+    second: Angle_Down_LBs_8x8_95
+  - first:
+      213: -4316525787840983439
+    second: Angle_Down_LBs_8x8_96
+  - first:
+      213: 5375110945532441373
+    second: Angle_Down_LBs_8x8_97
+  - first:
+      213: -4333655778510782886
+    second: Angle_Down_LBs_8x8_98
+  - first:
+      213: 3918028228660776347
+    second: Angle_Down_LBs_8x8_99
+  - first:
+      213: 923372385525940437
+    second: Angle_Down_LBs_8x8_100
+  - first:
+      213: 7577697344551971519
+    second: Angle_Down_LBs_8x8_101
+  - first:
+      213: -9051680418648732916
+    second: Angle_Down_LBs_8x8_102
+  - first:
+      213: 1177350317047242051
+    second: Angle_Down_LBs_8x8_103
+  - first:
+      213: -956665477487951379
+    second: Angle_Down_LBs_8x8_104
+  - first:
+      213: -2725186407865797826
+    second: Angle_Down_LBs_8x8_105
+  - first:
+      213: 7518899942320233133
+    second: Angle_Down_LBs_8x8_106
+  - first:
+      213: 2106770292094467202
+    second: Angle_Down_LBs_8x8_107
+  - first:
+      213: 6357064573605147085
+    second: Angle_Down_LBs_8x8_108
+  - first:
+      213: 2571897942748839849
+    second: Angle_Down_LBs_8x8_109
+  - first:
+      213: -2860771765101150567
+    second: Angle_Down_LBs_8x8_110
+  - first:
+      213: 692441817233798712
+    second: Angle_Down_LBs_8x8_111
+  - first:
+      213: 2465265050972541695
+    second: Angle_Down_LBs_8x8_112
+  - first:
+      213: 917237250951134901
+    second: Angle_Down_LBs_8x8_113
+  - first:
+      213: 8898959444039747371
+    second: Angle_Down_LBs_8x8_114
+  - first:
+      213: -8894391111617953052
+    second: Angle_Down_LBs_8x8_115
+  - first:
+      213: -2724995667715558317
+    second: Angle_Down_LBs_8x8_116
+  - first:
+      213: -6217776791888527189
+    second: Angle_Down_LBs_8x8_117
+  - first:
+      213: 2470954500292129996
+    second: Angle_Down_LBs_8x8_118
+  - first:
+      213: -9005740528359863832
+    second: Angle_Down_LBs_8x8_119
+  - first:
+      213: 8807525477488311919
+    second: Angle_Down_LBs_8x8_120
+  - first:
+      213: -8084968954442052416
+    second: Angle_Down_LBs_8x8_121
+  - first:
+      213: -3358430731268553110
+    second: Angle_Down_LBs_8x8_122
+  - first:
+      213: -8808347563445463354
+    second: Angle_Down_LBs_8x8_123
+  - first:
+      213: 3511348860294157441
+    second: Angle_Down_LBs_8x8_124
+  - first:
+      213: -6886020996485098603
+    second: Angle_Down_LBs_8x8_125
+  - first:
+      213: -3080355048985348508
+    second: Angle_Down_LBs_8x8_126
+  - first:
+      213: 7842713690720025716
+    second: Angle_Down_LBs_8x8_127
+  - first:
+      213: -968437979854340513
+    second: Angle_Down_LBs_8x8_128
+  - first:
+      213: 640048057384053141
+    second: Angle_Down_LBs_8x8_129
+  - first:
+      213: -831756051139088140
+    second: Angle_Down_LBs_8x8_130
+  - first:
+      213: -1519453489168653200
+    second: Angle_Down_LBs_8x8_131
+  - first:
+      213: -4358414519868644391
+    second: Angle_Down_LBs_8x8_132
+  - first:
+      213: -8786010490402634575
+    second: Angle_Down_LBs_8x8_133
+  - first:
+      213: -734011776070152080
+    second: Angle_Down_LBs_8x8_134
+  - first:
+      213: 3966418180773454201
+    second: Angle_Down_LBs_8x8_135
+  - first:
+      213: 1134542324862998219
+    second: Angle_Down_LBs_8x8_136
+  - first:
+      213: -447564396546707477
+    second: Angle_Down_LBs_8x8_137
+  - first:
+      213: 289342407262567293
+    second: Angle_Down_LBs_8x8_138
+  - first:
+      213: -6187074189261489825
+    second: Angle_Down_LBs_8x8_139
+  - first:
+      213: -2719074689374299076
+    second: Angle_Down_LBs_8x8_140
+  - first:
+      213: 5221144617588691923
+    second: Angle_Down_LBs_8x8_141
+  - first:
+      213: -2379052020258896736
+    second: Angle_Down_LBs_8x8_142
+  - first:
+      213: 3243416663923580101
+    second: Angle_Down_LBs_8x8_143
+  - first:
+      213: -3317480032334222893
+    second: Angle_Down_LBs_8x8_144
+  - first:
+      213: 7433120370747986412
+    second: Angle_Down_LBs_8x8_145
+  - first:
+      213: 1084538094709431342
+    second: Angle_Down_LBs_8x8_146
+  - first:
+      213: 3105305392776049854
+    second: Angle_Down_LBs_8x8_147
+  - first:
+      213: 8654413671764508060
+    second: Angle_Down_LBs_8x8_148
+  - first:
+      213: -9144076697780127128
+    second: Angle_Down_LBs_8x8_149
+  - first:
+      213: 168410067582269020
+    second: Angle_Down_LBs_8x8_150
+  - first:
+      213: -7979651359466376021
+    second: Angle_Down_LBs_8x8_151
+  - first:
+      213: 1614155528322162837
+    second: Angle_Down_LBs_8x8_152
+  - first:
+      213: 4301883505672228498
+    second: Angle_Down_LBs_8x8_153
+  - first:
+      213: -5423193703764195590
+    second: Angle_Down_LBs_8x8_154
+  - first:
+      213: 4523213942887062181
+    second: Angle_Down_LBs_8x8_155
+  - first:
+      213: -6925482626641874629
+    second: Angle_Down_LBs_8x8_156
+  - first:
+      213: -5394730566788100281
+    second: Angle_Down_LBs_8x8_157
+  - first:
+      213: 2055761037544360611
+    second: Angle_Down_LBs_8x8_158
+  - first:
+      213: 7216740151660890786
+    second: Angle_Down_LBs_8x8_159
+  - first:
+      213: -2039056584578656768
+    second: Angle_Down_LBs_8x8_160
+  - first:
+      213: 1343921641864242379
+    second: Angle_Down_LBs_8x8_161
+  - first:
+      213: 7833647573934962181
+    second: Angle_Down_LBs_8x8_162
+  - first:
+      213: 4577444811015962548
+    second: Angle_Down_LBs_8x8_163
+  - first:
+      213: 6233843652381295865
+    second: Angle_Down_LBs_8x8_164
+  - first:
+      213: -8897942187335694644
+    second: Angle_Down_LBs_8x8_165
+  - first:
+      213: -2659763177334511737
+    second: Angle_Down_LBs_8x8_166
+  - first:
+      213: -8062742200313163598
+    second: Angle_Down_LBs_8x8_167
+  - first:
+      213: 5099613726987835742
+    second: Angle_Down_LBs_8x8_168
+  - first:
+      213: -6171360379851501368
+    second: Angle_Down_LBs_8x8_169
+  - first:
+      213: -4486149650664890182
+    second: Angle_Down_LBs_8x8_170
+  - first:
+      213: 188745863864639555
+    second: Angle_Down_LBs_8x8_171
+  - first:
+      213: -7646565667104121587
+    second: Angle_Down_LBs_8x8_172
+  - first:
+      213: -8898371801287845503
+    second: Angle_Down_LBs_8x8_173
+  - first:
+      213: 6142178594042930612
+    second: Angle_Down_LBs_8x8_174
+  - first:
+      213: 4289440827862780660
+    second: Angle_Down_LBs_8x8_175
+  - first:
+      213: 7888441290129167754
+    second: Angle_Down_LBs_8x8_176
+  - first:
+      213: 8781711227800512845
+    second: Angle_Down_LBs_8x8_177
+  - first:
+      213: -3248451857445058571
+    second: Angle_Down_LBs_8x8_178
+  - first:
+      213: 5920774952557003761
+    second: Angle_Down_LBs_8x8_179
+  - first:
+      213: 5966570131972806181
+    second: Angle_Down_LBs_8x8_180
+  - first:
+      213: 4727736032907825006
+    second: Angle_Down_LBs_8x8_181
+  - first:
+      213: -8904189357991636561
+    second: Angle_Down_LBs_8x8_182
+  - first:
+      213: 7724668923020446374
+    second: Angle_Down_LBs_8x8_183
+  - first:
+      213: 8329348278132725072
+    second: Angle_Down_LBs_8x8_184
+  - first:
+      213: -6941259348115699962
+    second: Angle_Down_LBs_8x8_185
+  - first:
+      213: 171048782447875956
+    second: Angle_Down_LBs_8x8_186
+  - first:
+      213: 6142247957071501967
+    second: Angle_Down_LBs_8x8_187
+  - first:
+      213: 4172818062997442006
+    second: Angle_Down_LBs_8x8_188
+  - first:
+      213: -5674224976556157823
+    second: Angle_Down_LBs_8x8_189
+  - first:
+      213: 7245294794827678321
+    second: Angle_Down_LBs_8x8_190
+  - first:
+      213: -544788509789284416
+    second: Angle_Down_LBs_8x8_191
+  - first:
+      213: -3206863394758121946
+    second: Angle_Down_LBs_8x8_192
+  - first:
+      213: 5081091723462375914
+    second: Angle_Down_LBs_8x8_193
+  - first:
+      213: -7279245092290154275
+    second: Angle_Down_LBs_8x8_194
+  - first:
+      213: 3686332822645106019
+    second: Angle_Down_LBs_8x8_195
+  - first:
+      213: 8006569983286839213
+    second: Angle_Down_LBs_8x8_196
+  - first:
+      213: -4789183511517749851
+    second: Angle_Down_LBs_8x8_197
+  - first:
+      213: 4776261978688887049
+    second: Angle_Down_LBs_8x8_198
+  - first:
+      213: -3950173103666087901
+    second: Angle_Down_LBs_8x8_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be1a308452633b60800000000000000
+      internalID: 7724625900938600116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c7e19f2a4f3eee0800000000000000
+      internalID: -1232872892167979908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 199
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a49f8f8b9ff653b0800000000000000
+      internalID: -5523946849329769303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34c603076ea50f50800000000000000
+      internalID: 6847070565942346812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 13
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d244e8954b3b75f0800000000000000
+      internalID: -757946942177918249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d370fd94da1a30800000000000000
+      internalID: 4186892578403374969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0ab9e05bf96140800000000000000
+      internalID: 4713574809957175025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe0d9e9c717bd00800000000000000
+      internalID: 988284799209761754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 13
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88670fa03d062be0800000000000000
+      internalID: -1502498922935392117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed3f69507e81510800000000000000
+      internalID: 1520218885430959620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9525341a1abc20880800000000000000
+      internalID: -8646124439542214055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9cadbd5de1f2cd0800000000000000
+      internalID: -2580810157594588682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dafff92f76e0150800000000000000
+      internalID: 5840720058510191925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36094da0072943330800000000000000
+      internalID: 3689735004638974051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d982615fe8ddda0800000000000000
+      internalID: -5918417152005071471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f5a6adf244e5e00800000000000000
+      internalID: 1035339936660348750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 215
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28237ef243eeb0e60800000000000000
+      internalID: 7929693476825281154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 215
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507093c1cd27cedc0800000000000000
+      internalID: -3608382911738738939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 215
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90150c6b620ac60b0800000000000000
+      internalID: -5734032137414225655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 215
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75b7da017c2c0c0800000000000000
+      internalID: -4556860998501574701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a380e78f5b5dc0800000000000000
+      internalID: -3649218035861707265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb203b780461ad90800000000000000
+      internalID: -7088274350915179591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3d1986bf56cced0800000000000000
+      internalID: -2392425171574991879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cdc535564c98860800000000000000
+      internalID: 7532767791223200776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e82312112b5cbf0800000000000000
+      internalID: -304641613136490994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de10768853453f0800000000000000
+      internalID: -913045964489364122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 207
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7b1f756158aa60800000000000000
+      internalID: 7685482260473806483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da20dff6da5d0bb0800000000000000
+      internalID: -4968214934458455337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1c6ec9ae525f9a0800000000000000
+      internalID: -6200007622420676145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998fb905750ec6140800000000000000
+      internalID: 4714389575569242265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06313237325a75320800000000000000
+      internalID: 2546685685975421792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c45cc619a1537d0800000000000000
+      internalID: -2939413969891931128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dbc7e9a16dd7420800000000000000
+      internalID: 2629493167270706549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf604c2666764940800000000000000
+      internalID: 5280037794339647421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca4bfa560958bd0800000000000000
+      internalID: -2628536041086866304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 199
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20faa174d40d47b0800000000000000
+      internalID: -5238525481075412948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18049d09d79472fe0800000000000000
+      internalID: -1213920770903162751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea145bd45641f2c00800000000000000
+      internalID: 877942877688512942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a556d7736396780800000000000000
+      internalID: -8689354394079765974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbf977a68f59ae20800000000000000
+      internalID: 3362323628748831678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff163ba8f5447bdd0800000000000000
+      internalID: -2470430693449833985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df050d0207a8b60800000000000000
+      internalID: 7749129395080592645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0119a30e94d81e40800000000000000
+      internalID: 5627481509530767631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872331acf1732a40800000000000000
+      internalID: 5342238912841721733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee195454df8b06380800000000000000
+      internalID: -8979974259048345106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf305b18975cf1200800000000000000
+      internalID: 153058038011724795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602a1bac5817db40800000000000000
+      internalID: 5464863459124060270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f373c027d7d0490800000000000000
+      internalID: -7778423052614287579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b616339aa0bfb280800000000000000
+      internalID: -9025300881566460240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409b32294594d1690800000000000000
+      internalID: -7629861566117857020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa4181c8a459f10800000000000000
+      internalID: 2275807152265539467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c14bb820f7f0860800000000000000
+      internalID: 7498351553505664117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c147311c41faed2f0800000000000000
+      internalID: -946126368027741156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 183
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b42479bb1b5f020800000000000000
+      internalID: 2374999797762509717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f1cbe75edff8a70800000000000000
+      internalID: 8831556556412428190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 183
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a15b00ebf07630800000000000000
+      internalID: 3922912215120847027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7b5b1a5445c2da0800000000000000
+      internalID: -5968302748130232367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2ddf6f2c4864f80800000000000000
+      internalID: -8122658905013759294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b245592d5ab4030800000000000000
+      internalID: 3480057460940876701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6032feb89aff2c8f0800000000000000
+      internalID: -521573503159295226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5227e145bab87b640800000000000000
+      internalID: 5095695071359955493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ed2db9112c5720800000000000000
+      internalID: 2836178259768370853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1ed9db821a11cb0800000000000000
+      internalID: -4894954123623013963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed27174c6b7991c0800000000000000
+      internalID: -4496427047973343769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 167
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d505bc4db8e9aa50800000000000000
+      internalID: 6533008634211010005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed189d54755997d80800000000000000
+      internalID: -8252400640113147426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6506cf5b694bac0800000000000000
+      internalID: -3840278873872771334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd59c6443674e70800000000000000
+      internalID: 9099350717656063782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9594e6e0354757710800000000000000
+      internalID: 1690385135220705625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea07bff00f8dc37d0800000000000000
+      internalID: -2937234331380518738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 167
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770b64b9230bde10800000000000000
+      internalID: 2223374318692927356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_71
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb160780aec61c0800000000000000
+      internalID: -4508971804938617020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_72
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da4693a300712d90800000000000000
+      internalID: -7124289974591665456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a17585a4e898910800000000000000
+      internalID: 1840158372718385681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b118949c70cb10800000000000000
+      internalID: 1999735212200802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_75
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 159
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8fb7e8ea2ff9f10800000000000000
+      internalID: 2278806768001480892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bc19096cd7e7040800000000000000
+      internalID: 4647290157275401090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_77
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cab42669fc529f0800000000000000
+      internalID: -493760339326030759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173c066c85840590800000000000000
+      internalID: -7708889824097454320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667e1f59ab669540800000000000000
+      internalID: 5014313610313102949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2723cd5d306bd70800000000000000
+      internalID: 9058431917559542466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac0aa20d33f10370800000000000000
+      internalID: 8287172232701676707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900725b985ff08df0800000000000000
+      internalID: -179863229066743799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_83
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5538aa9eea47e90800000000000000
+      internalID: -7028800799807154744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f46b6427b9bc3f30800000000000000
+      internalID: 4556721119233271024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f5fb51212cfdd0800000000000000
+      internalID: -2451047670035908285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05825a69bd39236f0800000000000000
+      internalID: -706339620209219504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086d1e281bd56450800000000000000
+      internalID: 6081507768733100041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b877881ef6ad2760800000000000000
+      internalID: 7434782170121992371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5391bd30238d2900800000000000000
+      internalID: 661328894790570846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581cc3687ed5ffd20800000000000000
+      internalID: 3314471099738931589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cbcc9a76ad848c0800000000000000
+      internalID: -4014718929035543428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29742549202db48f0800000000000000
+      internalID: -555119220529936494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_93
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfb01331c647e6f0800000000000000
+      internalID: -655477425159749693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dc10a6a3aabf660800000000000000
+      internalID: 7420711978886352196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_95
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7c4a31144bc24a0800000000000000
+      internalID: -6616715560918661135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ecce77aae9814c0800000000000000
+      internalID: -4316525787840983439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1376c82dea389a40800000000000000
+      internalID: 5375110945532441373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_98
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ebb07b703cbd3c0800000000000000
+      internalID: -4333655778510782886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d47455ae1af5630800000000000000
+      internalID: 3918028228660776347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_100
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0cdaada4a70dc00800000000000000
+      internalID: 923372385525940437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae0752693692960800000000000000
+      internalID: 7577697344551971519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b451afd98f16280800000000000000
+      internalID: -9051680418648732916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d5bcf10e9c65010800000000000000
+      internalID: 1177350317047242051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1837d11dd39b2f0800000000000000
+      internalID: -956665477487951379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33bf6496613e2ad0800000000000000
+      internalID: -2725186407865797826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_106
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daad3b329af785860800000000000000
+      internalID: 7518899942320233133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf2a32b60cc3d10800000000000000
+      internalID: 2106770292094467202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc174fb6c84d83850800000000000000
+      internalID: 6357064573605147085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af3a1c6d8731b320800000000000000
+      internalID: 2571897942748839849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_110
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ebda59c3f7c48d0800000000000000
+      internalID: -2860771765101150567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_111
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836b8dff92c0c9900800000000000000
+      internalID: 692441817233798712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_112
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff257689081663220800000000000000
+      internalID: 2465265050972541695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_113
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb2b58b6eaabc00800000000000000
+      internalID: 917237250951134901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_114
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27c89437747f7b70800000000000000
+      internalID: 8898959444039747371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ce929866c09480800000000000000
+      internalID: -8894391111617953052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_116
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354f55bb0eede2ad0800000000000000
+      internalID: -2724995667715558317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_117
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba001d273f406b9a0800000000000000
+      internalID: -6217776791888527189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_118
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4b01eb6089a4220800000000000000
+      internalID: 2470954500292129996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e985c334be250380800000000000000
+      internalID: -9005740528359863832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eb4ebe1cd9a3a70800000000000000
+      internalID: 8807525477488311919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc8b6a629b6ccf80800000000000000
+      internalID: -8084968954442052416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_122
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a668bfb2b057461d0800000000000000
+      internalID: -3358430731268553110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_123
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d7a64f8672c580800000000000000
+      internalID: -8808347563445463354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_124
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1845e4c3f21dab030800000000000000
+      internalID: 3511348860294157441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593df9c2360ff60a0800000000000000
+      internalID: -6886020996485098603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b52347616045d0800000000000000
+      internalID: -3080355048985348508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_127
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cb57a9c8ae6dc60800000000000000
+      internalID: 7842713690720025716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ef8cfc9ca6f82f0800000000000000
+      internalID: -968437979854340513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_129
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992e8b2158e1e800800000000000000
+      internalID: 640048057384053141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_130
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 87
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b21047420574f0800000000000000
+      internalID: -831756051139088140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_131
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074ef5d1a11d9eae0800000000000000
+      internalID: -1519453489168653200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_132
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d32357061dc383c0800000000000000
+      internalID: -4358414519868644391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_133
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b402be5202d11680800000000000000
+      internalID: -8786010490402634575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_134
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070926abd2440d5f0800000000000000
+      internalID: -734011776070152080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_135
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97127a7025c8b0730800000000000000
+      internalID: 3966418180773454201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6da10cb34bebf00800000000000000
+      internalID: 1134542324862998219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befa8b97d8ee9c9f0800000000000000
+      internalID: -447564396546707477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_138
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b775be263f30400800000000000000
+      internalID: 289342407262567293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_139
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b41e2ec8132aa0800000000000000
+      internalID: -6187074189261489825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_140
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cd61ee9f7e34ad0800000000000000
+      internalID: -2719074689374299076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3115ced5b357840800000000000000
+      internalID: 5221144617588691923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_142
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a40b46dac8ebfed0800000000000000
+      internalID: -2379052020258896736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_143
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc5fbf754ee20d20800000000000000
+      internalID: 3243416663923580101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d96443cc71f5f1d0800000000000000
+      internalID: -3317480032334222893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_145
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15727489fb72760800000000000000
+      internalID: 7433120370747986412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_146
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd888a6ad0d0f00800000000000000
+      internalID: 1084538094709431342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_147
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb475875dc2481b20800000000000000
+      internalID: 3105305392776049854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_148
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dbec4a167aa1870800000000000000
+      internalID: 8654413671764508060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_149
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a73e5d0b6b91180800000000000000
+      internalID: -9144076697780127128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_150
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5637de6010565200800000000000000
+      internalID: 168410067582269020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_151
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43b87dd55924190800000000000000
+      internalID: -7979651359466376021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59020ed96e1a66610800000000000000
+      internalID: 1614155528322162837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_153
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e84bc814c53bb30800000000000000
+      internalID: 4301883505672228498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_154
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6000b4f02fcb4b0800000000000000
+      internalID: -5423193703764195590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_155
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa90e4bd1fa5ce30800000000000000
+      internalID: 4523213942887062181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_156
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b313fdc6e3eb3ef90800000000000000
+      internalID: -6925482626641874629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_157
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f47abc1211225b0800000000000000
+      internalID: -5394730566788100281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_158
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8be195c7878c10800000000000000
+      internalID: 2055761037544360611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_159
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aacb089ee2072460800000000000000
+      internalID: 7216740151660890786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069447f6d0d3b3e0800000000000000
+      internalID: -2039056584578656768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc42745ec9196a210800000000000000
+      internalID: 1343921641864242379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_162
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5067efbc6f4b6bc60800000000000000
+      internalID: 7833647573934962181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_163
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfbf83adc9568f30800000000000000
+      internalID: 4577444811015962548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_164
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c28506cf038650800000000000000
+      internalID: 6233843652381295865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_165
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c4e359b8248480800000000000000
+      internalID: -8897942187335694644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_166
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787ef447b7f961bd0800000000000000
+      internalID: -2659763177334511737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_167
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b058c2efa26b1090800000000000000
+      internalID: -8062742200313163598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59d0d07aa775c640800000000000000
+      internalID: 5099613726987835742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_169
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0180a8e6cea5aa0800000000000000
+      internalID: -6171360379851501368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_170
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab060ee49aefdb1c0800000000000000
+      internalID: -4486149650664890182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_171
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340e978fc5f8e9200800000000000000
+      internalID: 188745863864639555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_172
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d9f8cf901f1e590800000000000000
+      internalID: -7646565667104121587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_173
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18992e80ef1a28480800000000000000
+      internalID: -8898371801287845503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_174
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5efec73e66d3550800000000000000
+      internalID: 6142178594042930612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_175
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa81ddd4b7278b30800000000000000
+      internalID: 4289440827862780660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a855ca10f8f597d60800000000000000
+      internalID: 7888441290129167754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_177
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49eb1d85d7eed970800000000000000
+      internalID: 8781711227800512845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_178
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 39
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f787072f3e2be2d0800000000000000
+      internalID: -3248451857445058571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_179
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c0322371da2250800000000000000
+      internalID: 5920774952557003761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d1bb3ce38dc250800000000000000
+      internalID: 5966570131972806181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_181
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f09419fda4c9140800000000000000
+      internalID: 4727736032907825006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_182
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1581094f6fd6480800000000000000
+      internalID: -8904189357991636561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_183
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa022c5579833b60800000000000000
+      internalID: 7724668923020446374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055dc90d02ac79370800000000000000
+      internalID: 8329348278132725072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_185
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60744b53661bbaf90800000000000000
+      internalID: -6941259348115699962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_186
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477911d16ffaf5200800000000000000
+      internalID: 171048782447875956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_187
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9d9359f5ad3550800000000000000
+      internalID: 6142247957071501967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddcb457be3d8e930800000000000000
+      internalID: 4172818062997442006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_189
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18498b8727a1141b0800000000000000
+      internalID: -5674224976556157823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_190
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c0ba8a357c8460800000000000000
+      internalID: 7245294794827678321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_191
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79b4c9cb58078f0800000000000000
+      internalID: -544788509789284416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6262d30bbbeee73d0800000000000000
+      internalID: -3206863394758121946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_193
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f620700aa38640800000000000000
+      internalID: 5081091723462375914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_194
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03a09d72deafa90800000000000000
+      internalID: -7279245092290154275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_195
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ef91db2c782330800000000000000
+      internalID: 3686332822645106019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da70e1baafc0d1f60800000000000000
+      internalID: 8006569983286839213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_197
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad93df68f6698db0800000000000000
+      internalID: -4789183511517749851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_198
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90994f1c6f0b84240800000000000000
+      internalID: 4776261978688887049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_Down_LBs_8x8_199
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283eaabd7a2e29c0800000000000000
+      internalID: -3950173103666087901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Angle_Down_LBs_8x8_0: 7724625900938600116
+      Angle_Down_LBs_8x8_1: -1232872892167979908
+      Angle_Down_LBs_8x8_10: -8646124439542214055
+      Angle_Down_LBs_8x8_100: 923372385525940437
+      Angle_Down_LBs_8x8_101: 7577697344551971519
+      Angle_Down_LBs_8x8_102: -9051680418648732916
+      Angle_Down_LBs_8x8_103: 1177350317047242051
+      Angle_Down_LBs_8x8_104: -956665477487951379
+      Angle_Down_LBs_8x8_105: -2725186407865797826
+      Angle_Down_LBs_8x8_106: 7518899942320233133
+      Angle_Down_LBs_8x8_107: 2106770292094467202
+      Angle_Down_LBs_8x8_108: 6357064573605147085
+      Angle_Down_LBs_8x8_109: 2571897942748839849
+      Angle_Down_LBs_8x8_11: -2580810157594588682
+      Angle_Down_LBs_8x8_110: -2860771765101150567
+      Angle_Down_LBs_8x8_111: 692441817233798712
+      Angle_Down_LBs_8x8_112: 2465265050972541695
+      Angle_Down_LBs_8x8_113: 917237250951134901
+      Angle_Down_LBs_8x8_114: 8898959444039747371
+      Angle_Down_LBs_8x8_115: -8894391111617953052
+      Angle_Down_LBs_8x8_116: -2724995667715558317
+      Angle_Down_LBs_8x8_117: -6217776791888527189
+      Angle_Down_LBs_8x8_118: 2470954500292129996
+      Angle_Down_LBs_8x8_119: -9005740528359863832
+      Angle_Down_LBs_8x8_12: 5840720058510191925
+      Angle_Down_LBs_8x8_120: 8807525477488311919
+      Angle_Down_LBs_8x8_121: -8084968954442052416
+      Angle_Down_LBs_8x8_122: -3358430731268553110
+      Angle_Down_LBs_8x8_123: -8808347563445463354
+      Angle_Down_LBs_8x8_124: 3511348860294157441
+      Angle_Down_LBs_8x8_125: -6886020996485098603
+      Angle_Down_LBs_8x8_126: -3080355048985348508
+      Angle_Down_LBs_8x8_127: 7842713690720025716
+      Angle_Down_LBs_8x8_128: -968437979854340513
+      Angle_Down_LBs_8x8_129: 640048057384053141
+      Angle_Down_LBs_8x8_13: 3689735004638974051
+      Angle_Down_LBs_8x8_130: -831756051139088140
+      Angle_Down_LBs_8x8_131: -1519453489168653200
+      Angle_Down_LBs_8x8_132: -4358414519868644391
+      Angle_Down_LBs_8x8_133: -8786010490402634575
+      Angle_Down_LBs_8x8_134: -734011776070152080
+      Angle_Down_LBs_8x8_135: 3966418180773454201
+      Angle_Down_LBs_8x8_136: 1134542324862998219
+      Angle_Down_LBs_8x8_137: -447564396546707477
+      Angle_Down_LBs_8x8_138: 289342407262567293
+      Angle_Down_LBs_8x8_139: -6187074189261489825
+      Angle_Down_LBs_8x8_14: -5918417152005071471
+      Angle_Down_LBs_8x8_140: -2719074689374299076
+      Angle_Down_LBs_8x8_141: 5221144617588691923
+      Angle_Down_LBs_8x8_142: -2379052020258896736
+      Angle_Down_LBs_8x8_143: 3243416663923580101
+      Angle_Down_LBs_8x8_144: -3317480032334222893
+      Angle_Down_LBs_8x8_145: 7433120370747986412
+      Angle_Down_LBs_8x8_146: 1084538094709431342
+      Angle_Down_LBs_8x8_147: 3105305392776049854
+      Angle_Down_LBs_8x8_148: 8654413671764508060
+      Angle_Down_LBs_8x8_149: -9144076697780127128
+      Angle_Down_LBs_8x8_15: 1035339936660348750
+      Angle_Down_LBs_8x8_150: 168410067582269020
+      Angle_Down_LBs_8x8_151: -7979651359466376021
+      Angle_Down_LBs_8x8_152: 1614155528322162837
+      Angle_Down_LBs_8x8_153: 4301883505672228498
+      Angle_Down_LBs_8x8_154: -5423193703764195590
+      Angle_Down_LBs_8x8_155: 4523213942887062181
+      Angle_Down_LBs_8x8_156: -6925482626641874629
+      Angle_Down_LBs_8x8_157: -5394730566788100281
+      Angle_Down_LBs_8x8_158: 2055761037544360611
+      Angle_Down_LBs_8x8_159: 7216740151660890786
+      Angle_Down_LBs_8x8_16: 7929693476825281154
+      Angle_Down_LBs_8x8_160: -2039056584578656768
+      Angle_Down_LBs_8x8_161: 1343921641864242379
+      Angle_Down_LBs_8x8_162: 7833647573934962181
+      Angle_Down_LBs_8x8_163: 4577444811015962548
+      Angle_Down_LBs_8x8_164: 6233843652381295865
+      Angle_Down_LBs_8x8_165: -8897942187335694644
+      Angle_Down_LBs_8x8_166: -2659763177334511737
+      Angle_Down_LBs_8x8_167: -8062742200313163598
+      Angle_Down_LBs_8x8_168: 5099613726987835742
+      Angle_Down_LBs_8x8_169: -6171360379851501368
+      Angle_Down_LBs_8x8_17: -3608382911738738939
+      Angle_Down_LBs_8x8_170: -4486149650664890182
+      Angle_Down_LBs_8x8_171: 188745863864639555
+      Angle_Down_LBs_8x8_172: -7646565667104121587
+      Angle_Down_LBs_8x8_173: -8898371801287845503
+      Angle_Down_LBs_8x8_174: 6142178594042930612
+      Angle_Down_LBs_8x8_175: 4289440827862780660
+      Angle_Down_LBs_8x8_176: 7888441290129167754
+      Angle_Down_LBs_8x8_177: 8781711227800512845
+      Angle_Down_LBs_8x8_178: -3248451857445058571
+      Angle_Down_LBs_8x8_179: 5920774952557003761
+      Angle_Down_LBs_8x8_18: -5734032137414225655
+      Angle_Down_LBs_8x8_180: 5966570131972806181
+      Angle_Down_LBs_8x8_181: 4727736032907825006
+      Angle_Down_LBs_8x8_182: -8904189357991636561
+      Angle_Down_LBs_8x8_183: 7724668923020446374
+      Angle_Down_LBs_8x8_184: 8329348278132725072
+      Angle_Down_LBs_8x8_185: -6941259348115699962
+      Angle_Down_LBs_8x8_186: 171048782447875956
+      Angle_Down_LBs_8x8_187: 6142247957071501967
+      Angle_Down_LBs_8x8_188: 4172818062997442006
+      Angle_Down_LBs_8x8_189: -5674224976556157823
+      Angle_Down_LBs_8x8_19: -4556860998501574701
+      Angle_Down_LBs_8x8_190: 7245294794827678321
+      Angle_Down_LBs_8x8_191: -544788509789284416
+      Angle_Down_LBs_8x8_192: -3206863394758121946
+      Angle_Down_LBs_8x8_193: 5081091723462375914
+      Angle_Down_LBs_8x8_194: -7279245092290154275
+      Angle_Down_LBs_8x8_195: 3686332822645106019
+      Angle_Down_LBs_8x8_196: 8006569983286839213
+      Angle_Down_LBs_8x8_197: -4789183511517749851
+      Angle_Down_LBs_8x8_198: 4776261978688887049
+      Angle_Down_LBs_8x8_199: -3950173103666087901
+      Angle_Down_LBs_8x8_2: -5523946849329769303
+      Angle_Down_LBs_8x8_20: -3649218035861707265
+      Angle_Down_LBs_8x8_21: -7088274350915179591
+      Angle_Down_LBs_8x8_22: -2392425171574991879
+      Angle_Down_LBs_8x8_23: 7532767791223200776
+      Angle_Down_LBs_8x8_24: -304641613136490994
+      Angle_Down_LBs_8x8_25: -913045964489364122
+      Angle_Down_LBs_8x8_26: 7685482260473806483
+      Angle_Down_LBs_8x8_27: -4968214934458455337
+      Angle_Down_LBs_8x8_28: -6200007622420676145
+      Angle_Down_LBs_8x8_29: 4714389575569242265
+      Angle_Down_LBs_8x8_3: 6847070565942346812
+      Angle_Down_LBs_8x8_30: 2546685685975421792
+      Angle_Down_LBs_8x8_31: -2939413969891931128
+      Angle_Down_LBs_8x8_32: 2629493167270706549
+      Angle_Down_LBs_8x8_33: 5280037794339647421
+      Angle_Down_LBs_8x8_34: -2628536041086866304
+      Angle_Down_LBs_8x8_35: -5238525481075412948
+      Angle_Down_LBs_8x8_36: -1213920770903162751
+      Angle_Down_LBs_8x8_37: 877942877688512942
+      Angle_Down_LBs_8x8_38: -8689354394079765974
+      Angle_Down_LBs_8x8_39: 3362323628748831678
+      Angle_Down_LBs_8x8_4: -757946942177918249
+      Angle_Down_LBs_8x8_40: -2470430693449833985
+      Angle_Down_LBs_8x8_41: 7749129395080592645
+      Angle_Down_LBs_8x8_42: 5627481509530767631
+      Angle_Down_LBs_8x8_43: 5342238912841721733
+      Angle_Down_LBs_8x8_44: -8979974259048345106
+      Angle_Down_LBs_8x8_45: 153058038011724795
+      Angle_Down_LBs_8x8_46: 5464863459124060270
+      Angle_Down_LBs_8x8_47: -7778423052614287579
+      Angle_Down_LBs_8x8_48: -9025300881566460240
+      Angle_Down_LBs_8x8_49: -7629861566117857020
+      Angle_Down_LBs_8x8_5: 4186892578403374969
+      Angle_Down_LBs_8x8_50: 2275807152265539467
+      Angle_Down_LBs_8x8_51: 7498351553505664117
+      Angle_Down_LBs_8x8_52: -946126368027741156
+      Angle_Down_LBs_8x8_53: 2374999797762509717
+      Angle_Down_LBs_8x8_54: 8831556556412428190
+      Angle_Down_LBs_8x8_55: 3922912215120847027
+      Angle_Down_LBs_8x8_56: -5968302748130232367
+      Angle_Down_LBs_8x8_57: -8122658905013759294
+      Angle_Down_LBs_8x8_58: 3480057460940876701
+      Angle_Down_LBs_8x8_59: -521573503159295226
+      Angle_Down_LBs_8x8_6: 4713574809957175025
+      Angle_Down_LBs_8x8_60: 5095695071359955493
+      Angle_Down_LBs_8x8_61: 2836178259768370853
+      Angle_Down_LBs_8x8_62: -4894954123623013963
+      Angle_Down_LBs_8x8_63: -4496427047973343769
+      Angle_Down_LBs_8x8_64: 6533008634211010005
+      Angle_Down_LBs_8x8_65: -8252400640113147426
+      Angle_Down_LBs_8x8_66: -3840278873872771334
+      Angle_Down_LBs_8x8_67: 9099350717656063782
+      Angle_Down_LBs_8x8_68: 1690385135220705625
+      Angle_Down_LBs_8x8_69: -2937234331380518738
+      Angle_Down_LBs_8x8_7: 988284799209761754
+      Angle_Down_LBs_8x8_70: 2223374318692927356
+      Angle_Down_LBs_8x8_71: -4508971804938617020
+      Angle_Down_LBs_8x8_72: -7124289974591665456
+      Angle_Down_LBs_8x8_73: 1840158372718385681
+      Angle_Down_LBs_8x8_74: 1999735212200802538
+      Angle_Down_LBs_8x8_75: 2278806768001480892
+      Angle_Down_LBs_8x8_76: 4647290157275401090
+      Angle_Down_LBs_8x8_77: -493760339326030759
+      Angle_Down_LBs_8x8_78: -7708889824097454320
+      Angle_Down_LBs_8x8_79: 5014313610313102949
+      Angle_Down_LBs_8x8_8: -1502498922935392117
+      Angle_Down_LBs_8x8_80: 9058431917559542466
+      Angle_Down_LBs_8x8_81: 8287172232701676707
+      Angle_Down_LBs_8x8_82: -179863229066743799
+      Angle_Down_LBs_8x8_83: -7028800799807154744
+      Angle_Down_LBs_8x8_84: 4556721119233271024
+      Angle_Down_LBs_8x8_85: -2451047670035908285
+      Angle_Down_LBs_8x8_86: -706339620209219504
+      Angle_Down_LBs_8x8_87: 6081507768733100041
+      Angle_Down_LBs_8x8_88: 7434782170121992371
+      Angle_Down_LBs_8x8_89: 661328894790570846
+      Angle_Down_LBs_8x8_9: 1520218885430959620
+      Angle_Down_LBs_8x8_90: 3314471099738931589
+      Angle_Down_LBs_8x8_91: -4014718929035543428
+      Angle_Down_LBs_8x8_92: -555119220529936494
+      Angle_Down_LBs_8x8_93: -655477425159749693
+      Angle_Down_LBs_8x8_94: 7420711978886352196
+      Angle_Down_LBs_8x8_95: -6616715560918661135
+      Angle_Down_LBs_8x8_96: -4316525787840983439
+      Angle_Down_LBs_8x8_97: 5375110945532441373
+      Angle_Down_LBs_8x8_98: -4333655778510782886
+      Angle_Down_LBs_8x8_99: 3918028228660776347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

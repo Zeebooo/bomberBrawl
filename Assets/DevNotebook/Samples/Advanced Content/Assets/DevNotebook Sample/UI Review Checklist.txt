@@ -1,0 +1,5 @@
+UI Review Checklist
+
+1. Confirm labels make sense without tooltip support.
+2. Check tab order after controller focus changes.
+3. Verify confirmation states look distinct from disabled states.

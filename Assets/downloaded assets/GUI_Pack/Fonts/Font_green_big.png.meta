@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 675a085a1124d474b8e455bd52aedeeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 417213955868125654
+    second: Font_green_big_0
+  - first:
+      213: -6722970453266756887
+    second: Font_green_big_1
+  - first:
+      213: -2696593048557636796
+    second: Font_green_big_2
+  - first:
+      213: 2887560247827547988
+    second: Font_green_big_3
+  - first:
+      213: 1216787498051493877
+    second: Font_green_big_4
+  - first:
+      213: -7063512708208727576
+    second: Font_green_big_5
+  - first:
+      213: 2284741852790152536
+    second: Font_green_big_6
+  - first:
+      213: -1888980836829793274
+    second: Font_green_big_7
+  - first:
+      213: -3137774836217105734
+    second: Font_green_big_8
+  - first:
+      213: 2664117519541548391
+    second: Font_green_big_9
+  - first:
+      213: -6620084560139897905
+    second: Font_green_big_10
+  - first:
+      213: -6223319922200166205
+    second: Font_green_big_11
+  - first:
+      213: 8946673258307985445
+    second: Font_green_big_12
+  - first:
+      213: 7235530958610210894
+    second: Font_green_big_13
+  - first:
+      213: 4484315611954037518
+    second: Font_green_big_14
+  - first:
+      213: -1418076205504707871
+    second: Font_green_big_15
+  - first:
+      213: -7164246098469620018
+    second: Font_green_big_16
+  - first:
+      213: -4210489865970425157
+    second: Font_green_big_17
+  - first:
+      213: 1542265886832007097
+    second: Font_green_big_18
+  - first:
+      213: 3124883361340724817
+    second: Font_green_big_19
+  - first:
+      213: -880218749399435609
+    second: Font_green_big_20
+  - first:
+      213: 882199656497006301
+    second: Font_green_big_21
+  - first:
+      213: -2456119808416373195
+    second: Font_green_big_22
+  - first:
+      213: -6410571200057762275
+    second: Font_green_big_23
+  - first:
+      213: 4393964674660737901
+    second: Font_green_big_24
+  - first:
+      213: -6576233985475025029
+    second: Font_green_big_25
+  - first:
+      213: -6613240151016521779
+    second: Font_green_big_26
+  - first:
+      213: 2925132274403364295
+    second: Font_green_big_27
+  - first:
+      213: -7377860912737484529
+    second: Font_green_big_28
+  - first:
+      213: -4113729544429217885
+    second: Font_green_big_29
+  - first:
+      213: 2118413318466154356
+    second: Font_green_big_30
+  - first:
+      213: 256990706583784045
+    second: Font_green_big_31
+  - first:
+      213: -5366561079835897417
+    second: Font_green_big_32
+  - first:
+      213: -4267334027540146608
+    second: Font_green_big_33
+  - first:
+      213: 2140270750720440022
+    second: Font_green_big_34
+  - first:
+      213: -2313152735565850950
+    second: Font_green_big_35
+  - first:
+      213: -3476711394379828424
+    second: Font_green_big_36
+  - first:
+      213: -5864952758203612350
+    second: Font_green_big_37
+  - first:
+      213: 8260226478478277180
+    second: Font_green_big_38
+  - first:
+      213: 7646875587797738629
+    second: Font_green_big_39
+  - first:
+      213: 3286421732367482221
+    second: Font_green_big_40
+  - first:
+      213: 1870913849911981682
+    second: Font_green_big_41
+  - first:
+      213: 6270107133170148108
+    second: Font_green_big_42
+  - first:
+      213: 2966806454771242306
+    second: Font_green_big_43
+  - first:
+      213: -7806525210622518016
+    second: Font_green_big_44
+  - first:
+      213: 1448249932310218783
+    second: Font_green_big_45
+  - first:
+      213: -553421605904136679
+    second: Font_green_big_46
+  - first:
+      213: 905482150260960307
+    second: Font_green_big_47
+  - first:
+      213: -1361190655610834149
+    second: Font_green_big_48
+  - first:
+      213: 5560848126359648640
+    second: Font_green_big_49
+  - first:
+      213: -6673401369152016067
+    second: Font_green_big_50
+  - first:
+      213: -6630792988389337599
+    second: Font_green_big_51
+  - first:
+      213: 7643850365006867637
+    second: Font_green_big_52
+  - first:
+      213: 5434611014008664317
+    second: Font_green_big_53
+  - first:
+      213: -7053986452070013438
+    second: Font_green_big_54
+  - first:
+      213: -6765861507467102876
+    second: Font_green_big_55
+  - first:
+      213: -8825238655676979792
+    second: Font_green_big_56
+  - first:
+      213: -2127234359065291664
+    second: Font_green_big_57
+  - first:
+      213: -9209136909728801183
+    second: Font_green_big_58
+  - first:
+      213: -2456020626779350812
+    second: Font_green_big_59
+  - first:
+      213: 8156627245643232605
+    second: Font_green_big_60
+  - first:
+      213: -8345994695334845444
+    second: Font_green_big_61
+  - first:
+      213: -2114498753176008929
+    second: Font_green_big_62
+  - first:
+      213: 9005311200231150522
+    second: Font_green_big_63
+  - first:
+      213: 2577105239173044810
+    second: Font_green_big_64
+  - first:
+      213: 2312099846048997808
+    second: Font_green_big_65
+  - first:
+      213: 4444867742978527844
+    second: Font_green_big_66
+  - first:
+      213: 5636820077634550643
+    second: Font_green_big_67
+  - first:
+      213: -7719224767051176424
+    second: Font_green_big_68
+  - first:
+      213: -3460438640854014368
+    second: Font_green_big_69
+  - first:
+      213: -2378438203958068925
+    second: Font_green_big_70
+  - first:
+      213: -6193178123956130495
+    second: Font_green_big_71
+  - first:
+      213: -1293585888129129696
+    second: Font_green_big_72
+  - first:
+      213: -8606613645080145491
+    second: Font_green_big_73
+  - first:
+      213: 8912263840982107453
+    second: Font_green_big_74
+  - first:
+      213: -2750416134948147336
+    second: Font_green_big_75
+  - first:
+      213: -8651072323733767302
+    second: Font_green_big_76
+  - first:
+      213: -6117379782348334892
+    second: Font_green_big_77
+  - first:
+      213: -1567262828621626986
+    second: Font_green_big_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Font_green_big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9ead2e1ed3ac500800000000000000
+      internalID: 417213955868125654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea86991ef533b2a0800000000000000
+      internalID: -6722970453266756887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4433fe4d8e6c39ad0800000000000000
+      internalID: -2696593048557636796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457cc471fbca21820800000000000000
+      internalID: 2887560247827547988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffde7c58c5e2e010800000000000000
+      internalID: 1216787498051493877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9e2c0bd9c59fd90800000000000000
+      internalID: -7063512708208727576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d560b2c9805bf10800000000000000
+      internalID: 2284741852790152536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047d39efedf8c5e0800000000000000
+      internalID: -1888980836829793274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2be1e39626474d0800000000000000
+      internalID: -3137774836217105734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653b28d4c8d8f420800000000000000
+      internalID: 2664117519541548391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc330d1da2cb024a0800000000000000
+      internalID: -6620084560139897905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c5a9d08352a9a0800000000000000
+      internalID: -6223319922200166205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5202fea4de7f82c70800000000000000
+      internalID: 8946673258307985445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40ad454215c96460800000000000000
+      internalID: 7235530958610210894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0342474a4d7b3e30800000000000000
+      internalID: 4484315611954037518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24572543bf15ce0800000000000000
+      internalID: -1418076205504707871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67d39912c739c90800000000000000
+      internalID: -7164246098469620018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2637866c55195c0800000000000000
+      internalID: -4210489865970425157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b713dd17aa376510800000000000000
+      internalID: 1542265886832007097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561e3d5cd0dd5b20800000000000000
+      internalID: 3124883361340724817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6786506b5d8c3f0800000000000000
+      internalID: -880218749399435609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6c97ad9e33e3c00800000000000000
+      internalID: 882199656497006301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536aa8d1c0c1aedd0800000000000000
+      internalID: -2456119808416373195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e153d45731907a0800000000000000
+      internalID: -6410571200057762275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63a4c4679f7afc30800000000000000
+      internalID: 4393964674660737901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77e8e758068cb4a0800000000000000
+      internalID: -6576233985475025029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3f400f1d0934a0800000000000000
+      internalID: -6613240151016521779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdc7d83e48289820800000000000000
+      internalID: 2925132274403364295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f010b06e6929c9990800000000000000
+      internalID: -7377860912737484529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7544a56c819e6c0800000000000000
+      internalID: -4113729544429217885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa1a670bd166d10800000000000000
+      internalID: 2118413318466154356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac080afa3019300800000000000000
+      internalID: 256990706583784045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d1f291252685b0800000000000000
+      internalID: -5366561079835897417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056588eaf4267c4c0800000000000000
+      internalID: -4267334027540146608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b9db78e4c3bd10800000000000000
+      internalID: 2140270750720440022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6df55b7d706efd0800000000000000
+      internalID: -2313152735565850950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833ff6f386d30cfc0800000000000000
+      internalID: -3476711394379828424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24383de4a808b9ea0800000000000000
+      internalID: -5864952758203612350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a39f5b73832a270800000000000000
+      internalID: 8260226478478277180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846a4c05d82f1a60800000000000000
+      internalID: 7646875587797738629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d33e34727bb9d20800000000000000
+      internalID: 3286421732367482221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276bc55eb32d6f910800000000000000
+      internalID: 1870913849911981682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ef389735e30750800000000000000
+      internalID: 6270107133170148108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245d9f570c63c2920800000000000000
+      internalID: 2966806454771242306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d96b28ea6a9a390800000000000000
+      internalID: -7806525210622518016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f188559e3a7391410800000000000000
+      internalID: 1448249932310218783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ce094bf9d158f0800000000000000
+      internalID: -553421605904136679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ce2ccd73be09c00800000000000000
+      internalID: 905482150260960307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b133cb48f441c1de0800000000000000
+      internalID: -1361190655610834149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089309588e91c2d40800000000000000
+      internalID: 5560848126359648640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31b61cdfc05363a0800000000000000
+      internalID: -6673401369152016067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10617e398e0baf3a0800000000000000
+      internalID: -6630792988389337599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc697a7869641a60800000000000000
+      internalID: 7643850365006867637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df079666ced9b6b40800000000000000
+      internalID: 5434611014008664317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e2f902b43b1e90800000000000000
+      internalID: -7053986452070013438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4653fe75ec4da12a0800000000000000
+      internalID: -6765861507467102876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5e3566334768580800000000000000
+      internalID: -8825238655676979792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07458e9fe9b8a72e0800000000000000
+      internalID: -2127234359065291664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1dafc5c2923080800000000000000
+      internalID: -9209136909728801183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8d8c3a0467aedd0800000000000000
+      internalID: -2456020626779350812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5576d5a349223170800000000000000
+      internalID: 8156627245643232605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a5472b021d2c80800000000000000
+      internalID: -8345994695334845444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1700fa469ac7a2e0800000000000000
+      internalID: -2114498753176008929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3df9d03da49fc70800000000000000
+      internalID: 9005311200231150522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a15b99f87b3c320800000000000000
+      internalID: 2577105239173044810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b16cf85f8a361020800000000000000
+      internalID: 2312099846048997808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d3dd89a75fad30800000000000000
+      internalID: 4444867742978527844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b7236def10a3e40800000000000000
+      internalID: 5636820077634550643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816648af8fdcfd490800000000000000
+      internalID: -7719224767051176424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0666cdce36d0affc0800000000000000
+      internalID: -3460438640854014368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497cd41e071efed0800000000000000
+      internalID: -2378438203958068925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_71
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14defd22f496d0aa0800000000000000
+      internalID: -6193178123956130495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_72
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ea9b0d724c0ee0800000000000000
+      internalID: -1293585888129129696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_73
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d7f55d7a2f8880800000000000000
+      internalID: -8606613645080145491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_74
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d350c428eb8beab70800000000000000
+      internalID: 8912263840982107453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_75
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa9ebf81f84d9d0800000000000000
+      internalID: -2750416134948147336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bb2a19e8731f780800000000000000
+      internalID: -8651072323733767302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_77
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d898fccf73ba1ba0800000000000000
+      internalID: -6117379782348334892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_green_big_78
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918556d2c6ff3ae0800000000000000
+      internalID: -1567262828621626986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Font_green_big_0: 417213955868125654
+      Font_green_big_1: -6722970453266756887
+      Font_green_big_10: -6620084560139897905
+      Font_green_big_11: -6223319922200166205
+      Font_green_big_12: 8946673258307985445
+      Font_green_big_13: 7235530958610210894
+      Font_green_big_14: 4484315611954037518
+      Font_green_big_15: -1418076205504707871
+      Font_green_big_16: -7164246098469620018
+      Font_green_big_17: -4210489865970425157
+      Font_green_big_18: 1542265886832007097
+      Font_green_big_19: 3124883361340724817
+      Font_green_big_2: -2696593048557636796
+      Font_green_big_20: -880218749399435609
+      Font_green_big_21: 882199656497006301
+      Font_green_big_22: -2456119808416373195
+      Font_green_big_23: -6410571200057762275
+      Font_green_big_24: 4393964674660737901
+      Font_green_big_25: -6576233985475025029
+      Font_green_big_26: -6613240151016521779
+      Font_green_big_27: 2925132274403364295
+      Font_green_big_28: -7377860912737484529
+      Font_green_big_29: -4113729544429217885
+      Font_green_big_3: 2887560247827547988
+      Font_green_big_30: 2118413318466154356
+      Font_green_big_31: 256990706583784045
+      Font_green_big_32: -5366561079835897417
+      Font_green_big_33: -4267334027540146608
+      Font_green_big_34: 2140270750720440022
+      Font_green_big_35: -2313152735565850950
+      Font_green_big_36: -3476711394379828424
+      Font_green_big_37: -5864952758203612350
+      Font_green_big_38: 8260226478478277180
+      Font_green_big_39: 7646875587797738629
+      Font_green_big_4: 1216787498051493877
+      Font_green_big_40: 3286421732367482221
+      Font_green_big_41: 1870913849911981682
+      Font_green_big_42: 6270107133170148108
+      Font_green_big_43: 2966806454771242306
+      Font_green_big_44: -7806525210622518016
+      Font_green_big_45: 1448249932310218783
+      Font_green_big_46: -553421605904136679
+      Font_green_big_47: 905482150260960307
+      Font_green_big_48: -1361190655610834149
+      Font_green_big_49: 5560848126359648640
+      Font_green_big_5: -7063512708208727576
+      Font_green_big_50: -6673401369152016067
+      Font_green_big_51: -6630792988389337599
+      Font_green_big_52: 7643850365006867637
+      Font_green_big_53: 5434611014008664317
+      Font_green_big_54: -7053986452070013438
+      Font_green_big_55: -6765861507467102876
+      Font_green_big_56: -8825238655676979792
+      Font_green_big_57: -2127234359065291664
+      Font_green_big_58: -9209136909728801183
+      Font_green_big_59: -2456020626779350812
+      Font_green_big_6: 2284741852790152536
+      Font_green_big_60: 8156627245643232605
+      Font_green_big_61: -8345994695334845444
+      Font_green_big_62: -2114498753176008929
+      Font_green_big_63: 9005311200231150522
+      Font_green_big_64: 2577105239173044810
+      Font_green_big_65: 2312099846048997808
+      Font_green_big_66: 4444867742978527844
+      Font_green_big_67: 5636820077634550643
+      Font_green_big_68: -7719224767051176424
+      Font_green_big_69: -3460438640854014368
+      Font_green_big_7: -1888980836829793274
+      Font_green_big_70: -2378438203958068925
+      Font_green_big_71: -6193178123956130495
+      Font_green_big_72: -1293585888129129696
+      Font_green_big_73: -8606613645080145491
+      Font_green_big_74: 8912263840982107453
+      Font_green_big_75: -2750416134948147336
+      Font_green_big_76: -8651072323733767302
+      Font_green_big_77: -6117379782348334892
+      Font_green_big_78: -1567262828621626986
+      Font_green_big_8: -3137774836217105734
+      Font_green_big_9: 2664117519541548391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

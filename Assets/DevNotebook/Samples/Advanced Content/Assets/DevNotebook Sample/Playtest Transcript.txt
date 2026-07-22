@@ -1,0 +1,5 @@
+Playtest Transcript Highlights
+
+- Player ignored the second prompt until enemy pressure stopped.
+- Menu readability improved once text spacing increased.
+- Capture another run after retuning combat hit pause.

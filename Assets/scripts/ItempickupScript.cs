@@ -74,19 +74,19 @@ public class ItempickupScript : NetworkBehaviour
 		{
 			case itemTypes.Movement:
 				character.increaseMovementSpeed(doubleActive ? doubleMultiplier(moveSpeedMultiplier) : moveSpeedMultiplier);
-				if (doubleActive) geologist.ConsumeDoubling();
+				if (doubleActive) geologist.ConsumeDoublingRpc();
 				break;
 			case itemTypes.MoreBombs:
 				bomb.addBomb(doubleActive ? 2 : 1);
-				if (doubleActive) geologist.ConsumeDoubling();
+				if (doubleActive) geologist.ConsumeDoublingRpc();
 				break;
 			case itemTypes.ExplosionRange:
 				bomb.increaseExplosionRadius(doubleActive ? doubleMultiplier(explosionRangeMultiplier) : explosionRangeMultiplier);
-				if (doubleActive) geologist.ConsumeDoubling();
+				if (doubleActive) geologist.ConsumeDoublingRpc();
 				break;
 			case itemTypes.Health:
 				character.addHealth(doubleActive ? healthMultiplier * 2 : healthMultiplier);
-				if (doubleActive) geologist.ConsumeDoubling();
+				if (doubleActive) geologist.ConsumeDoublingRpc();
 				break;
 			case itemTypes.RemoteBomb:
 				bomb.setRemoteBomb();
@@ -143,7 +143,7 @@ public class ItempickupScript : NetworkBehaviour
 
 	private float doubleMultiplier(float multiplier)
 	{
-		return multiplier * 2f;
+		return multiplier + ((multiplier - 1f) * 2f);
 	}
 
 	public static string[] getWorldEvents() => worldEvents;

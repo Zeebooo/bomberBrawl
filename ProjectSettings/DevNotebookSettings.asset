@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2d4f84422142d2b748e9d59ef45b71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: DevNotebook.Editor::DevNotebook.Editor.DevNotebookProjectSettings
+  openOnLoad: 1
+  showGettingStartedOnLoad: 1
+  lastOpenedNotebookGuid: f47c95eb302c21b488451f252c1d8c78
+  recentItems:
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: RPC methods
+    sectionIndex: 1
+    pageIndex: 0
+    openedTicksUtc: 639203368937603540
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Tutorial UI
+    sectionIndex: 0
+    pageIndex: 1
+    openedTicksUtc: 639203367718952530
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Info UI
+    sectionIndex: 0
+    pageIndex: 0
+    openedTicksUtc: 639203367641754440
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: 
+    sectionIndex: -1
+    pageIndex: -1
+    openedTicksUtc: 639203366143557570

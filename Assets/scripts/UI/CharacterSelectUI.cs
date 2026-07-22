@@ -138,7 +138,8 @@ public class CharacterSelectUI : MonoBehaviour
 
 		if (characterNameText != null) characterNameText.text = characterData.characterName;
 		if (statsText != null) statsText.text = $"HP: {characterData.maxHealth}\nMovement Speed: {moveSpeedString}\nMax Bombs: {characterData.maxBombs}\nExplosion Radius: {radiusString} \nAbility Cooldown: {characterData.abilityCooldown}s";
-		if (abilityText != null) abilityText.text = $"{characterData.abilityName}\n{characterData.abilityDescription}";
+		if (abilityText != null && characterData.characterName != "Ninja") abilityText.text = $"{characterData.abilityName}\nPress {PlayerPrefs.GetString("AbilityBind", "Q").ToUpper()} to {characterData.abilityDescription}";
+		else if (abilityText != null && characterData.characterName == "Ninja") abilityText.text = $"{characterData.abilityName}\nPress {PlayerPrefs.GetString("AbilityBind", "Q").ToUpper()} {characterData.abilityDescription}";
 
 		RefreshPreview(characterData.prefab);
 	}

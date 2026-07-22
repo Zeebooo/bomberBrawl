@@ -1,0 +1,6 @@
+Shiproom Notes
+
+Focus only on issues that block release confidence:
+- first-boot regressions
+- risky save/load behavior
+- candidate-specific deltas

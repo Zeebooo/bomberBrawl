@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: 97ef45ceeee3940cdb072e8825ae3f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8784924618918888295
+    second: Status_icons_16x16_0
+  - first:
+      213: 646562825941926935
+    second: Status_icons_16x16_1
+  - first:
+      213: 3339089213225107627
+    second: Status_icons_16x16_2
+  - first:
+      213: -7778390008079051250
+    second: Status_icons_16x16_3
+  - first:
+      213: -2208523649064052515
+    second: Status_icons_16x16_4
+  - first:
+      213: 2814354993906858360
+    second: Status_icons_16x16_5
+  - first:
+      213: -4893937752381919627
+    second: Status_icons_16x16_6
+  - first:
+      213: 5993043524756849873
+    second: Status_icons_16x16_7
+  - first:
+      213: -2757996494072904403
+    second: Status_icons_16x16_8
+  - first:
+      213: 217008894256896790
+    second: Status_icons_16x16_9
+  - first:
+      213: -1247507666741736385
+    second: Status_icons_16x16_10
+  - first:
+      213: -2908502982109103001
+    second: Status_icons_16x16_11
+  - first:
+      213: 8773197430872954331
+    second: Status_icons_16x16_12
+  - first:
+      213: -245026457965917372
+    second: Status_icons_16x16_13
+  - first:
+      213: -6097963526495373512
+    second: Status_icons_16x16_14
+  - first:
+      213: -2080784021017965711
+    second: Status_icons_16x16_15
+  - first:
+      213: -1121199863753212814
+    second: Status_icons_16x16_16
+  - first:
+      213: -4138411103051986345
+    second: Status_icons_16x16_17
+  - first:
+      213: -6657127500495179432
+    second: Status_icons_16x16_18
+  - first:
+      213: 1350237400390202750
+    second: Status_icons_16x16_19
+  - first:
+      213: 1497157196670448121
+    second: Status_icons_16x16_20
+  - first:
+      213: -8278035298352760543
+    second: Status_icons_16x16_21
+  - first:
+      213: -2071262094355223277
+    second: Status_icons_16x16_22
+  - first:
+      213: 7882213671961658111
+    second: Status_icons_16x16_23
+  - first:
+      213: 5290458369413311352
+    second: Status_icons_16x16_24
+  - first:
+      213: 8228022652033728604
+    second: Status_icons_16x16_25
+  - first:
+      213: 4982436232642947718
+    second: Status_icons_16x16_26
+  - first:
+      213: -4757565719998543593
+    second: Status_icons_16x16_27
+  - first:
+      213: -1156424366930406389
+    second: Status_icons_16x16_28
+  - first:
+      213: -5750493662323246854
+    second: Status_icons_16x16_29
+  - first:
+      213: 6908401538188428293
+    second: Status_icons_16x16_30
+  - first:
+      213: 787379804919077470
+    second: Status_icons_16x16_31
+  - first:
+      213: 9026416643668957154
+    second: Status_icons_16x16_32
+  - first:
+      213: -3009606823066330616
+    second: Status_icons_16x16_33
+  - first:
+      213: 6664281473314064982
+    second: Status_icons_16x16_34
+  - first:
+      213: 5462654184730820603
+    second: Status_icons_16x16_35
+  - first:
+      213: -7495304872967583644
+    second: Status_icons_16x16_36
+  - first:
+      213: -335827843716077038
+    second: Status_icons_16x16_37
+  - first:
+      213: -6810811199450838543
+    second: Status_icons_16x16_38
+  - first:
+      213: 617943562113700999
+    second: Status_icons_16x16_39
+  - first:
+      213: 3887862993337095658
+    second: Status_icons_16x16_40
+  - first:
+      213: 5753178220892067509
+    second: Status_icons_16x16_41
+  - first:
+      213: 8691539178974254386
+    second: Status_icons_16x16_42
+  - first:
+      213: -7707816525560422445
+    second: Status_icons_16x16_43
+  - first:
+      213: 805477782658129855
+    second: Status_icons_16x16_44
+  - first:
+      213: 8673560516433944163
+    second: Status_icons_16x16_45
+  - first:
+      213: -6342694619438265924
+    second: Status_icons_16x16_46
+  - first:
+      213: -1939804861901316294
+    second: Status_icons_16x16_47
+  - first:
+      213: -1566577197698260165
+    second: Status_icons_16x16_48
+  - first:
+      213: -1308417569032202591
+    second: Status_icons_16x16_49
+  - first:
+      213: 7044510885654287332
+    second: Status_icons_16x16_50
+  - first:
+      213: 7601019989247669035
+    second: Status_icons_16x16_51
+  - first:
+      213: 2135632270573359420
+    second: Status_icons_16x16_52
+  - first:
+      213: -5415218063937485531
+    second: Status_icons_16x16_53
+  - first:
+      213: -8148577504655601213
+    second: Status_icons_16x16_54
+  - first:
+      213: 5496137346657692127
+    second: Status_icons_16x16_55
+  - first:
+      213: 2499914265383381973
+    second: Status_icons_16x16_56
+  - first:
+      213: -6440024896648567322
+    second: Status_icons_16x16_57
+  - first:
+      213: 2639231932284899410
+    second: Status_icons_16x16_58
+  - first:
+      213: 5846964840952814953
+    second: Status_icons_16x16_59
+  - first:
+      213: -9220054504736199786
+    second: Status_icons_16x16_60
+  - first:
+      213: -4619588061236572389
+    second: Status_icons_16x16_61
+  - first:
+      213: -797941972688973254
+    second: Status_icons_16x16_62
+  - first:
+      213: -6646112402108131187
+    second: Status_icons_16x16_63
+  - first:
+      213: 1638182453479209068
+    second: Status_icons_16x16_64
+  - first:
+      213: 1655054481463271585
+    second: Status_icons_16x16_65
+  - first:
+      213: 8787711433474625662
+    second: Status_icons_16x16_66
+  - first:
+      213: 7993774973430621776
+    second: Status_icons_16x16_67
+  - first:
+      213: -4403128585689832481
+    second: Status_icons_16x16_68
+  - first:
+      213: 5105071102430889915
+    second: Status_icons_16x16_69
+  - first:
+      213: -4270240994830994579
+    second: Status_icons_16x16_70
+  - first:
+      213: -5979849038682349745
+    second: Status_icons_16x16_71
+  - first:
+      213: -756139031697682788
+    second: Status_icons_16x16_72
+  - first:
+      213: -6370873481474571087
+    second: Status_icons_16x16_73
+  - first:
+      213: 4886054469214843520
+    second: Status_icons_16x16_74
+  - first:
+      213: 1848617420676554070
+    second: Status_icons_16x16_75
+  - first:
+      213: 3994455811601781404
+    second: Status_icons_16x16_76
+  - first:
+      213: 758138558861116589
+    second: Status_icons_16x16_77
+  - first:
+      213: 7221005765275443806
+    second: Status_icons_16x16_78
+  - first:
+      213: -5171007828449907432
+    second: Status_icons_16x16_79
+  - first:
+      213: 5232038388474269177
+    second: Status_icons_16x16_80
+  - first:
+      213: -227765047777583912
+    second: Status_icons_16x16_81
+  - first:
+      213: -7335962860925063026
+    second: Status_icons_16x16_82
+  - first:
+      213: -827641843318947091
+    second: Status_icons_16x16_83
+  - first:
+      213: -8334225992578507509
+    second: Status_icons_16x16_84
+  - first:
+      213: -3485661520838691040
+    second: Status_icons_16x16_85
+  - first:
+      213: -535289375425189302
+    second: Status_icons_16x16_86
+  - first:
+      213: 5382049562025995476
+    second: Status_icons_16x16_87
+  - first:
+      213: 3774819667163318721
+    second: Status_icons_16x16_88
+  - first:
+      213: -9102129633647902214
+    second: Status_icons_16x16_89
+  - first:
+      213: -8609459101978404831
+    second: Status_icons_16x16_90
+  - first:
+      213: 2647162349504088356
+    second: Status_icons_16x16_91
+  - first:
+      213: 3644102794054455382
+    second: Status_icons_16x16_92
+  - first:
+      213: 5418178499264440364
+    second: Status_icons_16x16_93
+  - first:
+      213: -6753502400284175044
+    second: Status_icons_16x16_94
+  - first:
+      213: -515322712292024385
+    second: Status_icons_16x16_95
+  - first:
+      213: -5420533702331068723
+    second: Status_icons_16x16_96
+  - first:
+      213: 7737774241949815939
+    second: Status_icons_16x16_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Status_icons_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638e3975625ae970800000000000000
+      internalID: 8784924618918888295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714cd3de67d09f800800000000000000
+      internalID: 646562825941926935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba00f9bb2f3d65e20800000000000000
+      internalID: 3339089213225107627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e061004df7b9d0490800000000000000
+      internalID: -7778390008079051250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8dc73417fb951e0800000000000000
+      internalID: -2208523649064052515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8793aa3b4f89e0720800000000000000
+      internalID: 2814354993906858360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee66c1b8d351cb0800000000000000
+      internalID: -4893937752381919627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 415
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4469055519b2350800000000000000
+      internalID: 5993043524756849873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2503071dc0a9b9d0800000000000000
+      internalID: -2757996494072904403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b58478078f20300800000000000000
+      internalID: 217008894256896790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c484df266ffaee0800000000000000
+      internalID: -1247507666741736385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 399
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf83b92fbe2a7d0800000000000000
+      internalID: -2908502982109103001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55d8bb498a0c970800000000000000
+      internalID: 8773197430872954331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b8e541cbd799cf0800000000000000
+      internalID: -245026457965917372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83774f52b7eaf5ba0800000000000000
+      internalID: -6097963526495373512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 383
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4ae415f19f13e0800000000000000
+      internalID: -2080784021017965711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf5ce0aa2b070f0800000000000000
+      internalID: -1121199863753212814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 367
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75acd0c27096196c0800000000000000
+      internalID: -4138411103051986345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851308c2fc12d93a0800000000000000
+      internalID: -6657127500495179432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 367
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7574b403c10db210800000000000000
+      internalID: 1350237400390202750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13670c988f6c410800000000000000
+      internalID: 1497157196670448121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129f98b41c28e1d80800000000000000
+      internalID: -8278035298352760543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da93569166143e0800000000000000
+      internalID: -2071262094355223277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28009a29f336d60800000000000000
+      internalID: 7882213671961658111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b6fdf5bdb7b6940800000000000000
+      internalID: 5290458369413311352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c508652120fcf2270800000000000000
+      internalID: 8228022652033728604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae7b20b5b252540800000000000000
+      internalID: 4982436232642947718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71949ef2f2bb9fdb0800000000000000
+      internalID: -4757565719998543593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04d18f4a2e83ffe0800000000000000
+      internalID: -1156424366930406389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af876164b742230b0800000000000000
+      internalID: -5750493662323246854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504cb71c8929fdf50800000000000000
+      internalID: 6908401538188428293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a9487c2c55dea00800000000000000
+      internalID: 787379804919077470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7df880d16444d70800000000000000
+      internalID: 9026416643668957154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a1a8d3a8abb36d0800000000000000
+      internalID: -3009606823066330616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0a1ce0b84c7c50800000000000000
+      internalID: 6664281473314064982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 303
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff7ea3e90f3fcb40800000000000000
+      internalID: 5462654184730820603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468438b0ee35bf790800000000000000
+      internalID: -7495304872967583644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a2e9dfa56e65bf0800000000000000
+      internalID: -335827843716077038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f90b70ac432b71a0800000000000000
+      internalID: -6810811199450838543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784d60f4560639800800000000000000
+      internalID: 617943562113700999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae59e3d2bc674f530800000000000000
+      internalID: 3887862993337095658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b619c93c1567df40800000000000000
+      internalID: 5753178220892067509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235962265dc8e9870800000000000000
+      internalID: 8691539178974254386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfd51035b5580590800000000000000
+      internalID: -7707816525560422445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9ec596c1ad2b00800000000000000
+      internalID: 805477782658129855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e16efc55dae5870800000000000000
+      internalID: 8673560516433944163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c99149d83af7a0800000000000000
+      internalID: -6342694619438265924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fdbc071cd6415e0800000000000000
+      internalID: -1939804861901316294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33e7f9b656624ae0800000000000000
+      internalID: -1566577197698260165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a694fb372197dde0800000000000000
+      internalID: -1308417569032202591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3dbcbb35123c160800000000000000
+      internalID: 7044510885654287332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2330c5886f3c7960800000000000000
+      internalID: 7601019989247669035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d26a2c3a43ad10800000000000000
+      internalID: 2135632270573359420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5254ab5acd749d4b0800000000000000
+      internalID: -5415218063937485531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1934abeef6aee80800000000000000
+      internalID: -8148577504655601213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd92a480cc3364c40800000000000000
+      internalID: 5496137346657692127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbab1d77ca71b220800000000000000
+      internalID: 2499914265383381973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5279a2a7f60a6a0800000000000000
+      internalID: -6440024896648567322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25095bb857f60a420800000000000000
+      internalID: 2639231932284899410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd0375b87942150800000000000000
+      internalID: 5846964840952814953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b65732749cb0080800000000000000
+      internalID: -9220054504736199786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fcb59422de3efb0800000000000000
+      internalID: -4619588061236572389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32df76e0042de4f0800000000000000
+      internalID: -797941972688973254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88d60f9bf344c3a0800000000000000
+      internalID: -6646112402108131187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68f7e0134efbb610800000000000000
+      internalID: 1638182453479209068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a06983384fe7f610800000000000000
+      internalID: 1655054481463271585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d4ec4df834f970800000000000000
+      internalID: 8787711433474625662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0566db94cf79fee60800000000000000
+      internalID: 7993774973430621776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e69d41e1f4e2c0800000000000000
+      internalID: -4403128585689832481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7418dae1bd8d640800000000000000
+      internalID: 5105071102430889915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63b9cd907e0db4c0800000000000000
+      internalID: -4270240994830994579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f90ee5bfe430da0800000000000000
+      internalID: -5979849038682349745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0ade8e87a185f0800000000000000
+      internalID: -756139031697682788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b480cba25c1697a0800000000000000
+      internalID: -6370873481474571087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082b2cef6a0cec340800000000000000
+      internalID: 4886054469214843520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d560defbb97a910800000000000000
+      internalID: 1848617420676554070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d489a5682f6730800000000000000
+      internalID: 3994455811601781404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da48173a003758a00800000000000000
+      internalID: 758138558861116589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526a482c7a263460800000000000000
+      internalID: 7221005765275443806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81daa76f6c3ec38b0800000000000000
+      internalID: -5171007828449907432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd473c913feb9840800000000000000
+      internalID: 5232038388474269177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc97f255e0d6dcf0800000000000000
+      internalID: -227765047777583912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e807a1545ac613a90800000000000000
+      internalID: -7335962860925063026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de289b7e020a384f0800000000000000
+      internalID: -827641843318947091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd78acd91e65c80800000000000000
+      internalID: -8334225992578507509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027792b805170afc0800000000000000
+      internalID: -3485661520838691040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aadbd26254298f0800000000000000
+      internalID: -535289375425189302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc2b14bf81e0ba40800000000000000
+      internalID: 5382049562025995476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c98d68cc7ad26430800000000000000
+      internalID: 3774819667163318721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af14cd6c25dbea180800000000000000
+      internalID: -9102129633647902214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d256cf8e058880800000000000000
+      internalID: -8609459101978404831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429caf0b12c9cb420800000000000000
+      internalID: 2647162349504088356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650df941f24729230800000000000000
+      internalID: 3644102794054455382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28e05a63ac313b40800000000000000
+      internalID: 5418178499264440364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c355059395db642a0800000000000000
+      internalID: -6753502400284175044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf942539b439d8f0800000000000000
+      internalID: -515322712292024385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce0683215566c4b0800000000000000
+      internalID: -5420533702331068723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status_icons_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38416933da8126b60800000000000000
+      internalID: 7737774241949815939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Status_icons_16x16_0: 8784924618918888295
+      Status_icons_16x16_1: 646562825941926935
+      Status_icons_16x16_10: -1247507666741736385
+      Status_icons_16x16_11: -2908502982109103001
+      Status_icons_16x16_12: 8773197430872954331
+      Status_icons_16x16_13: -245026457965917372
+      Status_icons_16x16_14: -6097963526495373512
+      Status_icons_16x16_15: -2080784021017965711
+      Status_icons_16x16_16: -1121199863753212814
+      Status_icons_16x16_17: -4138411103051986345
+      Status_icons_16x16_18: -6657127500495179432
+      Status_icons_16x16_19: 1350237400390202750
+      Status_icons_16x16_2: 3339089213225107627
+      Status_icons_16x16_20: 1497157196670448121
+      Status_icons_16x16_21: -8278035298352760543
+      Status_icons_16x16_22: -2071262094355223277
+      Status_icons_16x16_23: 7882213671961658111
+      Status_icons_16x16_24: 5290458369413311352
+      Status_icons_16x16_25: 8228022652033728604
+      Status_icons_16x16_26: 4982436232642947718
+      Status_icons_16x16_27: -4757565719998543593
+      Status_icons_16x16_28: -1156424366930406389
+      Status_icons_16x16_29: -5750493662323246854
+      Status_icons_16x16_3: -7778390008079051250
+      Status_icons_16x16_30: 6908401538188428293
+      Status_icons_16x16_31: 787379804919077470
+      Status_icons_16x16_32: 9026416643668957154
+      Status_icons_16x16_33: -3009606823066330616
+      Status_icons_16x16_34: 6664281473314064982
+      Status_icons_16x16_35: 5462654184730820603
+      Status_icons_16x16_36: -7495304872967583644
+      Status_icons_16x16_37: -335827843716077038
+      Status_icons_16x16_38: -6810811199450838543
+      Status_icons_16x16_39: 617943562113700999
+      Status_icons_16x16_4: -2208523649064052515
+      Status_icons_16x16_40: 3887862993337095658
+      Status_icons_16x16_41: 5753178220892067509
+      Status_icons_16x16_42: 8691539178974254386
+      Status_icons_16x16_43: -7707816525560422445
+      Status_icons_16x16_44: 805477782658129855
+      Status_icons_16x16_45: 8673560516433944163
+      Status_icons_16x16_46: -6342694619438265924
+      Status_icons_16x16_47: -1939804861901316294
+      Status_icons_16x16_48: -1566577197698260165
+      Status_icons_16x16_49: -1308417569032202591
+      Status_icons_16x16_5: 2814354993906858360
+      Status_icons_16x16_50: 7044510885654287332
+      Status_icons_16x16_51: 7601019989247669035
+      Status_icons_16x16_52: 2135632270573359420
+      Status_icons_16x16_53: -5415218063937485531
+      Status_icons_16x16_54: -8148577504655601213
+      Status_icons_16x16_55: 5496137346657692127
+      Status_icons_16x16_56: 2499914265383381973
+      Status_icons_16x16_57: -6440024896648567322
+      Status_icons_16x16_58: 2639231932284899410
+      Status_icons_16x16_59: 5846964840952814953
+      Status_icons_16x16_6: -4893937752381919627
+      Status_icons_16x16_60: -9220054504736199786
+      Status_icons_16x16_61: -4619588061236572389
+      Status_icons_16x16_62: -797941972688973254
+      Status_icons_16x16_63: -6646112402108131187
+      Status_icons_16x16_64: 1638182453479209068
+      Status_icons_16x16_65: 1655054481463271585
+      Status_icons_16x16_66: 8787711433474625662
+      Status_icons_16x16_67: 7993774973430621776
+      Status_icons_16x16_68: -4403128585689832481
+      Status_icons_16x16_69: 5105071102430889915
+      Status_icons_16x16_7: 5993043524756849873
+      Status_icons_16x16_70: -4270240994830994579
+      Status_icons_16x16_71: -5979849038682349745
+      Status_icons_16x16_72: -756139031697682788
+      Status_icons_16x16_73: -6370873481474571087
+      Status_icons_16x16_74: 4886054469214843520
+      Status_icons_16x16_75: 1848617420676554070
+      Status_icons_16x16_76: 3994455811601781404
+      Status_icons_16x16_77: 758138558861116589
+      Status_icons_16x16_78: 7221005765275443806
+      Status_icons_16x16_79: -5171007828449907432
+      Status_icons_16x16_8: -2757996494072904403
+      Status_icons_16x16_80: 5232038388474269177
+      Status_icons_16x16_81: -227765047777583912
+      Status_icons_16x16_82: -7335962860925063026
+      Status_icons_16x16_83: -827641843318947091
+      Status_icons_16x16_84: -8334225992578507509
+      Status_icons_16x16_85: -3485661520838691040
+      Status_icons_16x16_86: -535289375425189302
+      Status_icons_16x16_87: 5382049562025995476
+      Status_icons_16x16_88: 3774819667163318721
+      Status_icons_16x16_89: -9102129633647902214
+      Status_icons_16x16_9: 217008894256896790
+      Status_icons_16x16_90: -8609459101978404831
+      Status_icons_16x16_91: 2647162349504088356
+      Status_icons_16x16_92: 3644102794054455382
+      Status_icons_16x16_93: 5418178499264440364
+      Status_icons_16x16_94: -6753502400284175044
+      Status_icons_16x16_95: -515322712292024385
+      Status_icons_16x16_96: -5420533702331068723
+      Status_icons_16x16_97: 7737774241949815939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

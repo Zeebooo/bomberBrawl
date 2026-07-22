@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27443b1bcb0d4592914db58b3de10bfb, type: 3}
+  m_Name: Starter Notebook
+  m_EditorClassIdentifier: 
+  title: Starter Notebook
+  description: Example notes that show how a notebook can stay attached to project review work.
+  accentColor: {r: 0.34509805, g: 0.5176471, b: 0.9254902, a: 1}
+  sections:
+  - title: Scene Review
+    color: {r: 0.33333334, g: 0.5294118, b: 0.85882354, a: 1}
+    pages:
+    - title: Main Scene Polish Pass
+      body: "Use this page for scene-specific review notes.\n\nCapture visual polish, readability issues, and TODOs while you work."
+      status: 2
+      tags:
+      - polish
+      - scene
+      checklistItems:
+      - text: Review lighting balance
+        isComplete: 0
+      - text: Check clutter against navigation readability
+        isComplete: 0
+      linkedScene:
+        sceneGuid: 
+        scenePath: 
+        sceneName: 
+      linkedAssets: []
+      createdTicksUtc: 638821116000000000
+      updatedTicksUtc: 638821116000000000
+    - title: Feedback Roundup
+      body: "Collect notes from a quick playthrough or a teammate review, then convert the important ones into checklist items."
+      status: 1
+      tags:
+      - feedback
+      - todo
+      checklistItems:
+      - text: Convert useful notes into concrete tasks
+        isComplete: 0
+      linkedScene:
+        sceneGuid: 
+        scenePath: 
+        sceneName: 
+      linkedAssets: []
+      createdTicksUtc: 638821116000000000
+      updatedTicksUtc: 638821116000000000
+  - title: Asset Follow-Up
+    color: {r: 0.36078432, g: 0.7294118, b: 0.54901963, a: 1}
+    pages:
+    - title: Imported Pack Audit
+      body: "Track what looks useful, what needs cleanup, and which assets need another pass before they fit the project."
+      status: 3
+      tags:
+      - assets
+      - review
+      checklistItems:
+      - text: Remove or archive the pieces you will not use
+        isComplete: 1
+      - text: Write a follow-up note for assets that need polish
+        isComplete: 0
+      linkedScene:
+        sceneGuid: 
+        scenePath: 
+        sceneName: 
+      linkedAssets: []
+      createdTicksUtc: 638821116000000000
+      updatedTicksUtc: 638821116000000000

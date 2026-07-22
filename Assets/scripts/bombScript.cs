@@ -1,6 +1,7 @@
 using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.Controls;
 using UnityEngine.Tilemaps;
 using System.Collections;
 
@@ -30,8 +31,8 @@ public class bombScript : NetworkBehaviour
 	readonly NetworkVariable<bool> remoteBomb = new(false);
 	readonly NetworkVariable<bool> penetrateWalls = new(false);
 	private bool remoteTrigger = false;
-	private bool spaceWasPressed = false;
-	private bool shiftWasPressed = false;
+	private bool dropBombWasPressed = false;
+	private bool remoteExplosionWasPressed = false;
 
 	[Header("Godmode settings")]
 	public float godModeTimer = 0f;
@@ -50,11 +51,25 @@ public class bombScript : NetworkBehaviour
 		var kb = Keyboard.current;
 		if (kb != null)
 		{
-			spaceWasPressed = kb.spaceKey.isPressed;
-			shiftWasPressed = kb.leftShiftKey.isPressed;
+			var dropBombKey = GetDropBombExplosionKey(kb);
+			dropBombWasPressed = dropBombKey != null && dropBombKey.isPressed;
+			var remoteKey = GetRemoteExplosionKey(kb);
+			remoteExplosionWasPressed = remoteKey != null && remoteKey.isPressed;
 		}
 	}
-	
+
+	private ButtonControl GetRemoteExplosionKey(Keyboard kb)
+	{
+		string keyName = PlayerPrefs.GetString("RemoteExplosionBind", "Shift");
+		return kb[keyName] as ButtonControl;
+	}
+
+	private ButtonControl GetDropBombExplosionKey(Keyboard kb)
+	{
+		string keyName = PlayerPrefs.GetString("DropBombExplosionBind", "Space");
+		return kb[keyName] as ButtonControl;
+	}
+
 	void Update()
 	{
 		if (IsServer && godModeTimer > 0f)
@@ -69,20 +84,23 @@ public class bombScript : NetworkBehaviour
 		var kb = Keyboard.current;
 		if (kb == null) return;
 
-		bool spaceDown = kb.spaceKey.isPressed;
-		bool shiftDown = kb.leftShiftKey.isPressed;
+		var dropBombKey = GetDropBombExplosionKey(kb);
+		bool dropBombDown = dropBombKey != null && dropBombKey.isPressed;
 
-		if (spaceDown && !spaceWasPressed && currentBombs.Value > 0)
+		var remoteExplosionKey = GetRemoteExplosionKey(kb);
+		bool remoteExplosionDown = remoteExplosionKey != null && remoteExplosionKey.isPressed;
+
+		if (dropBombDown && !dropBombWasPressed && currentBombs.Value > 0)
 		{
 			DropBombServerRpc(transform.position);
 		}
-		if (remoteBomb.Value && shiftDown && !shiftWasPressed)
+		if (remoteBomb.Value && remoteExplosionDown && !remoteExplosionWasPressed)
 		{
 			DetonateServerRpc();
 		}
 
-		spaceWasPressed = spaceDown;
-		shiftWasPressed = shiftDown;
+		dropBombWasPressed = dropBombDown;
+		remoteExplosionWasPressed = remoteExplosionDown;
 	}
 
 	[ServerRpc(RequireOwnership = false)]

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96c476d602e44c398c7078ac713ecf6f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 379218
+  packageName: DevNotebook
+  packageVersion: 1.0.0
+  assetPath: Assets/DevNotebook/Samples/Advanced Content/Assets/DevNotebook Sample/Shiproom
+    Notes.txt
+  uploadId: 936830

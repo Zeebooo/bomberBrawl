@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 982742fde908d4f62af67d986e605797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3297287520519392446
+    second: Font_gold_big_0
+  - first:
+      213: -1289681007621810689
+    second: Font_gold_big_1
+  - first:
+      213: 7338364553448973495
+    second: Font_gold_big_2
+  - first:
+      213: 7067262224013929476
+    second: Font_gold_big_3
+  - first:
+      213: 7960380708430725887
+    second: Font_gold_big_4
+  - first:
+      213: 2537207968306802279
+    second: Font_gold_big_5
+  - first:
+      213: -5348794764076455057
+    second: Font_gold_big_6
+  - first:
+      213: 5337403663947041491
+    second: Font_gold_big_7
+  - first:
+      213: -1862319205607060746
+    second: Font_gold_big_8
+  - first:
+      213: 7133311790533449170
+    second: Font_gold_big_9
+  - first:
+      213: 8910884385654969202
+    second: Font_gold_big_10
+  - first:
+      213: -5239961864232674788
+    second: Font_gold_big_11
+  - first:
+      213: 5832429780598761287
+    second: Font_gold_big_12
+  - first:
+      213: -6876358284306925753
+    second: Font_gold_big_13
+  - first:
+      213: -6329059963688670950
+    second: Font_gold_big_14
+  - first:
+      213: 6948912159143017615
+    second: Font_gold_big_15
+  - first:
+      213: -8226159467918541444
+    second: Font_gold_big_16
+  - first:
+      213: 4604462392125010492
+    second: Font_gold_big_17
+  - first:
+      213: -4968344268454504201
+    second: Font_gold_big_18
+  - first:
+      213: 7175057468505147984
+    second: Font_gold_big_19
+  - first:
+      213: 1575010979972773404
+    second: Font_gold_big_20
+  - first:
+      213: 6087908484936881720
+    second: Font_gold_big_21
+  - first:
+      213: 8086523431961976760
+    second: Font_gold_big_22
+  - first:
+      213: -898827722747229603
+    second: Font_gold_big_23
+  - first:
+      213: 7270852681660196036
+    second: Font_gold_big_24
+  - first:
+      213: -166261552413631109
+    second: Font_gold_big_25
+  - first:
+      213: -1051026198548980629
+    second: Font_gold_big_26
+  - first:
+      213: 5031289961324943408
+    second: Font_gold_big_27
+  - first:
+      213: -8594865434161824998
+    second: Font_gold_big_28
+  - first:
+      213: -2544937829053901304
+    second: Font_gold_big_29
+  - first:
+      213: -5136681500507301520
+    second: Font_gold_big_30
+  - first:
+      213: -5783099356846817772
+    second: Font_gold_big_31
+  - first:
+      213: -7596161730498810586
+    second: Font_gold_big_32
+  - first:
+      213: -8515022259258297066
+    second: Font_gold_big_33
+  - first:
+      213: -2932384367239790988
+    second: Font_gold_big_34
+  - first:
+      213: -16840490195477338
+    second: Font_gold_big_35
+  - first:
+      213: -1632833456681142557
+    second: Font_gold_big_36
+  - first:
+      213: -1726447867744995637
+    second: Font_gold_big_37
+  - first:
+      213: -234332611975579058
+    second: Font_gold_big_38
+  - first:
+      213: 5694092459594770735
+    second: Font_gold_big_39
+  - first:
+      213: -8656323764562962662
+    second: Font_gold_big_40
+  - first:
+      213: 8510231944977737955
+    second: Font_gold_big_41
+  - first:
+      213: -391653260109970369
+    second: Font_gold_big_42
+  - first:
+      213: 8847923070725946808
+    second: Font_gold_big_43
+  - first:
+      213: -1816006866831726397
+    second: Font_gold_big_44
+  - first:
+      213: 8066888705764990590
+    second: Font_gold_big_45
+  - first:
+      213: -6840118209250137927
+    second: Font_gold_big_46
+  - first:
+      213: -7188107777544044940
+    second: Font_gold_big_47
+  - first:
+      213: -250236705687795333
+    second: Font_gold_big_48
+  - first:
+      213: -3333207176831979815
+    second: Font_gold_big_49
+  - first:
+      213: 5184110821013038287
+    second: Font_gold_big_50
+  - first:
+      213: -5740191296918382721
+    second: Font_gold_big_51
+  - first:
+      213: 8501812126809027269
+    second: Font_gold_big_52
+  - first:
+      213: 6431710798005418961
+    second: Font_gold_big_53
+  - first:
+      213: 9044767423648845638
+    second: Font_gold_big_54
+  - first:
+      213: 1364023393591471346
+    second: Font_gold_big_55
+  - first:
+      213: -2035980646233378657
+    second: Font_gold_big_56
+  - first:
+      213: 218005686668112762
+    second: Font_gold_big_57
+  - first:
+      213: 818263991073690950
+    second: Font_gold_big_58
+  - first:
+      213: -154429859937754055
+    second: Font_gold_big_59
+  - first:
+      213: -5088136415851170215
+    second: Font_gold_big_60
+  - first:
+      213: -8331579286843902067
+    second: Font_gold_big_61
+  - first:
+      213: -7225364199461876786
+    second: Font_gold_big_62
+  - first:
+      213: 2535815182392354041
+    second: Font_gold_big_63
+  - first:
+      213: 8278122206059089958
+    second: Font_gold_big_64
+  - first:
+      213: -3923989644859603284
+    second: Font_gold_big_65
+  - first:
+      213: 7306628026952212689
+    second: Font_gold_big_66
+  - first:
+      213: 5998165643690780533
+    second: Font_gold_big_67
+  - first:
+      213: -8859769221262798412
+    second: Font_gold_big_68
+  - first:
+      213: -6912213948126619424
+    second: Font_gold_big_69
+  - first:
+      213: 5255491207535339195
+    second: Font_gold_big_70
+  - first:
+      213: 392936008540144831
+    second: Font_gold_big_71
+  - first:
+      213: -4530866957746971801
+    second: Font_gold_big_72
+  - first:
+      213: 5769254270311734613
+    second: Font_gold_big_73
+  - first:
+      213: -525192918275907899
+    second: Font_gold_big_74
+  - first:
+      213: 5611519777528673805
+    second: Font_gold_big_75
+  - first:
+      213: -987755778084503036
+    second: Font_gold_big_76
+  - first:
+      213: 9175186512562378036
+    second: Font_gold_big_77
+  - first:
+      213: 2194516122842182819
+    second: Font_gold_big_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Font_gold_big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc03e6b78152cd20800000000000000
+      internalID: 3297287520519392446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff55223e4f12a1ee0800000000000000
+      internalID: -1289681007621810689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e4a85eab17d560800000000000000
+      internalID: 7338364553448973495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c23ec7c85f31260800000000000000
+      internalID: 7067262224013929476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2c2e21414f87e60800000000000000
+      internalID: 7960380708430725887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ea7385439f53320800000000000000
+      internalID: 2537207968306802279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6be0ce408345c5b0800000000000000
+      internalID: -5348794764076455057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da8e648a54421a40800000000000000
+      internalID: 5337403663947041491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa476bac86b726e0800000000000000
+      internalID: -1862319205607060746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d51ad2974d9ef260800000000000000
+      internalID: 7133311790533449170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731a890322d9ab70800000000000000
+      internalID: 8910884385654969202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a51dd627ae747b0800000000000000
+      internalID: -5239961864232674788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747aff1ebf3f0f050800000000000000
+      internalID: 5832429780598761287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747329ba2944290a0800000000000000
+      internalID: -6876358284306925753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a03eee79aa28a0800000000000000
+      internalID: -6329059963688670950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cbc15bace7f6060800000000000000
+      internalID: 6948912159143017615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dbff84c8fc6dd80800000000000000
+      internalID: -8226159467918541444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b140762656ef30800000000000000
+      internalID: 4604462392125010492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8dbe41635ec0bb0800000000000000
+      internalID: -4968344268454504201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a4345a0cce29360800000000000000
+      internalID: 7175057468505147984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16fd9a34209bd510800000000000000
+      internalID: 1575010979972773404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836dfbd03889c7450800000000000000
+      internalID: 6087908484936881720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf57f5973a193070800000000000000
+      internalID: 8086523431961976760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac067c2f8b683f0800000000000000
+      internalID: -898827722747229603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c46d88cdf147e460800000000000000
+      internalID: 7270852681660196036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d949cbff151bdf0800000000000000
+      internalID: -166261552413631109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cdbd1bd310a61f0800000000000000
+      internalID: -1051026198548980629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03813ca109bb2d540800000000000000
+      internalID: 5031289961324943408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b3088dc67e8b880800000000000000
+      internalID: -8594865434161824998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d9c337809eacd0800000000000000
+      internalID: -2544937829053901304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07911fdf367d6b8b0800000000000000
+      internalID: -5136681500507301520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41efa5e66cd4ebfa0800000000000000
+      internalID: -5783099356846817772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da33df623059690800000000000000
+      internalID: -7596161730498810586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6157d56ae5094d980800000000000000
+      internalID: -8515022259258297066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e73c554f31e47d0800000000000000
+      internalID: -2932384367239790988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1e04d9ab24cff0800000000000000
+      internalID: -16840490195477338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b52d4f920759e0800000000000000
+      internalID: -1632833456681142557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc634d7bfcc6a08e0800000000000000
+      internalID: -1726447867744995637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af7ef1bbb7fbcf0800000000000000
+      internalID: -234332611975579058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2960646cea750f40800000000000000
+      internalID: 5694092459594770735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17d378366f8ed780800000000000000
+      internalID: -8656323764562962662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e864946dda6a1670800000000000000
+      internalID: 8510231944977737955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34850c5f61909af0800000000000000
+      internalID: -391653260109970369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd7a9e87232aca70800000000000000
+      internalID: 8847923070725946808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c823d0506f3cc6e0800000000000000
+      internalID: -1816006866831726397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e9bb5a98853ff60800000000000000
+      internalID: 8066888705764990590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8e6fbaab40311a0800000000000000
+      internalID: -6840118209250137927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eb3408f06be3c90800000000000000
+      internalID: -7188107777544044940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7907bfba0bf68cf0800000000000000
+      internalID: -250236705687795333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea5269bb11eb1d0800000000000000
+      internalID: -3333207176831979815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4adba3359a1f740800000000000000
+      internalID: 5184110821013038287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f771464ad6eb650b0800000000000000
+      internalID: -5740191296918382721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c27f85b5118cf570800000000000000
+      internalID: 8501812126809027269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3825e4e6024950800000000000000
+      internalID: 6431710798005418961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f4d92fc08758d70800000000000000
+      internalID: 9044767423648845638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca750bc0cfde210800000000000000
+      internalID: 1364023393591471346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9070bba36ebeb3e0800000000000000
+      internalID: -2035980646233378657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733ed85403860300800000000000000
+      internalID: 218005686668112762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645d078b3ce0b5b00800000000000000
+      internalID: 818263991073690950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93462bf4cda5bddf0800000000000000
+      internalID: -154429859937754055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956367c43ee4369b0800000000000000
+      internalID: -5088136415851170215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87baadf7c8406c80800000000000000
+      internalID: -8331579286843902067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb004eca895abb90800000000000000
+      internalID: -7225364199461876786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e98a1976013320800000000000000
+      internalID: 2535815182392354041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620dc6b794cc1e270800000000000000
+      internalID: 8278122206059089958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca605db45303b89c0800000000000000
+      internalID: -3923989644859603284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d066647a7b566560800000000000000
+      internalID: 7306628026952212689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57724209fd3cd3350800000000000000
+      internalID: 5998165643690780533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b111b695d6cb0580800000000000000
+      internalID: -8859769221262798412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e899626902e210a0800000000000000
+      internalID: -6912213948126619424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6255198614fe840800000000000000
+      internalID: 5255491207535339195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_71
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4ce78c73df37500800000000000000
+      internalID: 392936008540144831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_72
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bdfeae1802f11c0800000000000000
+      internalID: -4530866957746971801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_73
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d16d82132801050800000000000000
+      internalID: 5769254270311734613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_74
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1d9bc2d326b8f0800000000000000
+      internalID: -525192918275907899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_75
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06fcada18f10ed40800000000000000
+      internalID: 5611519777528673805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020f6a6a59ca42f0800000000000000
+      internalID: -987755778084503036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_77
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4355c3d558fc45f70800000000000000
+      internalID: 9175186512562378036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_gold_big_78
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a430e369cc747e10800000000000000
+      internalID: 2194516122842182819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Font_gold_big_0: 3297287520519392446
+      Font_gold_big_1: -1289681007621810689
+      Font_gold_big_10: 8910884385654969202
+      Font_gold_big_11: -5239961864232674788
+      Font_gold_big_12: 5832429780598761287
+      Font_gold_big_13: -6876358284306925753
+      Font_gold_big_14: -6329059963688670950
+      Font_gold_big_15: 6948912159143017615
+      Font_gold_big_16: -8226159467918541444
+      Font_gold_big_17: 4604462392125010492
+      Font_gold_big_18: -4968344268454504201
+      Font_gold_big_19: 7175057468505147984
+      Font_gold_big_2: 7338364553448973495
+      Font_gold_big_20: 1575010979972773404
+      Font_gold_big_21: 6087908484936881720
+      Font_gold_big_22: 8086523431961976760
+      Font_gold_big_23: -898827722747229603
+      Font_gold_big_24: 7270852681660196036
+      Font_gold_big_25: -166261552413631109
+      Font_gold_big_26: -1051026198548980629
+      Font_gold_big_27: 5031289961324943408
+      Font_gold_big_28: -8594865434161824998
+      Font_gold_big_29: -2544937829053901304
+      Font_gold_big_3: 7067262224013929476
+      Font_gold_big_30: -5136681500507301520
+      Font_gold_big_31: -5783099356846817772
+      Font_gold_big_32: -7596161730498810586
+      Font_gold_big_33: -8515022259258297066
+      Font_gold_big_34: -2932384367239790988
+      Font_gold_big_35: -16840490195477338
+      Font_gold_big_36: -1632833456681142557
+      Font_gold_big_37: -1726447867744995637
+      Font_gold_big_38: -234332611975579058
+      Font_gold_big_39: 5694092459594770735
+      Font_gold_big_4: 7960380708430725887
+      Font_gold_big_40: -8656323764562962662
+      Font_gold_big_41: 8510231944977737955
+      Font_gold_big_42: -391653260109970369
+      Font_gold_big_43: 8847923070725946808
+      Font_gold_big_44: -1816006866831726397
+      Font_gold_big_45: 8066888705764990590
+      Font_gold_big_46: -6840118209250137927
+      Font_gold_big_47: -7188107777544044940
+      Font_gold_big_48: -250236705687795333
+      Font_gold_big_49: -3333207176831979815
+      Font_gold_big_5: 2537207968306802279
+      Font_gold_big_50: 5184110821013038287
+      Font_gold_big_51: -5740191296918382721
+      Font_gold_big_52: 8501812126809027269
+      Font_gold_big_53: 6431710798005418961
+      Font_gold_big_54: 9044767423648845638
+      Font_gold_big_55: 1364023393591471346
+      Font_gold_big_56: -2035980646233378657
+      Font_gold_big_57: 218005686668112762
+      Font_gold_big_58: 818263991073690950
+      Font_gold_big_59: -154429859937754055
+      Font_gold_big_6: -5348794764076455057
+      Font_gold_big_60: -5088136415851170215
+      Font_gold_big_61: -8331579286843902067
+      Font_gold_big_62: -7225364199461876786
+      Font_gold_big_63: 2535815182392354041
+      Font_gold_big_64: 8278122206059089958
+      Font_gold_big_65: -3923989644859603284
+      Font_gold_big_66: 7306628026952212689
+      Font_gold_big_67: 5998165643690780533
+      Font_gold_big_68: -8859769221262798412
+      Font_gold_big_69: -6912213948126619424
+      Font_gold_big_7: 5337403663947041491
+      Font_gold_big_70: 5255491207535339195
+      Font_gold_big_71: 392936008540144831
+      Font_gold_big_72: -4530866957746971801
+      Font_gold_big_73: 5769254270311734613
+      Font_gold_big_74: -525192918275907899
+      Font_gold_big_75: 5611519777528673805
+      Font_gold_big_76: -987755778084503036
+      Font_gold_big_77: 9175186512562378036
+      Font_gold_big_78: 2194516122842182819
+      Font_gold_big_8: -1862319205607060746
+      Font_gold_big_9: 7133311790533449170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

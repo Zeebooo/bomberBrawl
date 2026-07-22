@@ -2,6 +2,7 @@ using TMPro;
 using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.Controls;
 using UnityEngine.Rendering.Universal;
 
 public class characterScript : NetworkBehaviour
@@ -122,7 +123,10 @@ public class characterScript : NetworkBehaviour
 		pauseGame();
 
 		var kb = Keyboard.current;
-		if (kb != null && kb.qKey.wasPressedThisFrame && ability != null)
+		if (kb == null || ability == null) return;
+
+		string abilityKeyName = PlayerPrefs.GetString("AbilityBind", "Q");
+		if (kb[abilityKeyName] is ButtonControl abilityKey && abilityKey.wasPressedThisFrame)
 		{
 			ability.Activate();
 		}

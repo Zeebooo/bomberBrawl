@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac0df699907c5544e8a9f362cfc3dd9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 379218
+  packageName: DevNotebook
+  packageVersion: 1.0.0
+  assetPath: Assets/DevNotebook/Editor/DevNotebookPageFilter.cs
+  uploadId: 936830

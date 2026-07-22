@@ -23,7 +23,7 @@ MonoBehaviour:
   explosionRadius: 1.28
   maxBombs: 1
   abilityName: 'Ability: Whirlwind'
-  abilityDescription: Press Q to turn into a whirlwind and double your current movement
-    speed for 3 seconds
+  abilityDescription: turn into a whirlwind and double your current movement speed
+    for 3 seconds
   abilityCooldown: 14
   abilityIcon: {fileID: -7753107590575645130, guid: dde8de73697c7447d87536404c0e8f1e, type: 3}

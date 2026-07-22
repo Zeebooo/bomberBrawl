@@ -23,7 +23,7 @@ MonoBehaviour:
   explosionRadius: 1.152
   maxBombs: 1
   abilityName: 'Ability: Zen Focus'
-  abilityDescription: Press Q to enter a zen focus for 3 seconds and heal 1 HP.
-    Moving breaks your focus and cancels the ability.
+  abilityDescription: enter a zen focus for 3 seconds and heal 1 HP. Moving breaks
+    your focus and cancels the ability.
   abilityCooldown: 16
   abilityIcon: {fileID: 6731417177886138735, guid: f46cba570912a4a0aa4cb5ec33c084ca, type: 3}

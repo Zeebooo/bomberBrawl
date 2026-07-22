@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: f8f5924c7767445c0824348e61e5aa5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1925252426773745314
+    second: Squared_LBs_4x8_0
+  - first:
+      213: 1105698860833698267
+    second: Squared_LBs_4x8_1
+  - first:
+      213: -6803241502731244238
+    second: Squared_LBs_4x8_2
+  - first:
+      213: 7102485323771154847
+    second: Squared_LBs_4x8_3
+  - first:
+      213: -6021981483599726147
+    second: Squared_LBs_4x8_4
+  - first:
+      213: -2487814261974977342
+    second: Squared_LBs_4x8_5
+  - first:
+      213: 6254720330491555066
+    second: Squared_LBs_4x8_6
+  - first:
+      213: 808986908540995867
+    second: Squared_LBs_4x8_7
+  - first:
+      213: -1206165530435537433
+    second: Squared_LBs_4x8_8
+  - first:
+      213: -1045357978686089434
+    second: Squared_LBs_4x8_9
+  - first:
+      213: -249883239831708881
+    second: Squared_LBs_4x8_10
+  - first:
+      213: -6256349273519360533
+    second: Squared_LBs_4x8_11
+  - first:
+      213: 8096507574359281076
+    second: Squared_LBs_4x8_12
+  - first:
+      213: 5054986486624139450
+    second: Squared_LBs_4x8_13
+  - first:
+      213: 3731745471909794642
+    second: Squared_LBs_4x8_14
+  - first:
+      213: -1981611478515577542
+    second: Squared_LBs_4x8_15
+  - first:
+      213: 2580117007885473517
+    second: Squared_LBs_4x8_16
+  - first:
+      213: 7753799898696621779
+    second: Squared_LBs_4x8_17
+  - first:
+      213: 8213922319292315950
+    second: Squared_LBs_4x8_18
+  - first:
+      213: 7139322409594211941
+    second: Squared_LBs_4x8_19
+  - first:
+      213: -2743946981213864419
+    second: Squared_LBs_4x8_20
+  - first:
+      213: 4745605459335715185
+    second: Squared_LBs_4x8_21
+  - first:
+      213: 2518896690461623974
+    second: Squared_LBs_4x8_22
+  - first:
+      213: -2584068811212676319
+    second: Squared_LBs_4x8_23
+  - first:
+      213: -6696954499635964159
+    second: Squared_LBs_4x8_24
+  - first:
+      213: -1970382189506165786
+    second: Squared_LBs_4x8_25
+  - first:
+      213: -137151433135070380
+    second: Squared_LBs_4x8_26
+  - first:
+      213: -5546981686703702770
+    second: Squared_LBs_4x8_27
+  - first:
+      213: -3336595686253676882
+    second: Squared_LBs_4x8_28
+  - first:
+      213: -1678714081570614560
+    second: Squared_LBs_4x8_29
+  - first:
+      213: -578032823525244404
+    second: Squared_LBs_4x8_30
+  - first:
+      213: -435267923315058186
+    second: Squared_LBs_4x8_31
+  - first:
+      213: 5632159871421653094
+    second: Squared_LBs_4x8_32
+  - first:
+      213: -627237301898087146
+    second: Squared_LBs_4x8_33
+  - first:
+      213: -7950964726431849316
+    second: Squared_LBs_4x8_34
+  - first:
+      213: -1502056129321699242
+    second: Squared_LBs_4x8_35
+  - first:
+      213: 4221795774483661079
+    second: Squared_LBs_4x8_36
+  - first:
+      213: -9143941964607568044
+    second: Squared_LBs_4x8_37
+  - first:
+      213: 7452710763343720646
+    second: Squared_LBs_4x8_38
+  - first:
+      213: -8229575319208966591
+    second: Squared_LBs_4x8_39
+  - first:
+      213: -535127375740709486
+    second: Squared_LBs_4x8_40
+  - first:
+      213: -9059082981059459087
+    second: Squared_LBs_4x8_41
+  - first:
+      213: -1149753113404558701
+    second: Squared_LBs_4x8_42
+  - first:
+      213: 8263759758167790825
+    second: Squared_LBs_4x8_43
+  - first:
+      213: -528391292702214439
+    second: Squared_LBs_4x8_44
+  - first:
+      213: -6268577547510778595
+    second: Squared_LBs_4x8_45
+  - first:
+      213: 8469487632578603653
+    second: Squared_LBs_4x8_46
+  - first:
+      213: 3474669950697197278
+    second: Squared_LBs_4x8_47
+  - first:
+      213: -2742446344324329627
+    second: Squared_LBs_4x8_48
+  - first:
+      213: -2292447625852252992
+    second: Squared_LBs_4x8_49
+  - first:
+      213: -113722155769424927
+    second: Squared_LBs_4x8_50
+  - first:
+      213: 5411584921321881747
+    second: Squared_LBs_4x8_51
+  - first:
+      213: 1221727275185896944
+    second: Squared_LBs_4x8_52
+  - first:
+      213: -3132077236316990145
+    second: Squared_LBs_4x8_53
+  - first:
+      213: 152241013526368714
+    second: Squared_LBs_4x8_54
+  - first:
+      213: 3449924471434889410
+    second: Squared_LBs_4x8_55
+  - first:
+      213: 579520394503604334
+    second: Squared_LBs_4x8_56
+  - first:
+      213: 867975150223138131
+    second: Squared_LBs_4x8_57
+  - first:
+      213: 7846792318234072450
+    second: Squared_LBs_4x8_58
+  - first:
+      213: 3116493629507061730
+    second: Squared_LBs_4x8_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecec8b1eed7ba10800000000000000
+      internalID: 1925252426773745314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1fb84714b385f00800000000000000
+      internalID: 1105698860833698267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 311
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d628cf5e70691a0800000000000000
+      internalID: -6803241502731244238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f911ec975c8119260800000000000000
+      internalID: 7102485323771154847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9fe0a1fbf9d6ca0800000000000000
+      internalID: -6021981483599726147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b4d71c12897dd0800000000000000
+      internalID: -2487814261974977342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 295
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcec5c600b3dc650800000000000000
+      internalID: 6254720330491555066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19078f9e491a3b00800000000000000
+      internalID: 808986908540995867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5b11237d6d24fe0800000000000000
+      internalID: -1206165530435537433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 279
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279b49f4742e71f0800000000000000
+      internalID: -1045357978686089434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bd18e648c388cf0800000000000000
+      internalID: -249883239831708881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5fa19bb7bfc29a0800000000000000
+      internalID: -6256349273519360533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc1f2edb29c5070800000000000000
+      internalID: 8096507574359281076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 263
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8b1a75d6be62640800000000000000
+      internalID: 5054986486624139450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2531b5d2cb2d9c330800000000000000
+      internalID: 3731745471909794642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0e3cfbd6ef74e0800000000000000
+      internalID: -1981611478515577542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de615f5afba6ec320800000000000000
+      internalID: 2580117007885473517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 247
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de954d2de70b9b60800000000000000
+      internalID: 7753799898696621779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29321684d6bdf170800000000000000
+      internalID: 8213922319292315950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e49d0e7e7f31360800000000000000
+      internalID: 7139322409594211941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1efd3632ca8be9d0800000000000000
+      internalID: -2743946981213864419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1791cdf9507cbd140800000000000000
+      internalID: 4745605459335715185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64fdcb13be4f220800000000000000
+      internalID: 2518896690461623974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a0807b1b832cd0800000000000000
+      internalID: -2584068811212676319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079e345d53af03a0800000000000000
+      internalID: -6696954499635964159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38ab296dbc7a4e0800000000000000
+      internalID: -1970382189506165786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4536c8b8f7db81ef0800000000000000
+      internalID: -137151433135070380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dbd6c8b892503b0800000000000000
+      internalID: -5546981686703702770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6bfb1c6e702b1d0800000000000000
+      internalID: -3336595686253676882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e29980ef6204b8e0800000000000000
+      internalID: -1678714081570614560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c020345a53a6af7f0800000000000000
+      internalID: -578032823525244404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f91fa0412e95f9f0800000000000000
+      internalID: -435267923315058186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6602c460093792e40800000000000000
+      internalID: 5632159871421653094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6157d764ffa9b47f0800000000000000
+      internalID: -627237301898087146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c946e5315bf78a190800000000000000
+      internalID: -7950964726431849316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658f41b98ef972be0800000000000000
+      internalID: -1502056129321699242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711085c83e4d69a30800000000000000
+      internalID: 4221795774483661079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45747c8da313a1180800000000000000
+      internalID: -9143941964607568044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c035def3f85d6760800000000000000
+      internalID: 7452710763343720646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1464a3e69dcaacd80800000000000000
+      internalID: -8229575319208966591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295536bac78d298f0800000000000000
+      internalID: -535127375740709486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f70a2b960ca74280800000000000000
+      internalID: -9059082981059459087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923f1092a14b00f0800000000000000
+      internalID: -1149753113404558701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e452ce77b5cea270800000000000000
+      internalID: 8263759758167790825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d633183be6caa8f0800000000000000
+      internalID: -528391292702214439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1571a1dee98109a0800000000000000
+      internalID: -6268577547510778595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6969e02aa98570800000000000000
+      internalID: 8469487632578603653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edec70b19e1883030800000000000000
+      internalID: 3474669950697197278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fcaf6749fd0f9d0800000000000000
+      internalID: -2742446344324329627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc83eab7079f20e0800000000000000
+      internalID: -2292447625852252992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e395464d4afb6ef0800000000000000
+      internalID: -113722155769424927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390404b60dfc91b40800000000000000
+      internalID: 5411584921321881747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd7cd9db7274f010800000000000000
+      internalID: 1221727275185896944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351d381950a884d0800000000000000
+      internalID: -3132077236316990145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac11c7b256edc1200800000000000000
+      internalID: 152241013526368714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8cdcd370890ef20800000000000000
+      internalID: 3449924471434889410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e684b767abeda0800800000000000000
+      internalID: 579520394503604334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9ae6eccaab0c00800000000000000
+      internalID: 867975150223138131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2851b921a0865ec60800000000000000
+      internalID: 7846792318234072450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squared_LBs_4x8_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74983b172004b20800000000000000
+      internalID: 3116493629507061730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Squared_LBs_4x8_0: 1925252426773745314
+      Squared_LBs_4x8_1: 1105698860833698267
+      Squared_LBs_4x8_10: -249883239831708881
+      Squared_LBs_4x8_11: -6256349273519360533
+      Squared_LBs_4x8_12: 8096507574359281076
+      Squared_LBs_4x8_13: 5054986486624139450
+      Squared_LBs_4x8_14: 3731745471909794642
+      Squared_LBs_4x8_15: -1981611478515577542
+      Squared_LBs_4x8_16: 2580117007885473517
+      Squared_LBs_4x8_17: 7753799898696621779
+      Squared_LBs_4x8_18: 8213922319292315950
+      Squared_LBs_4x8_19: 7139322409594211941
+      Squared_LBs_4x8_2: -6803241502731244238
+      Squared_LBs_4x8_20: -2743946981213864419
+      Squared_LBs_4x8_21: 4745605459335715185
+      Squared_LBs_4x8_22: 2518896690461623974
+      Squared_LBs_4x8_23: -2584068811212676319
+      Squared_LBs_4x8_24: -6696954499635964159
+      Squared_LBs_4x8_25: -1970382189506165786
+      Squared_LBs_4x8_26: -137151433135070380
+      Squared_LBs_4x8_27: -5546981686703702770
+      Squared_LBs_4x8_28: -3336595686253676882
+      Squared_LBs_4x8_29: -1678714081570614560
+      Squared_LBs_4x8_3: 7102485323771154847
+      Squared_LBs_4x8_30: -578032823525244404
+      Squared_LBs_4x8_31: -435267923315058186
+      Squared_LBs_4x8_32: 5632159871421653094
+      Squared_LBs_4x8_33: -627237301898087146
+      Squared_LBs_4x8_34: -7950964726431849316
+      Squared_LBs_4x8_35: -1502056129321699242
+      Squared_LBs_4x8_36: 4221795774483661079
+      Squared_LBs_4x8_37: -9143941964607568044
+      Squared_LBs_4x8_38: 7452710763343720646
+      Squared_LBs_4x8_39: -8229575319208966591
+      Squared_LBs_4x8_4: -6021981483599726147
+      Squared_LBs_4x8_40: -535127375740709486
+      Squared_LBs_4x8_41: -9059082981059459087
+      Squared_LBs_4x8_42: -1149753113404558701
+      Squared_LBs_4x8_43: 8263759758167790825
+      Squared_LBs_4x8_44: -528391292702214439
+      Squared_LBs_4x8_45: -6268577547510778595
+      Squared_LBs_4x8_46: 8469487632578603653
+      Squared_LBs_4x8_47: 3474669950697197278
+      Squared_LBs_4x8_48: -2742446344324329627
+      Squared_LBs_4x8_49: -2292447625852252992
+      Squared_LBs_4x8_5: -2487814261974977342
+      Squared_LBs_4x8_50: -113722155769424927
+      Squared_LBs_4x8_51: 5411584921321881747
+      Squared_LBs_4x8_52: 1221727275185896944
+      Squared_LBs_4x8_53: -3132077236316990145
+      Squared_LBs_4x8_54: 152241013526368714
+      Squared_LBs_4x8_55: 3449924471434889410
+      Squared_LBs_4x8_56: 579520394503604334
+      Squared_LBs_4x8_57: 867975150223138131
+      Squared_LBs_4x8_58: 7846792318234072450
+      Squared_LBs_4x8_59: 3116493629507061730
+      Squared_LBs_4x8_6: 6254720330491555066
+      Squared_LBs_4x8_7: 808986908540995867
+      Squared_LBs_4x8_8: -1206165530435537433
+      Squared_LBs_4x8_9: -1045357978686089434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

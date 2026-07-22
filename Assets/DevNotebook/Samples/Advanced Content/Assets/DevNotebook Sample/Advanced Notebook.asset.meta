@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f47c95eb302c21b488451f252c1d8c78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 379218
+  packageName: DevNotebook
+  packageVersion: 1.0.0
+  assetPath: Assets/DevNotebook/Samples/Advanced Content/Assets/DevNotebook Sample/Advanced
+    Notebook.asset
+  uploadId: 936830

@@ -24,7 +24,7 @@ MonoBehaviour:
   explosionRadius: 1
   maxBombs: 1
   abilityName: 'Ability: Taste for minerals'
-  abilityDescription: Press Q to indulge your taste for minerals and lick a rock.
-    For the next 10 seconds, the first stat powerup you pick up is doubled.
+  abilityDescription: indulge your taste for minerals and lick a rock. For the next
+    10 seconds, the first stat powerup you pick up is doubled.
   abilityCooldown: 18
   abilityIcon: {fileID: 3609343596276308538, guid: fad2b307e64b549f68f57b38e7f8125f, type: 3}

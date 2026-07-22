@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 65e05abec93304fddbad1cc5dbe83c55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2337103746552700660
+    second: Round_LBs_4x8_0
+  - first:
+      213: 4868763888859574676
+    second: Round_LBs_4x8_1
+  - first:
+      213: 2636396070258700174
+    second: Round_LBs_4x8_2
+  - first:
+      213: 5360029962884973407
+    second: Round_LBs_4x8_3
+  - first:
+      213: -510472189978393258
+    second: Round_LBs_4x8_4
+  - first:
+      213: -2360491538214647673
+    second: Round_LBs_4x8_5
+  - first:
+      213: -1600013412476683624
+    second: Round_LBs_4x8_6
+  - first:
+      213: 6689265647197468156
+    second: Round_LBs_4x8_7
+  - first:
+      213: 2455034060318906645
+    second: Round_LBs_4x8_8
+  - first:
+      213: 6435340546268407288
+    second: Round_LBs_4x8_9
+  - first:
+      213: -8980037528357243326
+    second: Round_LBs_4x8_10
+  - first:
+      213: -3655266328254839569
+    second: Round_LBs_4x8_11
+  - first:
+      213: 7639801091664221569
+    second: Round_LBs_4x8_12
+  - first:
+      213: 1070985933889809543
+    second: Round_LBs_4x8_13
+  - first:
+      213: -5436715266020720720
+    second: Round_LBs_4x8_14
+  - first:
+      213: -6792300491330769956
+    second: Round_LBs_4x8_15
+  - first:
+      213: -2603657012925977194
+    second: Round_LBs_4x8_16
+  - first:
+      213: -4009007865232288631
+    second: Round_LBs_4x8_17
+  - first:
+      213: 3028192626130692226
+    second: Round_LBs_4x8_18
+  - first:
+      213: 4324198206120440498
+    second: Round_LBs_4x8_19
+  - first:
+      213: -4302109229739202856
+    second: Round_LBs_4x8_20
+  - first:
+      213: -1949341402957631738
+    second: Round_LBs_4x8_21
+  - first:
+      213: 3442980660584100465
+    second: Round_LBs_4x8_22
+  - first:
+      213: -6932009242712498431
+    second: Round_LBs_4x8_23
+  - first:
+      213: -2909492076194479634
+    second: Round_LBs_4x8_24
+  - first:
+      213: -6456918901161546456
+    second: Round_LBs_4x8_25
+  - first:
+      213: 1196752395122227291
+    second: Round_LBs_4x8_26
+  - first:
+      213: 469851081147534571
+    second: Round_LBs_4x8_27
+  - first:
+      213: -8609747852762310069
+    second: Round_LBs_4x8_28
+  - first:
+      213: 8117674452935097494
+    second: Round_LBs_4x8_29
+  - first:
+      213: -6296158105925504907
+    second: Round_LBs_4x8_30
+  - first:
+      213: 5947466317183565349
+    second: Round_LBs_4x8_31
+  - first:
+      213: 3256127499526835067
+    second: Round_LBs_4x8_32
+  - first:
+      213: 3166225870685062387
+    second: Round_LBs_4x8_33
+  - first:
+      213: -2847439132558633414
+    second: Round_LBs_4x8_34
+  - first:
+      213: -8389959861428457073
+    second: Round_LBs_4x8_35
+  - first:
+      213: 5138819254192800153
+    second: Round_LBs_4x8_36
+  - first:
+      213: 6358231544416375198
+    second: Round_LBs_4x8_37
+  - first:
+      213: 1526690901461021731
+    second: Round_LBs_4x8_38
+  - first:
+      213: -4664283307538225669
+    second: Round_LBs_4x8_39
+  - first:
+      213: 4202818756159676461
+    second: Round_LBs_4x8_40
+  - first:
+      213: -304616318630906351
+    second: Round_LBs_4x8_41
+  - first:
+      213: 6938412534075464405
+    second: Round_LBs_4x8_42
+  - first:
+      213: -8099149937253476939
+    second: Round_LBs_4x8_43
+  - first:
+      213: -1919441441654590700
+    second: Round_LBs_4x8_44
+  - first:
+      213: 9087309018324905488
+    second: Round_LBs_4x8_45
+  - first:
+      213: -23285907572835236
+    second: Round_LBs_4x8_46
+  - first:
+      213: -7353884677473873356
+    second: Round_LBs_4x8_47
+  - first:
+      213: -7326758922531471834
+    second: Round_LBs_4x8_48
+  - first:
+      213: 5296666739097330918
+    second: Round_LBs_4x8_49
+  - first:
+      213: -2160403369817539126
+    second: Round_LBs_4x8_50
+  - first:
+      213: -369751939554750234
+    second: Round_LBs_4x8_51
+  - first:
+      213: -3206516471396796879
+    second: Round_LBs_4x8_52
+  - first:
+      213: 879670695743933113
+    second: Round_LBs_4x8_53
+  - first:
+      213: -7569089708150837427
+    second: Round_LBs_4x8_54
+  - first:
+      213: 1950872186421054140
+    second: Round_LBs_4x8_55
+  - first:
+      213: -7967162368614381242
+    second: Round_LBs_4x8_56
+  - first:
+      213: -8164555624715917302
+    second: Round_LBs_4x8_57
+  - first:
+      213: 6369774029427568856
+    second: Round_LBs_4x8_58
+  - first:
+      213: -6269736800041061515
+    second: Round_LBs_4x8_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Round_LBs_4x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01ed776680f09fd0800000000000000
+      internalID: -2337103746552700660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49179ba06f2519340800000000000000
+      internalID: 4868763888859574676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 311
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f6107f14c569420800000000000000
+      internalID: 2636396070258700174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5385334ad6a26a40800000000000000
+      internalID: 5360029962884973407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6554f907f307ae8f0800000000000000
+      internalID: -510472189978393258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7888661d379dd3fd0800000000000000
+      internalID: -2360491538214647673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 295
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a7771574c9bc9e0800000000000000
+      internalID: -1600013412476683624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5bd653aab05dc50800000000000000
+      internalID: 6689265647197468156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5191bc47878021220800000000000000
+      internalID: 2455034060318906645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 279
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f52ff4812cee4950800000000000000
+      internalID: 6435340546268407288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246f69c327f706380800000000000000
+      internalID: -8980037528357243326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe48ce014a2e54dc0800000000000000
+      internalID: -3655266328254839569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185994f8d96060a60800000000000000
+      internalID: 7639801091664221569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 263
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c21f45808ecde00800000000000000
+      internalID: 1070985933889809543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf34ef3548ec84b0800000000000000
+      internalID: -5436715266020720720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba486b0b6ecb1a0800000000000000
+      internalID: -6792300491330769956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da793ddb3fddbd0800000000000000
+      internalID: -2603657012925977194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 247
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984151356942d58c0800000000000000
+      internalID: -4009007865232288631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2882aff362d460a20800000000000000
+      internalID: 3028192626130692226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b03e9b53a20c30800000000000000
+      internalID: 4324198206120440498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d62778f276db44c0800000000000000
+      internalID: -4302109229739202856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fafb2725c82f4e0800000000000000
+      internalID: -1949341402957631738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b7aa4bace7cf20800000000000000
+      internalID: 3442980660584100465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f9564325e8ccf90800000000000000
+      internalID: -6932009242712498431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee14d913f586f97d0800000000000000
+      internalID: -2909492076194479634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da2c8387a6466a0800000000000000
+      internalID: -6456918901161546456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58bb5376f7bb9010800000000000000
+      internalID: 1196752395122227291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becc125a11f358600800000000000000
+      internalID: 469851081147534571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a9b6eb1f7048880800000000000000
+      internalID: -8609747852762310069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cb579d7e5c7a070800000000000000
+      internalID: 8117674452935097494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703d96af8d8f98a0800000000000000
+      internalID: -6296158105925504907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb35dba15a98250800000000000000
+      internalID: 5947466317183565349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b8da885b6103d20800000000000000
+      internalID: 3256127499526835067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c5dc67a1b0fb20800000000000000
+      internalID: 3166225870685062387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36db40023ddb78d0800000000000000
+      internalID: -2847439132558633414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8175cb35ffd09b80800000000000000
+      internalID: -8389959861428457073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991891392e0c05740800000000000000
+      internalID: 5138819254192800153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911f9cf6e9fc3850800000000000000
+      internalID: 6358231544416375198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324b76f3945ef2510800000000000000
+      internalID: 1526690901461021731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf566625b03254fb0800000000000000
+      internalID: -4664283307538225669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d202f382469635a30800000000000000
+      internalID: 4202818756159676461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b7377219c5cbf0800000000000000
+      internalID: -304616318630906351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da9fae30713a4060800000000000000
+      internalID: 6938412534075464405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5116f0b0a0a9f80800000000000000
+      internalID: -8099149937253476939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b30fad26cc55e0800000000000000
+      internalID: -1919441441654590700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ea571d76b9c1e70800000000000000
+      internalID: 9087309018324905488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c39d627954daff0800000000000000
+      internalID: -23285907572835236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4325bff29d0c1f990800000000000000
+      internalID: -7353884677473873356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e769b249f125a90800000000000000
+      internalID: -7326758922531471834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e585165a818940800000000000000
+      internalID: 5296666739097330918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdf77ad494b402e0800000000000000
+      internalID: -2160403369817539126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0d3dbe1906edaf0800000000000000
+      internalID: -369751939554750234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13674f3124a2083d0800000000000000
+      internalID: -3206516471396796879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba432b46d7353c00800000000000000
+      internalID: 879670695743933113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4faa90630135f690800000000000000
+      internalID: -7569089708150837427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba01d9dae3e21b10800000000000000
+      internalID: 1950872186421054140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64941ee9904fe6190800000000000000
+      internalID: -7967162368614381242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08e3efbaeba1be80800000000000000
+      internalID: -8164555624715917302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f9833bbbf56850800000000000000
+      internalID: 6369774029427568856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_LBs_4x8_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573bb5e499b6df8a0800000000000000
+      internalID: -6269736800041061515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Round_LBs_4x8_0: -2337103746552700660
+      Round_LBs_4x8_1: 4868763888859574676
+      Round_LBs_4x8_10: -8980037528357243326
+      Round_LBs_4x8_11: -3655266328254839569
+      Round_LBs_4x8_12: 7639801091664221569
+      Round_LBs_4x8_13: 1070985933889809543
+      Round_LBs_4x8_14: -5436715266020720720
+      Round_LBs_4x8_15: -6792300491330769956
+      Round_LBs_4x8_16: -2603657012925977194
+      Round_LBs_4x8_17: -4009007865232288631
+      Round_LBs_4x8_18: 3028192626130692226
+      Round_LBs_4x8_19: 4324198206120440498
+      Round_LBs_4x8_2: 2636396070258700174
+      Round_LBs_4x8_20: -4302109229739202856
+      Round_LBs_4x8_21: -1949341402957631738
+      Round_LBs_4x8_22: 3442980660584100465
+      Round_LBs_4x8_23: -6932009242712498431
+      Round_LBs_4x8_24: -2909492076194479634
+      Round_LBs_4x8_25: -6456918901161546456
+      Round_LBs_4x8_26: 1196752395122227291
+      Round_LBs_4x8_27: 469851081147534571
+      Round_LBs_4x8_28: -8609747852762310069
+      Round_LBs_4x8_29: 8117674452935097494
+      Round_LBs_4x8_3: 5360029962884973407
+      Round_LBs_4x8_30: -6296158105925504907
+      Round_LBs_4x8_31: 5947466317183565349
+      Round_LBs_4x8_32: 3256127499526835067
+      Round_LBs_4x8_33: 3166225870685062387
+      Round_LBs_4x8_34: -2847439132558633414
+      Round_LBs_4x8_35: -8389959861428457073
+      Round_LBs_4x8_36: 5138819254192800153
+      Round_LBs_4x8_37: 6358231544416375198
+      Round_LBs_4x8_38: 1526690901461021731
+      Round_LBs_4x8_39: -4664283307538225669
+      Round_LBs_4x8_4: -510472189978393258
+      Round_LBs_4x8_40: 4202818756159676461
+      Round_LBs_4x8_41: -304616318630906351
+      Round_LBs_4x8_42: 6938412534075464405
+      Round_LBs_4x8_43: -8099149937253476939
+      Round_LBs_4x8_44: -1919441441654590700
+      Round_LBs_4x8_45: 9087309018324905488
+      Round_LBs_4x8_46: -23285907572835236
+      Round_LBs_4x8_47: -7353884677473873356
+      Round_LBs_4x8_48: -7326758922531471834
+      Round_LBs_4x8_49: 5296666739097330918
+      Round_LBs_4x8_5: -2360491538214647673
+      Round_LBs_4x8_50: -2160403369817539126
+      Round_LBs_4x8_51: -369751939554750234
+      Round_LBs_4x8_52: -3206516471396796879
+      Round_LBs_4x8_53: 879670695743933113
+      Round_LBs_4x8_54: -7569089708150837427
+      Round_LBs_4x8_55: 1950872186421054140
+      Round_LBs_4x8_56: -7967162368614381242
+      Round_LBs_4x8_57: -8164555624715917302
+      Round_LBs_4x8_58: 6369774029427568856
+      Round_LBs_4x8_59: -6269736800041061515
+      Round_LBs_4x8_6: -1600013412476683624
+      Round_LBs_4x8_7: 6689265647197468156
+      Round_LBs_4x8_8: 2455034060318906645
+      Round_LBs_4x8_9: 6435340546268407288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

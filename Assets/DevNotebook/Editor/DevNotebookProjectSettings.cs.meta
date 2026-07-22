@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a2d4f84422142d2b748e9d59ef45b71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 379218
+  packageName: DevNotebook
+  packageVersion: 1.0.0
+  assetPath: Assets/DevNotebook/Editor/DevNotebookProjectSettings.cs
+  uploadId: 936830

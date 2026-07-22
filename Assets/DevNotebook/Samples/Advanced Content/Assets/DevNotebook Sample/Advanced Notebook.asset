@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27443b1bcb0d4592914db58b3de10bfb, type: 3}
+  m_Name: Advanced Notebook
+  m_EditorClassIdentifier: 
+  title: Advanced Notebook
+  description: A richer sample notebook with pinned work, mixed statuses, reference
+    docs, and fuller page bodies for review-heavy projects.
+  accentColor: {r: 0.37254903, g: 0.54901963, b: 0.91764706, a: 1}
+  sections:
+  - title: Change picture UI
+    color: {r: 0.37, g: 0.52, b: 0.84, a: 1}
+    isPinned: 0
+    pages:
+    - title: Info UI
+      body: Change the info UI from a PNG to elements from the Unity Editor to make
+        sure that changes key input shows correctly
+      isPinned: 0
+      status: 0
+      tags: []
+      checklistItems: []
+      linkedScene:
+        sceneGuid: 77320a934ebca475bb2527eba7e2247a
+        scenePath: Assets/Scenes/MainMenuScene.unity
+        sceneName: MainMenuScene
+      linkedAssets: []
+      createdTicksUtc: 639203366833757340
+      updatedTicksUtc: 639203367546762430
+    - title: Tutorial UI
+      body: Change the Tutorial UI from a PNG to elements from the Unity Editor to
+        make sure that changes key input shows correctly
+      isPinned: 0
+      status: 0
+      tags: []
+      checklistItems: []
+      linkedScene:
+        sceneGuid: 8c9cfa26abfee488c85f1582747f6a02
+        scenePath: Assets/Scenes/GameScene.unity
+        sceneName: GameScene
+      linkedAssets: []
+      createdTicksUtc: 639203367582417720
+      updatedTicksUtc: 639203367718952390
+  - title: Optimization
+    color: {r: 0.37, g: 0.52, b: 0.84, a: 1}
+    isPinned: 0
+    pages:
+    - title: RPC methods
+      body: Move away from network transform completely. Clients don't need to know
+        if a network object is constantly standing still, which is unnecessary bandwith.
+        Change to Rpc methods instead that update positions after they've changed.
+      isPinned: 0
+      status: 0
+      tags: []
+      checklistItems:
+      - text: Character moving
+        isComplete: 0
+      - text: Bomb placing
+        isComplete: 0
+      - text: Map generation
+        isComplete: 0
+      - text: Items
+        isComplete: 0
+      linkedScene:
+        sceneGuid: 8c9cfa26abfee488c85f1582747f6a02
+        scenePath: Assets/Scenes/GameScene.unity
+        sceneName: GameScene
+      linkedAssets: []
+      createdTicksUtc: 639203367920757250
+      updatedTicksUtc: 639203368937603510

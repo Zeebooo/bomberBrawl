@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 06b70bb3f985a441180b17b6071fd8cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5008292808886156793
+    second: Angle_UP_LBs_outline_0
+  - first:
+      213: -8545598410683964370
+    second: Angle_UP_LBs_outline_1
+  - first:
+      213: 4289665242300119945
+    second: Angle_UP_LBs_outline_2
+  - first:
+      213: 7081184119988001768
+    second: Angle_UP_LBs_outline_3
+  - first:
+      213: -5041682204536381841
+    second: Angle_UP_LBs_outline_4
+  - first:
+      213: -7654798282494145526
+    second: Angle_UP_LBs_outline_5
+  - first:
+      213: -1227978837352198258
+    second: Angle_UP_LBs_outline_6
+  - first:
+      213: -507410481968163081
+    second: Angle_UP_LBs_outline_7
+  - first:
+      213: -4228192899709251926
+    second: Angle_UP_LBs_outline_8
+  - first:
+      213: 4940869387407959906
+    second: Angle_UP_LBs_outline_9
+  - first:
+      213: -4116907710150143197
+    second: Angle_UP_LBs_outline_10
+  - first:
+      213: -936245555204158000
+    second: Angle_UP_LBs_outline_11
+  - first:
+      213: -4689374406146574717
+    second: Angle_UP_LBs_outline_12
+  - first:
+      213: 1378716249302897100
+    second: Angle_UP_LBs_outline_13
+  - first:
+      213: -2544434235279164215
+    second: Angle_UP_LBs_outline_14
+  - first:
+      213: -1507945042689919654
+    second: Angle_UP_LBs_outline_15
+  - first:
+      213: -2254352542082991942
+    second: Angle_UP_LBs_outline_16
+  - first:
+      213: -2027811585649816503
+    second: Angle_UP_LBs_outline_17
+  - first:
+      213: 543271415455385636
+    second: Angle_UP_LBs_outline_18
+  - first:
+      213: 1847890114797066442
+    second: Angle_UP_LBs_outline_19
+  - first:
+      213: 978219408345374157
+    second: Angle_UP_LBs_outline_20
+  - first:
+      213: 7135823973461027332
+    second: Angle_UP_LBs_outline_21
+  - first:
+      213: -8273134586642223827
+    second: Angle_UP_LBs_outline_22
+  - first:
+      213: 4841050985389613094
+    second: Angle_UP_LBs_outline_23
+  - first:
+      213: -8534097370033079580
+    second: Angle_UP_LBs_outline_24
+  - first:
+      213: -4341794735287226515
+    second: Angle_UP_LBs_outline_25
+  - first:
+      213: -4981434197652463696
+    second: Angle_UP_LBs_outline_26
+  - first:
+      213: 7727145868454067073
+    second: Angle_UP_LBs_outline_27
+  - first:
+      213: 243481659150870956
+    second: Angle_UP_LBs_outline_28
+  - first:
+      213: 7594510535968950383
+    second: Angle_UP_LBs_outline_29
+  - first:
+      213: 6115049727400099173
+    second: Angle_UP_LBs_outline_30
+  - first:
+      213: -8110718853409620863
+    second: Angle_UP_LBs_outline_31
+  - first:
+      213: 8905493900363502595
+    second: Angle_UP_LBs_outline_32
+  - first:
+      213: -3644932820139280969
+    second: Angle_UP_LBs_outline_33
+  - first:
+      213: 1939036922273334446
+    second: Angle_UP_LBs_outline_34
+  - first:
+      213: 3056319034271376190
+    second: Angle_UP_LBs_outline_35
+  - first:
+      213: 4405459242524984176
+    second: Angle_UP_LBs_outline_36
+  - first:
+      213: 5855081008542802464
+    second: Angle_UP_LBs_outline_37
+  - first:
+      213: -840807618095300228
+    second: Angle_UP_LBs_outline_38
+  - first:
+      213: 5640256976503428919
+    second: Angle_UP_LBs_outline_39
+  - first:
+      213: 1899006338326164154
+    second: Angle_UP_LBs_outline_40
+  - first:
+      213: -9156310186487804667
+    second: Angle_UP_LBs_outline_41
+  - first:
+      213: 953384161308944608
+    second: Angle_UP_LBs_outline_42
+  - first:
+      213: 1674371429233209354
+    second: Angle_UP_LBs_outline_43
+  - first:
+      213: 4230925826801231056
+    second: Angle_UP_LBs_outline_44
+  - first:
+      213: 8249380143002591807
+    second: Angle_UP_LBs_outline_45
+  - first:
+      213: 7360893316196281196
+    second: Angle_UP_LBs_outline_46
+  - first:
+      213: -2402915320771737752
+    second: Angle_UP_LBs_outline_47
+  - first:
+      213: -4781144125804670330
+    second: Angle_UP_LBs_outline_48
+  - first:
+      213: 1264742822924525199
+    second: Angle_UP_LBs_outline_49
+  - first:
+      213: -4020136227000550651
+    second: Angle_UP_LBs_outline_50
+  - first:
+      213: 5749987988031159718
+    second: Angle_UP_LBs_outline_51
+  - first:
+      213: -5860729503241787883
+    second: Angle_UP_LBs_outline_52
+  - first:
+      213: -2767261490250474402
+    second: Angle_UP_LBs_outline_53
+  - first:
+      213: 4815525769913534987
+    second: Angle_UP_LBs_outline_54
+  - first:
+      213: 7514861080310150903
+    second: Angle_UP_LBs_outline_55
+  - first:
+      213: -7390150237604099038
+    second: Angle_UP_LBs_outline_56
+  - first:
+      213: -1598150761775036983
+    second: Angle_UP_LBs_outline_57
+  - first:
+      213: -2950320645559390461
+    second: Angle_UP_LBs_outline_58
+  - first:
+      213: -7771683156461779495
+    second: Angle_UP_LBs_outline_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd7dcc46c7018540800000000000000
+      internalID: 5008292808886156793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e242a02a58fe76980800000000000000
+      internalID: -8545598410683964370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b73ac6fc3f78b30800000000000000
+      internalID: 4289665242300119945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb950d707b654260800000000000000
+      internalID: 7081184119988001768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e53383fb8580ab0800000000000000
+      internalID: -5041682204536381841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8aa8d481b4c590800000000000000
+      internalID: -7654798282494145526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fcce7e0c755fee0800000000000000
+      internalID: -1227978837352198258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f65af2ead055f8f0800000000000000
+      internalID: -507410481968163081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae400ba5f07255c0800000000000000
+      internalID: -4228192899709251926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ad0ea78e719440800000000000000
+      internalID: 4940869387407959906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 199
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3231f6bff3ecdd6c0800000000000000
+      internalID: -4116907710150143197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd8483c0a9c103f0800000000000000
+      internalID: -936245555204158000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38633dea2defbeeb0800000000000000
+      internalID: -4689374406146574717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc112cdbf1f222310800000000000000
+      internalID: 1378716249302897100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 183
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccb7d34b8a50bcd0800000000000000
+      internalID: -2544434235279164215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f7ad19f3b21be0800000000000000
+      internalID: -1507945042689919654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f4aa9e4ee6b0e0800000000000000
+      internalID: -2254352542082991942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ccbed4b14cbd3e0800000000000000
+      internalID: -2027811585649816503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 167
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42887d659761a8700800000000000000
+      internalID: 543271415455385636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85f64d44605a910800000000000000
+      internalID: 1847890114797066442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd91da7e55539d00800000000000000
+      internalID: 978219408345374157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6cddb81a870360800000000000000
+      internalID: 7135823973461027332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d21382debef2d80800000000000000
+      internalID: -8273134586642223827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e3b3e83ede2340800000000000000
+      internalID: 4841050985389613094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea359458abc09980800000000000000
+      internalID: -8534097370033079580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f2b8b21b8deb3c0800000000000000
+      internalID: -4341794735287226515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf11f07df36edab0800000000000000
+      internalID: -4981434197652463696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bf4d82a365c3b60800000000000000
+      internalID: 7727145868454067073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a20b6745016300800000000000000
+      internalID: 243481659150870956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f680463581f156960800000000000000
+      internalID: 7594510535968950383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d388104550dd450800000000000000
+      internalID: 6115049727400099173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cb47ddc20f07f80800000000000000
+      internalID: -8110718853409620863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041390e48ba69b70800000000000000
+      internalID: 8905493900363502595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b57f6969e89a6dc0800000000000000
+      internalID: -3644932820139280969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4087eaec7d8ea10800000000000000
+      internalID: 1939036922273334446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33a206f7f93a6a20800000000000000
+      internalID: 3056319034271376190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073c92707d5532d30800000000000000
+      internalID: 4405459242524984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022645dd72d614150800000000000000
+      internalID: 5855081008542802464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ccf61de9d454f0800000000000000
+      internalID: -840807618095300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d76636d7364e40800000000000000
+      internalID: 5640256976503428919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2752e0430aa5a10800000000000000
+      internalID: 1899006338326164154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d8a19c5604ee080800000000000000
+      internalID: -9156310186487804667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ad4de7d91b3d00800000000000000
+      internalID: 953384161308944608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00328591ff8c3710800000000000000
+      internalID: 1674371429233209354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d463818f9447ba30800000000000000
+      internalID: 4230925826801231056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a4d0788fab7270800000000000000
+      internalID: 8249380143002591807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2d6da875272660800000000000000
+      internalID: 7360893316196281196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8678e083f3127aed0800000000000000
+      internalID: -2402915320771737752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6829779cfb6f5adb0800000000000000
+      internalID: -4781144125804670330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e14a485e44d8110800000000000000
+      internalID: 1264742822924525199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf3f0b66b9538c0800000000000000
+      internalID: -4020136227000550651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad3c514c9f0ccf40800000000000000
+      internalID: 5749987988031159718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162f9a71918aaea0800000000000000
+      internalID: -5860729503241787883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c90011656b899d0800000000000000
+      internalID: -2767261490250474402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a8f6a8c2f24d240800000000000000
+      internalID: 4815525769913534987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67b4c46562a4860800000000000000
+      internalID: 7514861080310150903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc6da7389e07990800000000000000
+      internalID: -7390150237604099038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c501ea795a32d9e0800000000000000
+      internalID: -1598150761775036983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f6eeb110b5e07d0800000000000000
+      internalID: -2950320645559390461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle_UP_LBs_outline_59
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d58538685f652490800000000000000
+      internalID: -7771683156461779495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Angle_UP_LBs_outline_0: 5008292808886156793
+      Angle_UP_LBs_outline_1: -8545598410683964370
+      Angle_UP_LBs_outline_10: -4116907710150143197
+      Angle_UP_LBs_outline_11: -936245555204158000
+      Angle_UP_LBs_outline_12: -4689374406146574717
+      Angle_UP_LBs_outline_13: 1378716249302897100
+      Angle_UP_LBs_outline_14: -2544434235279164215
+      Angle_UP_LBs_outline_15: -1507945042689919654
+      Angle_UP_LBs_outline_16: -2254352542082991942
+      Angle_UP_LBs_outline_17: -2027811585649816503
+      Angle_UP_LBs_outline_18: 543271415455385636
+      Angle_UP_LBs_outline_19: 1847890114797066442
+      Angle_UP_LBs_outline_2: 4289665242300119945
+      Angle_UP_LBs_outline_20: 978219408345374157
+      Angle_UP_LBs_outline_21: 7135823973461027332
+      Angle_UP_LBs_outline_22: -8273134586642223827
+      Angle_UP_LBs_outline_23: 4841050985389613094
+      Angle_UP_LBs_outline_24: -8534097370033079580
+      Angle_UP_LBs_outline_25: -4341794735287226515
+      Angle_UP_LBs_outline_26: -4981434197652463696
+      Angle_UP_LBs_outline_27: 7727145868454067073
+      Angle_UP_LBs_outline_28: 243481659150870956
+      Angle_UP_LBs_outline_29: 7594510535968950383
+      Angle_UP_LBs_outline_3: 7081184119988001768
+      Angle_UP_LBs_outline_30: 6115049727400099173
+      Angle_UP_LBs_outline_31: -8110718853409620863
+      Angle_UP_LBs_outline_32: 8905493900363502595
+      Angle_UP_LBs_outline_33: -3644932820139280969
+      Angle_UP_LBs_outline_34: 1939036922273334446
+      Angle_UP_LBs_outline_35: 3056319034271376190
+      Angle_UP_LBs_outline_36: 4405459242524984176
+      Angle_UP_LBs_outline_37: 5855081008542802464
+      Angle_UP_LBs_outline_38: -840807618095300228
+      Angle_UP_LBs_outline_39: 5640256976503428919
+      Angle_UP_LBs_outline_4: -5041682204536381841
+      Angle_UP_LBs_outline_40: 1899006338326164154
+      Angle_UP_LBs_outline_41: -9156310186487804667
+      Angle_UP_LBs_outline_42: 953384161308944608
+      Angle_UP_LBs_outline_43: 1674371429233209354
+      Angle_UP_LBs_outline_44: 4230925826801231056
+      Angle_UP_LBs_outline_45: 8249380143002591807
+      Angle_UP_LBs_outline_46: 7360893316196281196
+      Angle_UP_LBs_outline_47: -2402915320771737752
+      Angle_UP_LBs_outline_48: -4781144125804670330
+      Angle_UP_LBs_outline_49: 1264742822924525199
+      Angle_UP_LBs_outline_5: -7654798282494145526
+      Angle_UP_LBs_outline_50: -4020136227000550651
+      Angle_UP_LBs_outline_51: 5749987988031159718
+      Angle_UP_LBs_outline_52: -5860729503241787883
+      Angle_UP_LBs_outline_53: -2767261490250474402
+      Angle_UP_LBs_outline_54: 4815525769913534987
+      Angle_UP_LBs_outline_55: 7514861080310150903
+      Angle_UP_LBs_outline_56: -7390150237604099038
+      Angle_UP_LBs_outline_57: -1598150761775036983
+      Angle_UP_LBs_outline_58: -2950320645559390461
+      Angle_UP_LBs_outline_59: -7771683156461779495
+      Angle_UP_LBs_outline_6: -1227978837352198258
+      Angle_UP_LBs_outline_7: -507410481968163081
+      Angle_UP_LBs_outline_8: -4228192899709251926
+      Angle_UP_LBs_outline_9: 4940869387407959906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
