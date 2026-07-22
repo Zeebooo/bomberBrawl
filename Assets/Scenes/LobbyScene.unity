@@ -2742,6 +2742,16 @@ MonoBehaviour:
   clickSfxVolumeSlider: {fileID: 115734588}
   clickSfxVolumeValueText: {fileID: 1118180526}
   surrenderButton: {fileID: 0}
+  fullscreenToggle: {fileID: 0}
+  ButtonAbilityKeyBinding: {fileID: 0}
+  TextAbilityBindingDescription: {fileID: 0}
+  abilityTextChosenKeybind: {fileID: 0}
+  RemoteExplosionBindingsButton: {fileID: 0}
+  TextRemoteExplosionBindingDescription: {fileID: 0}
+  RemoteExplosionTextChosenKeybind: {fileID: 0}
+  dropBombExplosionBindingButton: {fileID: 0}
+  TextDropBombExplosionBindingDescription: {fileID: 0}
+  DropBombExplosionTextChosenKeybind: {fileID: 0}
 --- !u!114 &729261543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3087,6 +3097,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2ee2c887b4a7e45ee87ac0befcbbbfec, type: 2}
   - {fileID: 11400000, guid: 01a82a7c73a234dc5a3d15f1dbce3495, type: 2}
   - {fileID: 11400000, guid: 44fe16151064f47b4ab489d79121e951, type: 2}
+  - {fileID: 11400000, guid: 7c2b90d5fe52346c8adaf6088e0a168e, type: 2}
 --- !u!4 &854865570
 Transform:
   m_ObjectHideFlags: 0

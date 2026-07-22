@@ -312,6 +312,7 @@ Transform:
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 2700619509704083595}
   - {fileID: 2542085574533812851}
   - {fileID: 2955100499421519955}
   - {fileID: 6639336328034681563}
@@ -424,6 +425,7 @@ MonoBehaviour:
   godModeController: {fileID: 22100000, guid: beb104ca5e4ca4da8a0f5c5da1ed9373, type: 2}
   shadowPrefab: {fileID: 5825509249326696103}
   activeShadowPrefab: {fileID: 1287102929305085892}
+  curseSymbolPrefab: {fileID: 8853213948442383360}
 --- !u!114 &3758689510056404025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -534,7 +536,7 @@ Animator:
   m_GameObject: {fileID: 9220478434429692062}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: 280cdf619ba004e099eb7ad603e69e76, type: 2}
+  m_Controller: {fileID: 22100000, guid: eb7a4c599e9e9495695794e31baa8003, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -645,6 +647,73 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MonkAbility
   ShowTopMostFoldoutHeaderGroup: 1
+--- !u!1001 &843208719069243345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3787893937991642057}
+    m_Modifications:
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0017
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.115
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8173825459320222673, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+      propertyPath: m_Name
+      value: curse symbol
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+--- !u!4 &2700619509704083595 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+  m_PrefabInstance: {fileID: 843208719069243345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8853213948442383360 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8173825459320222673, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+  m_PrefabInstance: {fileID: 843208719069243345}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1085431359637660035
 PrefabInstance:
   m_ObjectHideFlags: 0

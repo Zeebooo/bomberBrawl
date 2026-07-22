@@ -42,6 +42,7 @@ public class characterScript : NetworkBehaviour
 	private RuntimeAnimatorController defaultController;
 	[SerializeField] private GameObject shadowPrefab;
 	[SerializeField] private GameObject activeShadowPrefab;
+	[SerializeField] private GameObject curseSymbolPrefab;
 
 	static readonly int runUpHash = Animator.StringToHash("isRunningUp");
 	static readonly int runDownHash = Animator.StringToHash("isRunningDown");
@@ -58,6 +59,7 @@ public class characterScript : NetworkBehaviour
 		shieldPrefab.SetActive(false);
 		torchPrefab.SetActive(false);
 		ability = primaryAbility != null ? primaryAbility : GetComponent<AbilityBase>();
+		curseSymbolPrefab.SetActive(false);
 
 		if (IsOwner)
 		{
@@ -126,7 +128,7 @@ public class characterScript : NetworkBehaviour
 		if (kb == null || ability == null) return;
 
 		string abilityKeyName = PlayerPrefs.GetString("AbilityBind", "Q");
-		if (kb[abilityKeyName] is ButtonControl abilityKey && abilityKey.wasPressedThisFrame)
+		if (!string.IsNullOrEmpty(abilityKeyName) && kb[abilityKeyName] is ButtonControl abilityKey && abilityKey.wasPressedThisFrame)
 		{
 			ability.Activate();
 		}
@@ -320,9 +322,12 @@ public class characterScript : NetworkBehaviour
 	public void addHealth(int amount) => addHealthRpc(amount);
 	public void activateShield() => activateShieldRpc();
 	public void activateGodMode(float duration) => activateGodModeRpc(duration);
+	[Rpc(SendTo.Everyone)]
+	public void changeCurseStatusRpc(bool isActive) => curseSymbolPrefab.SetActive(isActive);
 	public void deactivateGodMode() => deactivateGodModeRpc();
 	public void increaseMovementSpeed(float multiplier) => moveSpeed.Value *= multiplier;
 	public void addMovementSpeed(float amount) => moveSpeed.Value += amount;
+	public void reduceMovementSpeed(float amound) => moveSpeed.Value -= amound;
 	public float getMovementSpeed() => moveSpeed.Value;
 	public int getCurrentHealth() => currentHealth.Value;
 	public int getMaxHealth() => maxHealth.Value;

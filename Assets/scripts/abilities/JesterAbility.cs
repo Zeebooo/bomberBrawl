@@ -24,6 +24,7 @@ public class JesterAbility : AbilityBase
 			GetComponent<MonkAbility>(),
 			GetComponent<FairyAbility>(),
 			GetComponent<GeologistAbility>(),
+			GetComponent<WizardAbility>()
 		};
 	}
 
@@ -54,7 +55,20 @@ public class JesterAbility : AbilityBase
 		}
 		else
 		{
+			if (chosen is WizardAbility wizard)
+			{
+				wizard.setCurseRingVisibility(false);
+			}
+
 			currentAbilityIndex.Value = Random.Range(0, pool.Length);
+			if (currentAbilityIndex.Value == 6) // Wizard
+			{
+				AbilityBase wizardAbility = pool[currentAbilityIndex.Value];
+				if (wizardAbility is WizardAbility wizard2)
+				{
+					wizard2.setCurseRingVisibility(true);
+				}
+			}
 		}
 	}
 }

@@ -46,6 +46,7 @@ public class OptionsUI : MonoBehaviour
 	[SerializeField] private TextMeshProUGUI TextDropBombExplosionBindingDescription;
 	[SerializeField] private TextMeshProUGUI DropBombExplosionTextChosenKeybind;
 
+	[SerializeField] private Button resetKeybindsButton;
 
 	private string keyDescriptionHolder;
 	private bool isWaitingForKeybinds = false;
@@ -116,6 +117,15 @@ public class OptionsUI : MonoBehaviour
 				prepareChangeKeybind(TextDropBombExplosionBindingDescription);
 			});
 		}
+
+		if (resetKeybindsButton != null)
+		{
+			resetKeybindsButton.onClick.AddListener(() =>
+			{
+				SoundManager.Instance.PlayClickSFX(SoundManager.Instance.AudioRefs.positiveClickSFX[0]);
+				ResetKeybindsToDefault();
+			});
+		}
 	}
 
 	private void Start()
@@ -130,19 +140,10 @@ public class OptionsUI : MonoBehaviour
 			ApplyFullscreen(fullscreenToggle.isOn);
 		}
 
-		if (abilityTextChosenKeybind != null)
+		foreach (var slot in GetKeybindSlots())
 		{
-			abilityTextChosenKeybind.text = PlayerPrefs.GetString(ABILITYBIND_KEY, "Q").ToUpper();
-		}
-
-		if (RemoteExplosionTextChosenKeybind != null)
-		{
-			RemoteExplosionTextChosenKeybind.text = PlayerPrefs.GetString(REMOTE_EXPLOSION_BIND_KEY, "Shift").ToUpper();
-		}
-
-		if (DropBombExplosionTextChosenKeybind != null)
-		{
-			DropBombExplosionTextChosenKeybind.text = PlayerPrefs.GetString(DROP_BOMB_EXPLOSION_BIND_KEY, "Space").ToUpper();
+			if (slot.chosenText != null)
+				slot.chosenText.text = DisplayTextForSavedKey(PlayerPrefs.GetString(slot.prefsKey, slot.defaultKey));
 		}
 
 		if (GameStateHandler.Instance == null || !GameStateHandler.Instance.isGameInProgress())
@@ -165,36 +166,49 @@ public class OptionsUI : MonoBehaviour
 		{
 			if (key.wasPressedThisFrame && key != Keyboard.current.escapeKey)
 			{
-				string keyName = key.displayName;
-				if (keyName == "Left Shift")
-					keyName = "Shift";
-				else if (keyName == "Right Shift")
-					keyName = "Shift";
-				else if (keyName == "Left Ctrl")
-					keyName = "Ctrl";
-				else if (keyName == "Right Ctrl")
-					keyName = "Ctrl";
-				else if (keyName == "Left Alt")
-					keyName = "Alt";
-				else if (keyName == "Right Alt")
-					keyName = "Alt";
+				// key.name är den interna, ospråkberoende identifieraren (t.ex. "space", "leftShift") och
+				// används för sparning/uppslagning. key.displayName är lokaliserad av OS:et och används bara för visning.
+				string savedKeyName = key.name;
+				string displayText;
+				if (savedKeyName == "leftShift" || savedKeyName == "rightShift")
+				{
+					savedKeyName = "shift";
+					displayText = "SHIFT";
+				}
+				else if (savedKeyName == "leftCtrl" || savedKeyName == "rightCtrl")
+				{
+					savedKeyName = "ctrl";
+					displayText = "CTRL";
+				}
+				else if (savedKeyName == "leftAlt" || savedKeyName == "rightAlt")
+				{
+					savedKeyName = "alt";
+					displayText = "ALT";
+				}
+				else
+				{
+					displayText = key.displayName.ToUpper();
+				}
 
 				if (TextAbilityBindingDescription.text == "Press any key to bind...")
 				{
-					PlayerPrefs.SetString(ABILITYBIND_KEY, keyName);
-					abilityTextChosenKeybind.text = keyName.ToUpper();
+					ClearCollisions(ABILITYBIND_KEY, savedKeyName);
+					PlayerPrefs.SetString(ABILITYBIND_KEY, savedKeyName);
+					abilityTextChosenKeybind.text = displayText;
 					TextAbilityBindingDescription.text = keyDescriptionHolder;
 				}
 				else if (TextRemoteExplosionBindingDescription.text == "Press any key to bind...")
 				{
-					PlayerPrefs.SetString(REMOTE_EXPLOSION_BIND_KEY, keyName);
-					RemoteExplosionTextChosenKeybind.text = keyName.ToUpper();
+					ClearCollisions(REMOTE_EXPLOSION_BIND_KEY, savedKeyName);
+					PlayerPrefs.SetString(REMOTE_EXPLOSION_BIND_KEY, savedKeyName);
+					RemoteExplosionTextChosenKeybind.text = displayText;
 					TextRemoteExplosionBindingDescription.text = keyDescriptionHolder;
 				}
 				else if (TextDropBombExplosionBindingDescription.text == "Press any key to bind...")
 				{
-					PlayerPrefs.SetString(DROP_BOMB_EXPLOSION_BIND_KEY, keyName);
-					DropBombExplosionTextChosenKeybind.text = keyName.ToUpper();
+					ClearCollisions(DROP_BOMB_EXPLOSION_BIND_KEY, savedKeyName);
+					PlayerPrefs.SetString(DROP_BOMB_EXPLOSION_BIND_KEY, savedKeyName);
+					DropBombExplosionTextChosenKeybind.text = displayText;
 					TextDropBombExplosionBindingDescription.text = keyDescriptionHolder;
 				}
 
@@ -276,6 +290,53 @@ public class OptionsUI : MonoBehaviour
 		isWaitingForKeybinds = true;
 		keyDescriptionHolder = descriptionText.text;
 		descriptionText.text = "Press any key to bind...";
+	}
+
+	private struct KeybindSlot
+	{
+		public string prefsKey;
+		public string defaultKey;
+		public TextMeshProUGUI chosenText;
+	}
+
+	private KeybindSlot[] GetKeybindSlots()
+	{
+		return new[]
+		{
+			new KeybindSlot { prefsKey = ABILITYBIND_KEY, defaultKey = "Q", chosenText = abilityTextChosenKeybind },
+			new KeybindSlot { prefsKey = REMOTE_EXPLOSION_BIND_KEY, defaultKey = "Shift", chosenText = RemoteExplosionTextChosenKeybind },
+			new KeybindSlot { prefsKey = DROP_BOMB_EXPLOSION_BIND_KEY, defaultKey = "Space", chosenText = DropBombExplosionTextChosenKeybind },
+		};
+	}
+
+	private string DisplayTextForSavedKey(string savedKey)
+	{
+		return string.IsNullOrEmpty(savedKey) ? "NONE" : savedKey.ToUpper();
+	}
+
+	// Om den nybundna tangenten redan används av en annan bindning, unbinda den andra helt istället för att låta två actions dela samma tangent.
+	private void ClearCollisions(string prefsKeyBeingSet, string newKeyValue)
+	{
+		foreach (var slot in GetKeybindSlots())
+		{
+			if (slot.prefsKey == prefsKeyBeingSet) continue;
+
+			string existing = PlayerPrefs.GetString(slot.prefsKey, slot.defaultKey);
+			if (existing == newKeyValue)
+			{
+				PlayerPrefs.SetString(slot.prefsKey, "");
+				if (slot.chosenText != null) slot.chosenText.text = "NONE";
+			}
+		}
+	}
+
+	public void ResetKeybindsToDefault()
+	{
+		foreach (var slot in GetKeybindSlots())
+		{
+			PlayerPrefs.SetString(slot.prefsKey, slot.defaultKey);
+			if (slot.chosenText != null) slot.chosenText.text = slot.defaultKey.ToUpper();
+		}
 	}
 
 	public void changeActiveStatus()

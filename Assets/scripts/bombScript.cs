@@ -61,13 +61,13 @@ public class bombScript : NetworkBehaviour
 	private ButtonControl GetRemoteExplosionKey(Keyboard kb)
 	{
 		string keyName = PlayerPrefs.GetString("RemoteExplosionBind", "Shift");
-		return kb[keyName] as ButtonControl;
+		return string.IsNullOrEmpty(keyName) ? null : kb[keyName] as ButtonControl;
 	}
 
 	private ButtonControl GetDropBombExplosionKey(Keyboard kb)
 	{
 		string keyName = PlayerPrefs.GetString("DropBombExplosionBind", "Space");
-		return kb[keyName] as ButtonControl;
+		return string.IsNullOrEmpty(keyName) ? null : kb[keyName] as ButtonControl;
 	}
 
 	void Update()

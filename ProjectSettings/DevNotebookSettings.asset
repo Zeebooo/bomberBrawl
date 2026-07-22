@@ -18,25 +18,31 @@ MonoBehaviour:
   recentItems:
   - notebookGuid: f47c95eb302c21b488451f252c1d8c78
     notebookTitle: Advanced Notebook
+    pageTitle: 
+    sectionIndex: -1
+    pageIndex: -1
+    openedTicksUtc: 639203536226081160
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Remote bomb button
+    sectionIndex: 0
+    pageIndex: 2
+    openedTicksUtc: 639203447664606270
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Tutorial UI
+    sectionIndex: 0
+    pageIndex: 1
+    openedTicksUtc: 639203447645625610
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
     pageTitle: RPC methods
     sectionIndex: 1
     pageIndex: 0
     openedTicksUtc: 639203368937603540
   - notebookGuid: f47c95eb302c21b488451f252c1d8c78
     notebookTitle: Advanced Notebook
-    pageTitle: Tutorial UI
-    sectionIndex: 0
-    pageIndex: 1
-    openedTicksUtc: 639203367718952530
-  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
-    notebookTitle: Advanced Notebook
     pageTitle: Info UI
     sectionIndex: 0
     pageIndex: 0
     openedTicksUtc: 639203367641754440
-  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
-    notebookTitle: Advanced Notebook
-    pageTitle: 
-    sectionIndex: -1
-    pageIndex: -1
-    openedTicksUtc: 639203366143557570

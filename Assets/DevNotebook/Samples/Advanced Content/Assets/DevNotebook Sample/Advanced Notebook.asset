@@ -17,7 +17,7 @@ MonoBehaviour:
     docs, and fuller page bodies for review-heavy projects.
   accentColor: {r: 0.37254903, g: 0.54901963, b: 0.91764706, a: 1}
   sections:
-  - title: Change picture UI
+  - title: UI fixes
     color: {r: 0.37, g: 0.52, b: 0.84, a: 1}
     isPinned: 0
     pages:

@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: wizardData
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDataSO
   characterName: Wizard
-  prefab: {fileID: 9220478434429692062, guid: 8a753ff101f5b493a9a9c28d7db0484f, type: 3}
-  portrait: {fileID: 9220478434429692062, guid: 0071cd331ae3c438a9a2c84061563cce, type: 3}
+  prefab: {fileID: 9220478434429692062, guid: b336a66176f104663948b031d56edff4, type: 3}
+  portrait: {fileID: 9220478434429692062, guid: 706fe499f3d504098a0b663fb16a5a8f, type: 3}
   GUI:
   - {fileID: 147280218, guid: 07617fb332de8444782862c753e2c42b, type: 3}
   - {fileID: -3587990470189293640, guid: 07617fb332de8444782862c753e2c42b, type: 3}
   maxHealth: 2
-  moveSpeed: 5.3
-  explosionRadius: 1.152
+  moveSpeed: 5
+  explosionRadius: 1.1
   maxBombs: 1
   abilityName: 'Ability: Curse'
-  abilityDescription: enter a zen focus for 3 seconds and heal 1 HP. Moving breaks
-    your focus and cancels the ability.
-  abilityCooldown: 16
+  abilityDescription: curse all nearby opponents, reducing their movement speed by
+    50% for 4 seconds.
+  abilityCooldown: 20
   abilityIcon: {fileID: 6731417177886138735, guid: f46cba570912a4a0aa4cb5ec33c084ca, type: 3}
