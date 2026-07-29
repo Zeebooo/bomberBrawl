@@ -425,7 +425,7 @@ MonoBehaviour:
   godModeController: {fileID: 22100000, guid: beb104ca5e4ca4da8a0f5c5da1ed9373, type: 2}
   shadowPrefab: {fileID: 5825509249326696103}
   activeShadowPrefab: {fileID: 7638618201776989023}
-  curseSymbolPrefab: {fileID: 0}
+  curseSymbolPrefab: {fileID: 6596099549308047009}
 --- !u!114 &3758689510056404025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -707,6 +707,11 @@ PrefabInstance:
 --- !u!4 &300726991983284778 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3371273068600405850, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
+  m_PrefabInstance: {fileID: 3090964016169598320}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6596099549308047009 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8173825459320222673, guid: 864f194ef0fcb48bab99d71f282d5ccc, type: 3}
   m_PrefabInstance: {fileID: 3090964016169598320}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6732851271824408626

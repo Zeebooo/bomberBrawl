@@ -250,7 +250,7 @@ Animator:
   m_GameObject: {fileID: 9220478434429692062}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: 280cdf619ba004e099eb7ad603e69e76, type: 2}
+  m_Controller: {fileID: 22100000, guid: eb7a4c599e9e9495695794e31baa8003, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -295,6 +295,10 @@ MonoBehaviour:
       ParameterType: 4
     - name: isDead
       NameHash: 1276664872
+      Synchronize: 1
+      ParameterType: 4
+    - name: isChanneling
+      NameHash: -2124271529
       Synchronize: 1
       ParameterType: 4
   AnimatorParametersExpanded: 0
