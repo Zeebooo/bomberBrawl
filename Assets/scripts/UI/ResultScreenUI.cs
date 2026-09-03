@@ -103,6 +103,12 @@ public class ResultScreenUI : MonoBehaviour
 			if (winningPlayerText != null) winningPlayerText.text = name;
 			if (bigResultText != null) bigResultText.text = $"{name} WINS";
 		}
+		else
+		{
+			if (winningPlayerText != null) winningPlayerText.gameObject.SetActive(false);
+			if (winningPlayerImage != null) winningPlayerImage.gameObject.SetActive(false);
+			if (bigResultText != null) bigResultText.text = "EVERYONE LOSES";
+		}
 
 		// Skapa slots först så layouten hinner beräkna RawImage-storlekar
 		var loserImages = new List<RawImage>();

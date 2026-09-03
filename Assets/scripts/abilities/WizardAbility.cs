@@ -7,9 +7,9 @@ public class WizardAbility : AbilityBase
 	[SerializeField] private SpriteRenderer curseRingRenderer;
 	private characterScript cs;
 	private Animator _animator;
-	private float curseRadius = 3.5f; // 3.5fs
-	private float movementspeedMultiplier = 0.5f;
-	private float abilityDuration = 4f;
+	private float curseRadius = 3.5f; // 3.5f
+	private float movementspeedMultiplier = 0.8f;
+	private float abilityDuration = 3f;
 
 	private void Start()
 	{
@@ -60,7 +60,7 @@ public class WizardAbility : AbilityBase
 
 	private IEnumerator applyCurse(float speedBefore, characterScript otherCs)
 	{
-		float speedReduction = speedBefore * (1f - movementspeedMultiplier);
+		float speedReduction = speedBefore * movementspeedMultiplier;
 		otherCs.reduceMovementSpeed(speedReduction);
 		otherCs.changeCurseStatusRpc(true);
 		yield return new WaitForSeconds(abilityDuration);

@@ -32,8 +32,27 @@ public class WorldEventHandler : NetworkBehaviour
 		eventTimer -= Time.deltaTime;
 		if (testing && Keyboard.current.tKey.wasPressedThisFrame)
 		{
-			eventTimer = 0f;
-			TriggerSwitchRpc(10f, "Switch");
+			characterScript ownCharacter = null;
+			characterScript otherCharacter = null;
+
+			foreach (var character in FindObjectsByType<characterScript>())
+			{
+				if (character.IsOwner)
+				{
+					ownCharacter = character;
+				}
+				else
+				{
+					otherCharacter = character;
+				}
+			}
+
+			if (ownCharacter != null && otherCharacter != null)
+			{
+				Vector3 otherCharacterPosition = otherCharacter.transform.position;
+				ownCharacter.transform.position = otherCharacterPosition;
+			}
+
 		}
 		else if (eventTimer <= 0f)
 		{

@@ -16,14 +16,14 @@ MonoBehaviour:
   prefab: {fileID: 9220478434429692062, guid: b336a66176f104663948b031d56edff4, type: 3}
   portrait: {fileID: 9220478434429692062, guid: 706fe499f3d504098a0b663fb16a5a8f, type: 3}
   GUI:
-  - {fileID: 147280218, guid: 07617fb332de8444782862c753e2c42b, type: 3}
-  - {fileID: -3587990470189293640, guid: 07617fb332de8444782862c753e2c42b, type: 3}
+  - {fileID: -1583207492, guid: 7c9f71483ad78444482d652460cc87b1, type: 3}
+  - {fileID: 1815289096418311899, guid: 7c9f71483ad78444482d652460cc87b1, type: 3}
   maxHealth: 2
   moveSpeed: 5
   explosionRadius: 1.1
   maxBombs: 1
   abilityName: 'Ability: Curse'
   abilityDescription: curse all nearby opponents, reducing their movement speed by
-    50% for 4 seconds.
+    80% for 3 seconds.
   abilityCooldown: 20
-  abilityIcon: {fileID: 6731417177886138735, guid: f46cba570912a4a0aa4cb5ec33c084ca, type: 3}
+  abilityIcon: {fileID: -6027044444922034749, guid: a21ebc8a0343f4218ab428c748ddc071, type: 3}

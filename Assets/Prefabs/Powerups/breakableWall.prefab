@@ -155,7 +155,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.0013610125}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -165,7 +165,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.85, y: 1.15}
+  m_Size: {x: 0.85, y: 1.1527221}
   m_EdgeRadius: 0
 --- !u!114 &408624547610637296
 MonoBehaviour:
@@ -180,14 +180,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::breakableWallScript
   wallBreakEffectPrefab: {fileID: 6849653878317790298, guid: de03965d6513548d29ea787ca2d54d3f, type: 3}
-  commonItemPrefabs:
-  - {fileID: 2370046428502245534, guid: e64a82ccdced149c7acc01c0ab1364a6, type: 3}
-  - {fileID: 155780175140661202, guid: 5f6785e4e494f45a889dabd8ed64f8be, type: 3}
-  - {fileID: 2546522236907479853, guid: 6d1d960fe77ba4f869738090ce5e4b7a, type: 3}
-  - {fileID: 3690708114628439249, guid: 65c819eb3d9b244cb855f2b11690feef, type: 3}
-  rareItemPrefabs:
-  - {fileID: 4033823908879544113, guid: 4d23e608bb8ed41a59e2b1d9d340e069, type: 3}
-  - {fileID: 1002753892725895512, guid: 2422ae1ff9b4d43ff9c479f431be45e9, type: 3}
-  - {fileID: 9078303065098721678, guid: 4ec08ba36a4a54b29b96155fb78d6733, type: 3}
-  legendaryItemPrefabs:
-  - {fileID: 1039065398068043815, guid: 7a6c0106c7459464fb4f558d9b4deadd, type: 3}

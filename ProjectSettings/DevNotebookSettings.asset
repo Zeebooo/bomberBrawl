@@ -18,31 +18,49 @@ MonoBehaviour:
   recentItems:
   - notebookGuid: f47c95eb302c21b488451f252c1d8c78
     notebookTitle: Advanced Notebook
-    pageTitle: Tutorial UI
-    sectionIndex: 0
-    pageIndex: 1
-    openedTicksUtc: 639209281760308063
-  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
-    notebookTitle: Advanced Notebook
     pageTitle: 
     sectionIndex: -1
     pageIndex: -1
-    openedTicksUtc: 639209281649019631
+    openedTicksUtc: 639239554365640990
   - notebookGuid: f47c95eb302c21b488451f252c1d8c78
     notebookTitle: Advanced Notebook
-    pageTitle: Remote bomb button
+    pageTitle: Tutorial UI
     sectionIndex: 0
-    pageIndex: 2
-    openedTicksUtc: 639203447664606270
-  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
-    notebookTitle: Advanced Notebook
-    pageTitle: RPC methods
-    sectionIndex: 1
-    pageIndex: 0
-    openedTicksUtc: 639203368937603540
+    pageIndex: 1
+    openedTicksUtc: 639237608782568040
   - notebookGuid: f47c95eb302c21b488451f252c1d8c78
     notebookTitle: Advanced Notebook
     pageTitle: Info UI
     sectionIndex: 0
     pageIndex: 0
-    openedTicksUtc: 639203367641754440
+    openedTicksUtc: 639237608755901380
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Settings
+    sectionIndex: 2
+    pageIndex: 1
+    openedTicksUtc: 639204316723858750
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Key bindings
+    sectionIndex: 2
+    pageIndex: 0
+    openedTicksUtc: 639204316706523990
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: World events
+    sectionIndex: 2
+    pageIndex: 7
+    openedTicksUtc: 639204316688857750
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: New characters
+    sectionIndex: 2
+    pageIndex: 9
+    openedTicksUtc: 639204316151370210
+  - notebookGuid: f47c95eb302c21b488451f252c1d8c78
+    notebookTitle: Advanced Notebook
+    pageTitle: Bombs
+    sectionIndex: 2
+    pageIndex: 8
+    openedTicksUtc: 639204312484817580

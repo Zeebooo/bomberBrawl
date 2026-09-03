@@ -130,9 +130,9 @@ public class OptionsUI : MonoBehaviour
 
 	private void Start()
 	{
-		musicVolumeSlider.value = PlayerPrefs.GetFloat(MUSIC_VOL_KEY, 1f);
-		sfxVolumeSlider.value = PlayerPrefs.GetFloat(SFX_VOL_KEY, 1f);
-		clickSfxVolumeSlider.value = PlayerPrefs.GetFloat(CLICK_SFX_VOL_KEY, 1f);
+		musicVolumeSlider.value = PlayerPrefs.GetFloat(MUSIC_VOL_KEY, 0.5f);
+		sfxVolumeSlider.value = PlayerPrefs.GetFloat(SFX_VOL_KEY, 0.5f);
+		clickSfxVolumeSlider.value = PlayerPrefs.GetFloat(CLICK_SFX_VOL_KEY, 0.5f);
 
 		if (fullscreenToggle != null)
 		{
